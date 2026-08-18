@@ -62,6 +62,22 @@ Description: 这是一款加强控制中心3x2/4x2播放器美化的插件，隐
 Author: 夜辰
 Name: cc播放器
 
+Package: com.diandian.chajianjieshao
+Version: 0.0.1-17+debug
+Architecture: iphoneos-arm64e
+Maintainer: com.diandian.chajianjieshao
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.diandian.chajianjieshao_0.0.1-17+debug_iphoneos-arm64e.deb
+Size: 3324
+MD5sum: 333cd00faa1d5ca275eef51808353992
+SHA1: 0ab7f0aa0201e1ae68b7c24a8d5630caf5e864b0
+SHA256: 057557362e95b8dac38234479bcd26636918d953f451afd64b2b01d6a0466a40
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: diandian
+Name: com.diandian.chajianjieshao
+
 Package: com.my.lingdongvideo
 Version: 0.1.4.523
 Architecture: iphoneos-arm64
