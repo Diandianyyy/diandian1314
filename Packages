@@ -63,20 +63,20 @@ Author: 夜辰
 Name: cc播放器
 
 Package: com.diandian.chajianjieshao
-Version: 0.0.1-17+debug
-Architecture: iphoneos-arm64e
-Maintainer: com.diandian.chajianjieshao
-Installed-Size: 72
+Version: 0.1
+Architecture: iphoneos-arm64
+Maintainer: dandian
+Installed-Size: 208
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.diandian.chajianjieshao_0.0.1-17+debug_iphoneos-arm64e.deb
-Size: 3324
-MD5sum: 333cd00faa1d5ca275eef51808353992
-SHA1: 0ab7f0aa0201e1ae68b7c24a8d5630caf5e864b0
-SHA256: 057557362e95b8dac38234479bcd26636918d953f451afd64b2b01d6a0466a40
+Filename: debs/com.diandian.chajianjieshao_0.1_iphoneos-arm64.deb
+Size: 864
+MD5sum: 7ee8577c4fa5bf6bb2466698de0031ea
+SHA1: 0e8ae6e7c849373a15a9e529bc033c27ab8000d4
+SHA256: 4e6f32a70516f943a99de7a0fdacf3b72ecf6a7adbfc5167f6b327a0c19ecfdb
 Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
+Description: 仅自己备份使用
 Author: diandian
-Name: com.diandian.chajianjieshao
+Name: 插件仅为自己备份使用
 
 Package: com.my.lingdongvideo
 Version: 0.1.4.523
