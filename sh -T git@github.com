@@ -1,0 +1,13 @@
+http.sslcainfo=/etc/ssl/certs/cacert.pem
+user.name=Diandianyyy
+user.email=1578719930@qq.com
+safe.directory=/rootfs/private/var/mobile/Containers/Shared/AppGroup/.jbroot-56A2F63D0B0D8EB7/var/mobile/devrepo/diandian520
+safe.directory=/rootfs/private/var/mobile/Containers/Shared/AppGroup/.jbroot-56A2F63D0B0D8EB7/var/mobile/devrepo/diandian520
+safe.directory=/rootfs/private/var/mobile/Containers/Shared/AppGroup/.jbroot-56A2F63D0B0D8EB7/var/mobile/Documents/devrepo/diandian520
+safe.directory=/rootfs/private/var/mobile/Containers/Shared/AppGroup/.jbroot-7CE4B8F86BD59EF8/var/mobile/Documents/devrepo/repo
+safe.directory=/rootfs/private/var/mobile/Containers/Shared/AppGroup/.jbroot-7CE4B8F86BD59EF8/var/mobile/Documents/devrepo/repo
+safe.directory=/rootfs/private/var/mobile/Containers/Shared/AppGroup/.jbroot‑7CE4B8F86BD59EF8/var/mobile/Documents/devrepo/repo
+safe.directory=/rootfs/private/var/mobile/Containers/Shared/AppGroup/.jbroot‑7CE4B8F86BD59EF8/var/mobile/Documents/devrepo/repo
+safe.directory=/rootfs/private/var/mobile/Containers/Shared/AppGroup/.jbroot‑7CE4B8F86BD59EF8/var/mobile/Documents/devrepo/repo
+safe.directory=/rootfs/private/var/mobile/Containers/Shared/AppGroup/.jbroot-7CE4B8F86BD59EF8/var/mobile/Documents/devrepo/repo
+safe.directory=/rootfs/private/var/mobile/Containers/Shared/AppGroup/.jbroot-7CE4B8F86BD59EF8/var/mobile/Documents/devrepo/repo
