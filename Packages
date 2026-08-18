@@ -30,6 +30,38 @@ Description: ps：安装之前需要去https://wwg135.github.io/越狱源安装F
 Author: binglan
 Name: 控制中心视频
 
+Package: com.binglan.kongzhidiy
+Version: 2.3.3-end
+Architecture: iphoneos-arm64
+Maintainer: binglan
+Installed-Size: 3028
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: debs/com.binglan.kongzhidiy_2.3.3-end_iphoneos-arm64.deb
+Size: 674584
+MD5sum: 546334e75c474867ef5356a6585bff10
+SHA1: a0081bf5ad537864ed6010bfd4b1b3c78841fd02
+SHA256: 2965455ebb602bb3567d842c738da10af0d59c9c77ce9e02132bb03724525fb3
+Section: Tweaks
+Description: 神秘功能。
+Author: binglan
+Name: 控制中心美化
+
+Package: com.binglan.kzmh
+Version: 2.2.3-END
+Architecture: iphoneos-arm64
+Maintainer: binglan
+Installed-Size: 2088
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: debs/com.binglan.kzmh_2.2.3-END_iphoneos-arm64.deb
+Size: 574496
+MD5sum: 3a52a1308f8f8332c1190eea913a9ddf
+SHA1: ea06e7dfc6790edd53bd0ebdaaab6b422b87ea7d
+SHA256: 520777b8b45dcb47269d4e372c1bb04eca7d266defb8f6d95a8c4703099df18a
+Section: Tweaks
+Description: 神秘功能。
+Author: binglan
+Name: 控制中心美化
+
 Package: com.binglanqjsy.deb
 Version: 3.0.0
 Architecture: iphoneos-arm64
@@ -70,9 +102,9 @@ Installed-Size: 208
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.diandian.chajianjieshao_0.1_iphoneos-arm64.deb
 Size: 864
-MD5sum: 7ee8577c4fa5bf6bb2466698de0031ea
-SHA1: 0e8ae6e7c849373a15a9e529bc033c27ab8000d4
-SHA256: 4e6f32a70516f943a99de7a0fdacf3b72ecf6a7adbfc5167f6b327a0c19ecfdb
+MD5sum: 7694fffef1529ee1ad869cb4f1220294
+SHA1: b03356fb1b7e5e07e17110e18908af46ed468d09
+SHA256: 33273efbb3e1a9b3dbc2501437845e5dbfca8ebc18bd95580f46a540c2a37f84
 Section: Tweaks
 Description: 仅自己备份使用
 Author: diandian
