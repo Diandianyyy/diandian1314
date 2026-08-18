@@ -110,6 +110,42 @@ Description: 仅自己备份使用
 Author: diandian
 Name: 插件仅为自己备份使用
 
+Package: com.hang.kaiguan
+Version: 1.2
+Architecture: iphoneos-arm64e
+Maintainer: 航
+Installed-Size: 624
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: debs/com.hang.kaiguan_1.2_iphoneos-arm64e.deb
+Size: 236122
+MD5sum: 0fb1e182e4a9cd3470e3c1024d47fc5e
+SHA1: f0c3da6d1cbbdf85af86eb3f2ebedcc7a4cfc403
+SHA256: f55ea299f2caed9e4e60660df427621c791c5644d86b2888a14c8c0622a2aa66
+Section: Tweaks
+Description: 自用开关，有问题请卸载。
+Author: 航
+Depiction: https://pic1.imgdb.cn/item/69e5a39901316fbabf2ca364.png
+Icon: https://hang1888.github.io/debs/com.hang.kaiguan-icon.jpg
+Name: 航の开关
+
+Package: com.hang.squidgesturepro-ios17fix
+Version: 2.3
+Architecture: iphoneos-arm64e
+Maintainer: 航
+Installed-Size: 92
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 17.0)
+Conflicts: com.codex.squidgesture17fix
+Filename: debs/com.hang.shoushibuding_0.2_iphoneos-arm64e.deb
+Size: 14942
+MD5sum: 3c941e0431c92d96b9efee635715cc84
+SHA1: 1ec83df36751496447dab25cdafc7719d9db30d6
+SHA256: ecb5cb35b8fa79f0cc957c68208d8239fdca79143b227e275589cc62594d99cd
+Section: Tweaks
+Description: 修复SquidGesturePro在iOS17状态栏不生效与启动快捷指令时导致的安全模式。
+ 不生效就把手势内总开关跟小开关重新开启一下，有问题请卸载。
+Author: 航
+Name: 乌贼手势 iOS 17 补丁
+
 Package: com.my.lingdongvideo
 Version: 0.1.4.523
 Architecture: iphoneos-arm64
