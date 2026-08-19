@@ -181,16 +181,16 @@ Author: 航
 Name: 乌贼手势 iOS 17 补丁
 
 Package: com.kaku.minishelf
-Version: 3.0-1+debug
+Version: 3.0-2+debug
 Architecture: iphoneos-arm64
 Maintainer: Kaku
-Installed-Size: 1108
+Installed-Size: 1184
 Depends: mobilesubstrate
-Filename: debs/com.kaku.minishelf_3.0-1+debug_iphoneos-arm64.deb
-Size: 315570
-MD5sum: d86e230fdad28fc6769b0a9a1e318e6a
-SHA1: c5483f5c5bbc605efa81daeb4abc614924466310
-SHA256: 954eb4889537450fbecf4eb21de8683ae9abe3e8e1bec0a530a20af7a77a965a
+Filename: debs/com.kaku.minishelf_3.0-2+debug_iphoneos-arm64.deb
+Size: 302648
+MD5sum: d5a68066c41f731f3f7e356eb1b81e94
+SHA1: 649f47cdcd7c222d140fba9e34c56fc81f2173c7
+SHA256: e16cac76428f150777af38a2cfa71e4dfc8657cb8d5bb5f060fb5e0a005761d2
 Section: Tweaks
 Description: 消息收纳（语音、表情、动图、文本、文件等）+ 跨会话拖拽 + 原生重发 + 搜索 + 预览 + 交互。
 Author: Kaku
