@@ -110,6 +110,24 @@ Description: 仅自己备份使用
 Author: diandian
 Name: 插件仅为自己备份使用
 
+Package: com.hang.ccbackground
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: 航
+Installed-Size: 928
+Depends: mobilesubstrate
+Filename: debs/com.hang.ccbackground_0.1_iphoneos-arm64e.deb
+Size: 168240
+MD5sum: cd08692a866375f5c9c59cb62711b1e5
+SHA1: 8c42965217ae84e9c46c11efc2080dbe97652902
+SHA256: 1a6912bfc1ec5489e1b0bba027c3ebc796f8f85d82ca5c8f8f8b555e4d417f0d
+Section: Tweaks
+Description: 控制中心背景
+Author: 航
+Depiction: https://pic1.imgdb.cn/item/69e5dc9f198dd6f8d6ac6bd2.png
+Icon: https://pic1.imgdb.cn/item/69e5dc9f198dd6f8d6ac6bd2.png
+Name: 控制中心背景自定义
+
 Package: com.hang.kaiguan
 Version: 1.2
 Architecture: iphoneos-arm64e
