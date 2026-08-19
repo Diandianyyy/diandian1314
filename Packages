@@ -110,22 +110,6 @@ Description: 仅自己备份使用
 Author: diandian
 Name: 插件仅为自己备份使用
 
-Package: com.h.chajian
-Version: 0.0.1-44+debug
-Architecture: iphoneos-arm64e
-Maintainer: h
-Installed-Size: 80
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.h.chajian_0.0.1-44+debug_iphoneos-arm64e.deb
-Size: 9398
-MD5sum: bf4856ecf259b82dc67bfd8b60c3e1e4
-SHA1: 9a8d852b6cfb487b502cbce0b7dec072bbe170d0
-SHA256: ecab1008d7820027174f815b5569bb143961fdb152a720502c9d61449c3f075b
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: h
-Name: chajian
-
 Package: com.hang.ccbackground
 Version: 1.2
 Architecture: iphoneos-arm64
@@ -143,6 +127,22 @@ Author: 航
 Depiction: https://pic1.imgdb.cn/item/69e5dc9f198dd6f8d6ac6bd2.png
 Icon: https://pic1.imgdb.cn/item/69e5dc9f198dd6f8d6ac6bd2.png
 Name: 控制中心背景自定义
+
+Package: com.hang.chajiandengpaotihuan
+Version: 0.0.1-44+debug
+Architecture: iphoneos-arm64e
+Maintainer: hang
+Installed-Size: 80
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.hang.chajiandengpaotihuan_0.0.1-44+debug_iphoneos-arm64e.deb
+Size: 9132
+MD5sum: a0479a861fe58f29650255010e3559c8
+SHA1: cc8da1a11aa096a16689115734b941c800e3d880
+SHA256: 555fc15c796886ea2d36bf57829cbd1393328445637c3f38464c7f598a3cce74
+Section: Tweaks
+Description: 微信第三方插件灯泡更换，被热更新禁止没用就注入一个tp主题ThemePro
+Author: hang
+Name: 微信第三方插件灯泡更换
 
 Package: com.hang.kaiguan
 Version: 1.2
