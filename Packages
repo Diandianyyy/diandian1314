@@ -110,6 +110,22 @@ Description: 仅自己备份使用
 Author: diandian
 Name: 插件仅为自己备份使用
 
+Package: com.h.chajian
+Version: 0.0.1-44+debug
+Architecture: iphoneos-arm64e
+Maintainer: h
+Installed-Size: 80
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.h.chajian_0.0.1-44+debug_iphoneos-arm64e.deb
+Size: 9398
+MD5sum: bf4856ecf259b82dc67bfd8b60c3e1e4
+SHA1: 9a8d852b6cfb487b502cbce0b7dec072bbe170d0
+SHA256: ecab1008d7820027174f815b5569bb143961fdb152a720502c9d61449c3f075b
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: h
+Name: chajian
+
 Package: com.hang.ccbackground
 Version: 1.2
 Architecture: iphoneos-arm64
