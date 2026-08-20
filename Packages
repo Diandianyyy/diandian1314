@@ -245,6 +245,26 @@ Description: 苏苏的桌宠，授权使用!摇一摇唤出面板（switch界面
 Author: SuSu
 Name: SuspendedPets
 
+Package: com.yechen.ccmodulebackground
+Version: 0.2.287
+Architecture: iphoneos-arm64
+Maintainer: 夜辰
+Installed-Size: 9036
+Depends: preferenceloader, mobilesubstrate, com.opa334.ccsupport
+Conflicts: com.codex.ccmodulebackground
+Replaces: com.codex.ccmodulebackground
+Filename: debs/com.yechen.ccmodulebackground_0.2.287_iphoneos-arm64.deb
+Size: 358986
+MD5sum: 51d941d848a22357da9f10a9ffd4b92b
+SHA1: dd32867ea05430d7367654c6506fa718fe0fcd53
+SHA256: f45d7e6ffca80f941c491df7a125d10ea79640fbb7656adec79c47acef82e5a6
+Section: Tweaks
+Description: 自建控制中心原生模块，支持承载系统原生模块、自定义尺寸和背景。
+Tag: role::enduser, purpose::extension, cydia::requires-respring
+Author: 夜辰
+Icon: file:///var/jb/Library/PreferenceBundles/CCModuleBackgroundPrefs.bundle/icon@3x.png
+Name: CC模块背景
+
 Package: com.yechen.dynamicislandring
 Version: 1.1.0
 Architecture: iphoneos-arm64
