@@ -265,6 +265,23 @@ Author: 夜辰
 Icon: file:///var/jb/Library/PreferenceBundles/CCModuleBackgroundPrefs.bundle/icon@3x.png
 Name: CC模块背景
 
+Package: com.yechen.ccplayer
+Version: 1.7.573
+Architecture: iphoneos-arm64e
+Maintainer: 夜辰
+Installed-Size: 2048
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: debs/com.yechen.ccplayer_1.7.573_iphoneos-arm64e.deb
+Size: 9131278
+MD5sum: 4ee02ce001371be21f81ac47946f6ce2
+SHA1: 66e436adf86387ec084948da539b1392b2f0a9db
+SHA256: c02eff852247a8cebd8588ccdc795013bd8be7354e461c7042c677e03146f346
+Section: Tweaks
+Description: 这是一款加强控制中心3x2/4x2播放器美化的插件
+Author: 夜辰
+Name: cc播放器
+
 Package: com.yechen.dynamicislandring
 Version: 1.1.0
 Architecture: iphoneos-arm64
