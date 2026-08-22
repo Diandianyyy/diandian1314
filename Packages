@@ -263,6 +263,23 @@ Description: 苏苏的桌宠，授权使用!摇一摇唤出面板（switch界面
 Author: SuSu
 Name: SuspendedPets
 
+Package: com.wkk.quickprefs
+Version: 1.3.3-1
+Architecture: iphoneos-arm64e
+Maintainer: AnthoPak <anthopakdev@gmail.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>=11.0), mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 11.0)
+Filename: debs/QuickPrefs-1.3.3-1-iphoneos-arm64e.deb
+Size: 538176
+MD5sum: 7019f4979db9ff4af233d2ed8875a97d
+SHA1: 11b6df478385ef3e594027c967e54ad2e96089ca
+SHA256: c3aa6a2d16cb309552a5c22ed13a0c0d81e071685ca19f36811b65931e4871a8
+Section: Tweaks
+Description: 设置里的项目抓取，已汉化，上架备份。
+Author: AnthoPak <anthopakdev@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/01/24/137ad8ab011c468fac23f82c8eb7c050.png
+Name: QuickPrefs
+
 Package: com.yechen.ccmodulebackground
 Version: 0.2.287
 Architecture: iphoneos-arm64
