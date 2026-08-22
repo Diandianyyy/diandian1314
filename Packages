@@ -212,6 +212,24 @@ Description: 为灵动岛音乐播放、展开态和通知场景增加统一视�
 Author: 夜辰
 Name: 灵动岛视频背景
 
+Package: com.sini921.ccborder
+Version: 1.1.2-42
+Architecture: iphoneos-arm64e
+Maintainer: fiore & p2kdev & SINI
+Installed-Size: 1008
+Depends: mobilesubstrate, firmware (>= 16.0)
+Filename: debs/CCBorder(roothide)-1.1.2-42-iphoneos-arm64e (1).deb
+Size: 207532
+MD5sum: 147e010f756f089e90060fd701262708
+SHA1: bb5c97e42618230cbff3736981d87e5afe325c90
+SHA256: d51be8d0bd3b6eb6ed4c6542834a05c7f7ccf529b8ce32db1a5387501515e11b
+Section: 控制中心
+Description: 控制中心调整，基于开源修改编译，去掉了AlderisColorPicker依赖
+Author: fiore & p2kdev & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/ccborder.png
+Name: CCBorder(roothide)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/ccborder/js.json
+
 Package: com.susu.collection
 Version: 1.0
 Architecture: iphoneos-arm64
