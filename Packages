@@ -1,3 +1,19 @@
+Package: com.1111
+Version: 0.0.1-185+debug
+Architecture: iphoneos-arm64
+Maintainer: 111
+Installed-Size: 164
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/炫彩气泡1.1.2-arm64.deb
+Size: 33168
+MD5sum: 107897f0bc946628d341cdee4bf4f26b
+SHA1: 071fceb2ce75c8e9f6b63fa66c5804462bf108eb
+SHA256: 9c4ed46b9390f850c9a1afa913fdc12191393f36386bfac0fe120f6bda37b28d
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: 111
+Name: 111
+
 Package: com.binglan.dongtaidao
 Version: 2.0.5
 Architecture: iphoneos-arm64
