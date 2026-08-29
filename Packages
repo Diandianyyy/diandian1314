@@ -14,6 +14,22 @@ Description: 灵动岛增加视频背景。
 Author: binglan
 Name: 动态岛
 
+Package: com.binglan.dynamicfx
+Version: 1.0.7
+Architecture: iphoneos-arm64
+Maintainer: 冰蓝
+Installed-Size: 868
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Filename: debs/com.binglan.dynamicfx_1.0.7_iphoneos-arm64.deb
+Size: 164388
+MD5sum: b281e4193eeb5462a90337596c890d1f
+SHA1: ea502dd27aca0f0517bdab41ff6fcb24fd9630a9
+SHA256: c58e23132f0f80a3f669ee4051573a769ad03aa09d674c71a8755c40f9a0b81a
+Section: Tweaks
+Description: 灵动岛背景？
+Author: 冰蓝
+Name: DynamicFX
+
 Package: com.binglan.kongzhiBG
 Version: 1.0.1
 Architecture: iphoneos-arm64
