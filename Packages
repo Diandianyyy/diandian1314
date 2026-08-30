@@ -292,6 +292,22 @@ Description: 为灵动岛音乐播放、展开态和通知场景增加统一视�
 Author: 夜辰
 Name: 灵动岛视频背景
 
+Package: com.ngkhoi.26home
+Version: 1.1.7
+Architecture: iphoneos-arm64
+Maintainer: ngkhoi
+Installed-Size: 28628
+Depends: mobilesubstrate
+Filename: debs/com.ngkhoi.26home_1.1.7_iphoneos-arm64.deb
+Size: 19919896
+MD5sum: a7e9b0256d0cf33e8954fa530f5b4276
+SHA1: 95a450691057c9963a5763e3bc30a43a1da79613
+SHA256: 53f8d3465f95107ccd48d6f46d59c7f8698ac5e591592020b9a024516a601294
+Section: Tweaks
+Description: iOS 26 Homescreen customization.
+Author: ngkhoi
+Name: 26Home
+
 Package: com.simon.spectrums
 Version: 2.0
 Architecture: iphoneos-arm64
@@ -453,6 +469,22 @@ Author: Simon
 Name: spectrums
 
 Package: com.simon.spectrums
+Version: 3.0.3
+Architecture: iphoneos-arm64e
+Maintainer: Simon
+Installed-Size: 816
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.simon.spectrums_3.0.3_iphoneos-arm64e 8.deb
+Size: 147996
+MD5sum: 2c66dbad455f51309b4283d3624d8678
+SHA1: d8aefe1d35141d6dba1a66fb7a367ab0230d05f3
+SHA256: 5dad856807f5dd195459f13067cf88f4006f94bd88c224b31868f1db338c7a6c
+Section: Tweaks
+Description: 去掉音轨在17系统上面的小黑块，动感专辑圆环均衡器，17系统不再卑微！
+Author: Simon
+Name: spectrums
+
+Package: com.simon.spectrums
 Version: 3.0.5
 Architecture: iphoneos-arm64e
 Maintainer: Simon
@@ -600,6 +632,22 @@ Size: 9131278
 MD5sum: 4ee02ce001371be21f81ac47946f6ce2
 SHA1: 66e436adf86387ec084948da539b1392b2f0a9db
 SHA256: c02eff852247a8cebd8588ccdc795013bd8be7354e461c7042c677e03146f346
+Section: Tweaks
+Description: 这是一款加强控制中心3x2/4x2播放器美化的插件
+Author: 夜辰
+Name: cc播放器
+
+Package: com.yechen.ccplayer
+Version: 1.7.573
+Architecture: iphoneos-arm64
+Maintainer: 夜辰
+Installed-Size: 2048
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: debs/cc播放器_1.7.573_iphoneos-arm64.deb
+Size: 4292148
+MD5sum: a24e9cd712ce54d661ca9dedba1b963d
+SHA1: b4792d268b565ef73b68335fd26da0533091ce63
+SHA256: dc6cdacbe9ffb92c266adf0daf83ba342f48353aa5ea22329c148fbece3c3b53
 Section: Tweaks
 Description: 这是一款加强控制中心3x2/4x2播放器美化的插件
 Author: 夜辰
