@@ -229,16 +229,16 @@ Author: 夜辰
 Name: 灵动岛视频背景
 
 Package: com.simon.spectrums
-Version: 2.0.1
-Architecture: iphoneos-arm64
+Version: 3.0.2
+Architecture: iphoneos-arm64e
 Maintainer: Simon
 Installed-Size: 784
 Depends: mobilesubstrate, preferenceloader
-Filename: debs/com.simon.spectrums_2.0.1_iphoneos-arm64.deb
-Size: 127628
-MD5sum: 792df9637411bf80a75355bad184a5d2
-SHA1: 53ca0fd44adbf56ff3c0b50e7403e85e29b6d460
-SHA256: 159b1aef95b73845f40f5efe8cdc3415a7d55c59227be93d1229bf9cf014282e
+Filename: debs/com.simon.spectrums_3.0.2_iphoneos-arm64e.deb
+Size: 140648
+MD5sum: 8e11081208a5c1b5d54875faa8f99b82
+SHA1: 8a38ddb2c27b85cdd3c6dbbef23efc603a6d9017
+SHA256: 89f65d11f88a1a8ae1bf9e048695b1e7f36c1559c20f92a5bfa0fbe714465d31
 Section: Tweaks
 Description: 去掉音轨在17系统上面的小黑块，动感专辑圆环均衡器，17系统不再卑微！
 Author: Simon
