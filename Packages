@@ -15,6 +15,22 @@ Author: binglan
 Name: 动态岛
 
 Package: com.binglan.dynamicfx
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Maintainer: 冰蓝
+Installed-Size: 724
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Filename: debs/com.binglan.dynamicfx_1.0.5_iphoneos-arm64.deb
+Size: 106324
+MD5sum: 1d54da6404e0db8fa9953d2b01dd2527
+SHA1: 1ea8923b266cd0964d25ac2b8c70123025160203
+SHA256: da17aee01b053169739d1933895e7d86992111b507d07ff23971cb31eedc56f6
+Section: Tweaks
+Description: 灵动岛视频背景？
+Author: 冰蓝
+Name: DynamicFX
+
+Package: com.binglan.dynamicfx
 Version: 1.0.7
 Architecture: iphoneos-arm64
 Maintainer: 冰蓝
@@ -79,6 +95,22 @@ Author: binglan
 Name: 控制中心美化
 
 Package: com.binglanqjsy.deb
+Version: 3.0.0
+Architecture: iphoneos-arm64
+Maintainer: 冰蓝
+Installed-Size: 908
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.16)
+Filename: debs/com.binglanqjsy.deb_3.0.0_iphoneos-arm64.deb
+Size: 164700
+MD5sum: b5f69b76705c352e5309337ee10efea0
+SHA1: e7f8a07f2cde1ee4fe34a6d89eaa2911da2ca4ce
+SHA256: e0888fb88c29de86ab70d475664c9fa385e02d0d82dbb92bcfe9cf5d2689bfc2
+Section: 冰蓝的插件
+Description: 添加全局水印相关功能，支持截图水印，录屏水印，套壳截图，套壳录屏。
+Author: 冰蓝
+Name: 全局水印
+
+Package: com.binglanqjsy.deb
 Version: 4.1.7-end
 Architecture: iphoneos-arm64
 Maintainer: 冰蓝
@@ -107,6 +139,22 @@ SHA1: 5bc229164fc15f96459691c8b98fd1a6a596345b
 SHA256: 991106b5467c0e02214a1d33c025831a0d61dbaf960f64ddc83109a5fecb23a6
 Section: 夜辰的插件
 Description: 这是一款加强控制中心3x2/4x2播放器美化的插件，隐根版，38.8元激活作者微信Pb_0504_作者QQ：860059661
+Author: 夜辰
+Name: cc播放器
+
+Package: com.codex.ccplayer
+Version: 1.7.226
+Architecture: iphoneos-arm64
+Maintainer: 夜辰
+Installed-Size: 2048
+Depends: firmware (>= 14.0), preferenceloader
+Filename: debs/com.codex.ccplayer_1.7.226_iphoneos-arm64.deb
+Size: 16200664
+MD5sum: c29f1cc87b226e6b602460fe362cd6d6
+SHA1: 29a6a3cb09abb15d80212450bf9eccfe459005df
+SHA256: cad7be006735475f249bfa5d2b0dca1b55258a93d7022c3f06e015c87ef36f8a
+Section: 夜辰的插件
+Description: 这是一款加强控制中心3x2/4x2播放器美化的插件，无根版，38.8元激活作者微信Pb_0504_作者QQ：860059661
 Author: 夜辰
 Name: cc播放器
 
@@ -197,6 +245,22 @@ Author: 航
 Name: 乌贼手势 iOS 17 补丁
 
 Package: com.kaku.minishelf
+Version: 3.0-1+debug
+Architecture: iphoneos-arm64
+Maintainer: Kaku
+Installed-Size: 1352
+Depends: mobilesubstrate
+Filename: debs/com.kaku.minishelf_3.0-1+debug_iphoneos-arm64.deb
+Size: 385980
+MD5sum: 79ba0b75a07655e665f3ddf9d62d3b54
+SHA1: de18fe482de700a15002cb70d5f180cede14c933
+SHA256: dbedb58d8fb8addaa9c174aa98505e0ae750031f4b40b85beac6f45a046c5fe5
+Section: Tweaks
+Description: 消息收纳（语音、表情、动图、文本、文件等）+ 跨会话拖拽 + 原生重发 + 搜索 + 预览 + 交互。
+Author: Kaku
+Name: Kaku Mini Shelf
+
+Package: com.kaku.minishelf
 Version: 3.0-2+debug
 Architecture: iphoneos-arm64
 Maintainer: Kaku
@@ -229,6 +293,70 @@ Author: 夜辰
 Name: 灵动岛视频背景
 
 Package: com.simon.spectrums
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: Simon
+Installed-Size: 768
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.simon.spectrums_2.0_iphoneos-arm64.deb
+Size: 123280
+MD5sum: 3d7d9d93a40bcb30c25e7b3d88dfc312
+SHA1: f7e571374fdb9e3ca6d97e61b425586a38e832de
+SHA256: ee1355a76f6349e76edeb01bcf5d1fcce9a95e8659fe6450ab79c978d6c31b9c
+Section: Tweaks
+Description: 去掉音轨在17系统上面的小黑块，动感专辑圆环均衡器，17系统不再卑微！
+Author: Simon
+Name: spectrums
+
+Package: com.simon.spectrums
+Version: 2.0
+Architecture: iphoneos-arm64e
+Maintainer: Simon
+Installed-Size: 768
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.simon.spectrums_2.0_iphoneos-arm64e.deb
+Size: 123564
+MD5sum: 9bcd2940b5b4650d11c928d554382472
+SHA1: 2289cd4e4b0853f3920dbb221361d4fb45ab0a18
+SHA256: 1be31d3f7a4f57ea223ddda274d0a357b4e027cbb4d31217c48d2f1152385dd9
+Section: Tweaks
+Description: 去掉音轨在17系统上面的小黑块，动感专辑圆环均衡器，17系统不再卑微！
+Author: Simon
+Name: spectrums
+
+Package: com.simon.spectrums
+Version: 2.0.1
+Architecture: iphoneos-arm64
+Maintainer: Simon
+Installed-Size: 784
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.simon.spectrums_2.0.1_iphoneos-arm64.deb
+Size: 127628
+MD5sum: 792df9637411bf80a75355bad184a5d2
+SHA1: 53ca0fd44adbf56ff3c0b50e7403e85e29b6d460
+SHA256: 159b1aef95b73845f40f5efe8cdc3415a7d55c59227be93d1229bf9cf014282e
+Section: Tweaks
+Description: 去掉音轨在17系统上面的小黑块，动感专辑圆环均衡器，17系统不再卑微！
+Author: Simon
+Name: spectrums
+
+Package: com.simon.spectrums
+Version: 2.0.1
+Architecture: iphoneos-arm64e
+Maintainer: Simon
+Installed-Size: 784
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.simon.spectrums_2.0.1_iphoneos-arm64e.deb
+Size: 127464
+MD5sum: 62b9b766929930f3899c03a4f291efb3
+SHA1: c693c2989500bd8d24aa9fa8d02ae68c6c6fd936
+SHA256: 53972b98048d4edd634d2c374e598e558539a865f0bb64e15061b08284fb2cfc
+Section: Tweaks
+Description: 去掉音轨在17系统上面的小黑块，动感专辑圆环均衡器，17系统不再卑微！
+Author: Simon
+Name: spectrums
+
+Package: com.simon.spectrums
 Version: 3.0.2
 Architecture: iphoneos-arm64e
 Maintainer: Simon
@@ -239,6 +367,22 @@ Size: 140648
 MD5sum: 8e11081208a5c1b5d54875faa8f99b82
 SHA1: 8a38ddb2c27b85cdd3c6dbbef23efc603a6d9017
 SHA256: 89f65d11f88a1a8ae1bf9e048695b1e7f36c1559c20f92a5bfa0fbe714465d31
+Section: Tweaks
+Description: 去掉音轨在17系统上面的小黑块，动感专辑圆环均衡器，17系统不再卑微！
+Author: Simon
+Name: spectrums
+
+Package: com.simon.spectrums
+Version: 3.0.2
+Architecture: iphoneos-arm64
+Maintainer: Simon
+Installed-Size: 784
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.simon.spectrums_3.0.2_iphoneos-arm64.deb
+Size: 139716
+MD5sum: 9d644d06d126c2fb82878d26027be421
+SHA1: abf33dba39054d143b124ea1380806308d9b2a83
+SHA256: 58f4f45352c61d4d1679076ba407801c0a5318a7056962bf1817b9f926f54886
 Section: Tweaks
 Description: 去掉音轨在17系统上面的小黑块，动感专辑圆环均衡器，17系统不再卑微！
 Author: Simon
