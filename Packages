@@ -357,6 +357,70 @@ Author: Simon
 Name: spectrums
 
 Package: com.simon.spectrums
+Version: 3.0
+Architecture: iphoneos-arm64
+Maintainer: Simon
+Installed-Size: 736
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.simon.spectrums_3.0_iphoneos-arm64.deb
+Size: 122764
+MD5sum: d6e939874c6c1dd3ade8735a7f84cdbf
+SHA1: ece63e62d888930fd4e4645a0cce59f6fb678f32
+SHA256: 9e13776c72785d79dcc54ab5be2deba6aa5be533f0203e6998e6585a50f424e2
+Section: Tweaks
+Description: 去掉音轨在17系统上面的小黑块，动感专辑圆环均衡器，17系统不再卑微！
+Author: Simon
+Name: spectrums
+
+Package: com.simon.spectrums
+Version: 3.0
+Architecture: iphoneos-arm64e
+Maintainer: Simon
+Installed-Size: 736
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.simon.spectrums_3.0_iphoneos-arm64e.deb
+Size: 122710
+MD5sum: 51d240567813b512cf8a11f40742bc51
+SHA1: 61bc100efd5d9ee3709331e72f7c8a4f69cd81cb
+SHA256: aec5698a00ef39063be44e8f9aa9c1c4044ba1acfdc351ec8e754931d8ba5700
+Section: Tweaks
+Description: 去掉音轨在17系统上面的小黑块，动感专辑圆环均衡器，17系统不再卑微！
+Author: Simon
+Name: spectrums
+
+Package: com.simon.spectrums
+Version: 3.0.1
+Architecture: iphoneos-arm64
+Maintainer: Simon
+Installed-Size: 784
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.simon.spectrums_3.0.1_iphoneos-arm64.deb
+Size: 139354
+MD5sum: f437b5997590525a9c1f2a8901f62e35
+SHA1: a4c612c8682782371d57686948a9cde2e0927a0b
+SHA256: 2d397e50c85be7f6dc3422054cbc098b7a26dfd38e08d591c4d8dde0ab2ce3e5
+Section: Tweaks
+Description: 去掉音轨在17系统上面的小黑块，动感专辑圆环均衡器，17系统不再卑微！
+Author: Simon
+Name: spectrums
+
+Package: com.simon.spectrums
+Version: 3.0.1
+Architecture: iphoneos-arm64e
+Maintainer: Simon
+Installed-Size: 784
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.simon.spectrums_3.0.1_iphoneos-arm64e.deb
+Size: 139294
+MD5sum: 255801ed3a841f75919754570146b3ae
+SHA1: 90fa5763fb081ec73398be3f615ad0707de60830
+SHA256: 8ca1ad2840e0bbd18dbc26190bd538ee0b9cfecd5a0ec9012ac266cdfc447e69
+Section: Tweaks
+Description: 去掉音轨在17系统上面的小黑块，动感专辑圆环均衡器，17系统不再卑微！
+Author: Simon
+Name: spectrums
+
+Package: com.simon.spectrums
 Version: 3.0.2
 Architecture: iphoneos-arm64e
 Maintainer: Simon
@@ -504,6 +568,38 @@ Size: 9131278
 MD5sum: 4ee02ce001371be21f81ac47946f6ce2
 SHA1: 66e436adf86387ec084948da539b1392b2f0a9db
 SHA256: c02eff852247a8cebd8588ccdc795013bd8be7354e461c7042c677e03146f346
+Section: Tweaks
+Description: 这是一款加强控制中心3x2/4x2播放器美化的插件
+Author: 夜辰
+Name: cc播放器
+
+Package: com.yechen.ccplayer
+Version: 1.7.591
+Architecture: iphoneos-arm64
+Maintainer: 夜辰
+Installed-Size: 2048
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: debs/cc播放器_1.7.591_iphoneos-arm64.deb
+Size: 4329832
+MD5sum: c2ef0564551434e48defef975fb59df2
+SHA1: ad1eac4391e143860dcf2e32fe9e07406ea2b3be
+SHA256: 12d7ff3844621366de20ddfab00e0354ab359f55b1556e4a46f3a01bded02931
+Section: Tweaks
+Description: 这是一款加强控制中心3x2/4x2播放器美化的插件
+Author: 夜辰
+Name: cc播放器
+
+Package: com.yechen.ccplayer
+Version: 1.7.591
+Architecture: iphoneos-arm64e
+Maintainer: 夜辰
+Installed-Size: 2048
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: debs/cc播放器_1.7.591_roothide_iphoneos-arm64e.deb
+Size: 4329832
+MD5sum: 1a72a5dc4dd28d7e1e84ed5041d3e5fa
+SHA1: 38a51bdef05ded9c7eb0d17f84b96e452e06613e
+SHA256: cab22ab601a2e517ca10e9af58e4eb4a3e6ae0e76f1904d206ac4afaf734c120
 Section: Tweaks
 Description: 这是一款加强控制中心3x2/4x2播放器美化的插件
 Author: 夜辰
