@@ -516,6 +516,38 @@ Description: 去掉音轨在17系统上面的小黑块，动感专辑圆环均�
 Author: Simon
 Name: spectrums
 
+Package: com.simon.spectrums
+Version: 3.1.1
+Architecture: iphoneos-arm64
+Maintainer: Simon
+Installed-Size: 1332
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.simon.spectrums_3.1.1_iphoneos-arm64.deb
+Size: 207060
+MD5sum: abc91b709c23fec4d53e9f292620be09
+SHA1: 3b7726cae1870c4067451f2e932257f46e989f53
+SHA256: f50f99b48bd6b3fce2539ec89a1410f866d665f17883dd67acfdc104e46cbbd5
+Section: Tweaks
+Description: 去掉音轨在17系统上面的小黑块，动感专辑圆环均衡器，17系统不再卑微！
+Author: Simon
+Name: spectrums
+
+Package: com.simon.spectrums
+Version: 3.1.1
+Architecture: iphoneos-arm64e
+Maintainer: Simon
+Installed-Size: 1332
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.simon.spectrums_3.1.1_iphoneos-arm64e.deb
+Size: 206802
+MD5sum: 2dfdd3675a3c644f2a951d51d8800713
+SHA1: 0f9db31a852845f890c98fc89380df3c4c71bd0c
+SHA256: f27b7467dd4add638a3368c59b99d0a50b3f9c2031e887c514a581ed881b969f
+Section: Tweaks
+Description: 去掉音轨在17系统上面的小黑块，动感专辑圆环均衡器，17系统不再卑微！
+Author: Simon
+Name: spectrums
+
 Package: com.sini921.ccborder
 Version: 1.1.2-42
 Architecture: iphoneos-arm64e
@@ -696,6 +728,22 @@ Size: 4396228
 MD5sum: 6763d52a92e0ca1e8dabbd7d58c579f1
 SHA1: 78d60729d7f28fb78664297fed6a5d0efe486473
 SHA256: 3a2a3b630e13dd6a9535aa66f1d1cb1ea8bd5d6cd89130ef5f2f51f359d9160e
+Section: Tweaks
+Description: 这是一款加强控制中心3x2/4x2播放器美化的插件
+Author: 夜辰
+Name: cc播放器
+
+Package: com.yechen.ccplayer
+Version: 1.7.626
+Architecture: iphoneos-arm64
+Maintainer: 夜辰
+Installed-Size: 2048
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: debs/cc播放器_1.7.626_iphoneos-arm64.deb
+Size: 4349076
+MD5sum: 80dbbf29efe2ec4a58d7d983c275b4e3
+SHA1: d917eacb0c0be58d997fa10686af110d0f5b7808
+SHA256: e09350e4214ed425bf1d90afecb4d96f2d665d38d2251f9b12dca6d1c4d9485d
 Section: Tweaks
 Description: 这是一款加强控制中心3x2/4x2播放器美化的插件
 Author: 夜辰
