@@ -548,6 +548,22 @@ Description: 去掉音轨在17系统上面的小黑块，动感专辑圆环均�
 Author: Simon
 Name: spectrums
 
+Package: com.simon.spectrums
+Version: 3.1.2
+Architecture: iphoneos-arm64
+Maintainer: Simon
+Installed-Size: 1348
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.simon.spectrums_3.1.2_iphoneos-arm64.deb
+Size: 215688
+MD5sum: 7260a0e1a4cedb020615251c853b4e20
+SHA1: 6191f419b4aded58c12ad98913380e78919e0570
+SHA256: e454d6659c33d30acca82f760f7849de809c5c23aef5541a463f9041ac3df94c
+Section: Tweaks
+Description: 去掉音轨在17系统上面的小黑块，动感专辑圆环均衡器，17系统不再卑微！
+Author: Simon
+Name: spectrums
+
 Package: com.sini921.ccborder
 Version: 1.1.2-42
 Architecture: iphoneos-arm64e
