@@ -340,6 +340,38 @@ Description: 控制中心亮度/音量滑块布局、填充、百分比字体颜
 Author: Simon
 Name: SliderForge
 
+Package: com.simon.sliderforge
+Version: 1.0.1
+Architecture: iphoneos-arm64e
+Maintainer: Simon
+Installed-Size: 468
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.simon.sliderforge_1.0.1_iphoneos-arm64e.deb
+Size: 50924
+MD5sum: 0f2300ae859e0aa3c3e0be1e9ce13a8f
+SHA1: fca2ab31f2d0273e7cfc035724ad65fc5bcd8e05
+SHA256: aef55e38a3a5d7dd8c5902306a2ae45e458fed7351ce83ae215c009cec267ed8
+Section: Tweaks
+Description: 控制中心亮度/音量滑块布局、填充、百分比字体颜色与自定义。
+Author: Simon
+Name: SliderForge
+
+Package: com.simon.sliderforge
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: Simon
+Installed-Size: 468
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.simon.sliderforge_1.0.1_iphoneos-arm64.deb
+Size: 50938
+MD5sum: d868f33a23a00abb7e63491766c99f05
+SHA1: 303478e26b1b8b96a7bbab4c1e2a44169ca1fa27
+SHA256: 3466cd5b1718880bc38b8dfbe4bdac6c3435dd20bfebb6680e8c9401e6e054de
+Section: Tweaks
+Description: 控制中心亮度/音量滑块布局、填充、百分比字体颜色与自定义。
+Author: Simon
+Name: SliderForge
+
 Package: com.simon.spectrums
 Version: 2.0
 Architecture: iphoneos-arm64
