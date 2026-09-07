@@ -308,6 +308,38 @@ Description: iOS 26 Homescreen customization.
 Author: ngkhoi
 Name: 26Home
 
+Package: com.simon.sliderforge
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: Simon
+Installed-Size: 468
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.simon.sliderforge_1.0.0_iphoneos-arm64e (1).deb
+Size: 48152
+MD5sum: 67eb8f55a0bf081ceb8717fba7d4f972
+SHA1: 195c60c01a932383b9b4547e8b425f40dea79fe4
+SHA256: 79d0d4f798a5a446049455697518872b8e92de6f872d4d49fa3d4c0277010691
+Section: Tweaks
+Description: 控制中心亮度/音量滑块布局、填充、百分比字体颜色与自定义。
+Author: Simon
+Name: SliderForge
+
+Package: com.simon.sliderforge
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Simon
+Installed-Size: 468
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.simon.sliderforge_1.0.0_iphoneos-arm64.deb
+Size: 48308
+MD5sum: 769a28aa3b9aaa5d4c6ac5d1afdaca9e
+SHA1: 02a1fa5d7bf307cb586aa9a58f40908b4acee812
+SHA256: aa9c3b6e75ee7dd70ba8eb46f33cd87a95af7959096420417f0b35de0ee7f7c0
+Section: Tweaks
+Description: 控制中心亮度/音量滑块布局、填充、百分比字体颜色与自定义。
+Author: Simon
+Name: SliderForge
+
 Package: com.simon.spectrums
 Version: 2.0
 Architecture: iphoneos-arm64
