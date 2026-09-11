@@ -260,6 +260,23 @@ Description: 转转搜索筛选助手：悬浮球面板，按机型/电池/系�
 Author: hang
 Name: 转转找鸡
 
+Package: com.hang.zzzj
+Version: 0.0.1-8+debug
+Architecture: iphoneos-arm64e
+Maintainer: hang
+Installed-Size: 180
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/转转筛选-arm64 (1).deb
+Size: 47412
+MD5sum: 880240ec0a6e2f5f686a4beced5216c5
+SHA1: 76c2c9bc0052f1a0bdaba3c7737b651fe86a76e7
+SHA256: ff274f49c7f8fba96bd5132317b6e267487572b3e8fd87251f907fe9dd6d366a
+Section: Tweaks
+Description: 转转搜索筛选助手：悬浮球面板，按机型/电池/系统版本/成色筛选，带复制链接
+Author: hang
+Name: 转转找鸡
+
 Package: com.kaku.minishelf
 Version: 3.0-1+debug
 Architecture: iphoneos-arm64
