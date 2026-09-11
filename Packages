@@ -165,14 +165,14 @@ Maintainer: dandian
 Installed-Size: 208
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.diandian.chajianjieshao_0.1_iphoneos-arm64.deb
-Size: 864
-MD5sum: 7694fffef1529ee1ad869cb4f1220294
-SHA1: b03356fb1b7e5e07e17110e18908af46ed468d09
-SHA256: 33273efbb3e1a9b3dbc2501437845e5dbfca8ebc18bd95580f46a540c2a37f84
+Size: 872
+MD5sum: 3c476b40c1cdf157d687351523037324
+SHA1: 5a5e2fe6434b1f882acb2f482759db056f21a08b
+SHA256: 0ae7c5622f33f70d3f16f99e3f32824a003092ed35dd8ad94a57880e0d13dff4
 Section: Tweaks
 Description: 仅自己备份使用
 Author: diandian
-Name: 插件仅为自己备份使用
+Name: AAA插件仅为自己备份使用
 
 Package: com.hang.ccbackground
 Version: 1.2
