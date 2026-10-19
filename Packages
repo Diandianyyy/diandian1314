@@ -984,6 +984,40 @@ Name: OneStepX
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 
+Package: com.wkk.recordeyex
+Architecture: iphoneos-arm64
+Version: 1.0-5
+Section: Tweaks
+Maintainer: wkk
+Installed-Size: 532
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: debs/com.wkk.recordeyex_1.0-5_iphoneos-arm64.deb
+Size: 70610
+MD5sum: d24621f390623fcca51619f48ee007d7
+SHA1: b0c8ae9799b46c0b8bb102029351926030b8c317
+SHA256: 0907150ed7602eb6656c2d24b6fe0b19e581db732ad2b86408cd2a11c13ecb59
+SHA512: 7587d85281bd62fa61ae1baa2509400d50bbeea8dbdb6222e53b5690fa11462f544385928d71931318b950e5e3cec0166b18071b40954e959f694877ec08b1e0
+Description: 自定义快捷录屏的灵动岛录制指示点。
+Name: RecordEyeX
+Author: wkk
+
+Package: com.wkk.recordeyex
+Architecture: iphoneos-arm64e
+Version: 1.0-5
+Section: Tweaks
+Maintainer: wkk
+Installed-Size: 532
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: debs/com.wkk.recordeyex_1.0-5_iphoneos-arm64e.deb
+Size: 67842
+MD5sum: 69719757c38fec9d8d1723a97f104785
+SHA1: 6abcd6143a1fa2a6f7e0ce0ee6a430be116c1b0c
+SHA256: 443fe8239a691db435fe1e4872e0e6cbdc12d9565b5cecc3ab8a15528cb9b844
+SHA512: a8f4b4bdac2512fe6f9ffc3a83a43f53c17735150c38ea9c94a1ddf07ac641ced5690a0d913972f042e4e23b46b80c4625f7e2395b0fdfb273378a43993ba979
+Description: 自定义快捷录屏的灵动岛录制指示点。
+Name: RecordEyeX
+Author: wkk
+
 Package: com.wkk.systembox
 Architecture: iphoneos-arm64
 Version: 1.5-8end
