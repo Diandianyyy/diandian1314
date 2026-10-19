@@ -430,6 +430,22 @@ Author: AnthoPak <anthopakdev@gmail.com>
 Icon: https://s1.imagehub.cc/images/2025/01/24/137ad8ab011c468fac23f82c8eb7c050.png
 Name: QuickPrefs
 
+Package: com.wkk.recordeyex
+Version: 1.0-5
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 532
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: debs/com.wkk.recordeyex_1.0-5_iphoneos-arm64.deb
+Size: 70610
+MD5sum: d24621f390623fcca51619f48ee007d7
+SHA1: b0c8ae9799b46c0b8bb102029351926030b8c317
+SHA256: 0907150ed7602eb6656c2d24b6fe0b19e581db732ad2b86408cd2a11c13ecb59
+Section: Tweaks
+Description: 自定义快捷录屏的灵动岛录制指示点。
+Author: wkk
+Name: RecordEyeX
+
 Package: com.wkk.systembox
 Version: 1.5-8end
 Architecture: iphoneos-arm64
