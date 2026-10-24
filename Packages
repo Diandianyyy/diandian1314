@@ -120,6 +120,23 @@ Description: 这是一款加强控制中心3x2/4x2播放器美化的插件
 Name: cc播放器
 Author: 夜辰
 
+Package: com.yechen.ccplayer
+Architecture: iphoneos-arm64
+Version: 1.7.653
+Section: Tweaks
+Maintainer: 夜辰
+Installed-Size: 2048
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: debs/cc播放器_1.7.653_iphoneos-arm64.deb
+Size: 4287948
+MD5sum: 72309b62f200690fad8f52f65c6d5ba8
+SHA1: 3864601dfcf1e07a50df71041553dcd530994893
+SHA256: 865569a29ccf56f59e3b1aee5c2814063294621669365aecc148b43341320242
+SHA512: 5f261c5ab0eb185e8f045397facef0ce08e387902bdec965326f74a69a86d88feb4a872eae6d54856e0740c10d03904ee300b7a3a47f91464a58d0d25d8effae
+Description: 这是一款加强控制中心3x2/4x2播放器美化的插件
+Name: cc播放器
+Author: 夜辰
+
 Package: com.binglan.dongtaidao
 Architecture: iphoneos-arm64
 Version: 2.0.5
