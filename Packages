@@ -501,6 +501,23 @@ Description: iOS 26 Homescreen customization.
 Name: 26Home
 Author: ngkhoi
 
+Package: com.opa334.trollstorelite
+Architecture: iphoneos-arm64e
+Version: 2.1.1-2
+Section: Applications
+Maintainer: opa334
+Installed-Size: 11424
+Filename: debs/com.opa334.trollstorelite_2.1.1-2_iphoneos-arm64e.deb
+Size: 3680044
+MD5sum: 528f3e52ed189698309c6813e8d12d14
+SHA1: da76765445c4753c3f7a03fb895da658900279fd
+SHA256: 8e42602be26cec056bc309c9fe2767324642468a7a3c8a880bf76d70604cc732
+SHA512: e4b8cf9f9c92ce0391ae709c3dc377837b3ef46a300437b40bed4cad32eb25f7cac5627d99d8ebefc5a16e111301ed3e5e21ee5c10452c92bbb60c9d8e1ccf17
+Description: 魔改版巨魔（直接内置了魔改 rar 包），汉化安装刀刀源汉化包即可
+Name: TrollStore Lite
+Author: opa334&iosdump
+icon: https://huayuarc.github.io/icon/trollstorehelper.png
+
 Package: com.simon.sliderforge
 Architecture: iphoneos-arm64
 Version: 1.0.0
@@ -1251,4 +1268,23 @@ Description: Minimal design without compromise
 Name: Akara
 Author: Tr1Fecta & Kennyroo <xuanhua880@gmail.com>
 Icon: https://img.chariz.cloud/icon/akara/icon@3x.png
+
+Package: com.xybp888.callassist16.dopamine
+Architecture: iphoneos-arm64
+Version: 1.6.3
+Priority: optional
+Section: 你的iPhone不止于此
+Maintainer: xybp888
+Depends: firmware (>= 15.0), preferenceloader, com.opa334.libsandy
+Filename: debs/电话助手iOS16-正式版(完整越狱)-1.6.3-iphoneos-arm64.deb
+Size: 2713688
+MD5sum: e7424f098accf3768fb8db9d22c7d628
+SHA1: 2c365f5d42a687b5a2289331284fb0e0472c9d3e
+SHA256: 288261e094a04342538ab260d11dd4b0094b4b68c4047df7459f00f40faa96cc
+SHA512: 7dbae80b8389ff8a390e67b5ce07ea7d43666750a54e91aaa0fbfff4bc12341ddec5d8f74b0d45f33cfc20d30c87b90e150cb8d31397cbbc222b0093c67cd01d
+Description: 电话助手授权版本,通话录音,通话记录合并,T9双卡选卡拨号键盘,短信双卡选卡,来去电归属地,黑名单,骚扰拦截,状态栏图标替换,时间格式修改,常用小功能等强大插件
+Name: 电话助手iOS16-正式版(完整越狱)
+Author: xybp888
+Depiction: https://apt.htv123.com/view/132
+SileoDepiction: https://apt.htv123.com/sileo/132
 
