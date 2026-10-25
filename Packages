@@ -503,17 +503,17 @@ Author: ngkhoi
 
 Package: com.opa334.trollstorelite
 Architecture: iphoneos-arm64e
-Version: 2.1.1-2
+Version: 2.1.1-3
 Section: Applications
 Maintainer: opa334
 Installed-Size: 11424
-Filename: debs/com.opa334.trollstorelite_2.1.1-2_iphoneos-arm64e.deb
-Size: 3680044
-MD5sum: 528f3e52ed189698309c6813e8d12d14
-SHA1: da76765445c4753c3f7a03fb895da658900279fd
-SHA256: 8e42602be26cec056bc309c9fe2767324642468a7a3c8a880bf76d70604cc732
-SHA512: e4b8cf9f9c92ce0391ae709c3dc377837b3ef46a300437b40bed4cad32eb25f7cac5627d99d8ebefc5a16e111301ed3e5e21ee5c10452c92bbb60c9d8e1ccf17
-Description: 魔改版巨魔（直接内置了魔改 rar 包），汉化安装刀刀源汉化包即可
+Filename: debs/com.opa334.trollstorelite_2.1.1-3_iphoneos-arm64e.deb
+Size: 3678724
+MD5sum: 845214d144b6fdbeedaa369ad34ba330
+SHA1: 5856cc2ee8cb83a2c17de67923a8298d5c8cb548
+SHA256: e614164902365270d2ae375b64466f1d785a6d747cb90971f2124a27c6a05e58
+SHA512: 9b142b621baa29c820e11322d79327ed00ac9a625037945f8aa52e228d1cf7ab7e7340d374a3ba56b931c42663e16add974939900595af56528d6724799d9fd9
+Description: 魔改版白巨魔（相当于直接内置了魔改 rar包➕汉化，无需单独安装刀刀的汉化包
 Name: TrollStore Lite
 Author: opa334&iosdump
 icon: https://huayuarc.github.io/icon/trollstorehelper.png
