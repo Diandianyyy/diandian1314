@@ -35,6 +35,25 @@ Name: QuickPrefs
 Icon: https://s1.imagehub.cc/images/2025/01/24/137ad8ab011c468fac23f82c8eb7c050.png
 Author: AnthoPak <anthopakdev@gmail.com>
 
+Package: cn.llld.snapshottool
+Architecture: iphoneos-arm64
+Version: 4.7.0.30
+Section: rootless应用插件
+Maintainer: 来了老弟
+Installed-Size: 1856
+Depends: mobilesubstrate
+Filename: debs/STTool_4.7.0.30_全屏水印-arm64.deb
+Size: 732540
+MD5sum: 0e97d63042caeb1681aa049e10428198
+SHA1: 905256bb99033ae608d042e57bb890bfbc480717
+SHA256: 71717a7158f2ed08ad618285d4116457c1922ac52616711383f18b2393040acc
+SHA512: a6c9dd154a5f1e81616f53d43ff00c470d25b2c88ee3f0c6b39325e29cafbe9464fc97fd078bf72e59497b2746f37108914bbce2a9558c3026b7900f91d094f1
+Description: ---对于应用软件的图片，（AI编辑图，AI文生图等，无水印拿图，直接分享，复制到剪切板，图片分割，文字水印，涂鸦，截图，保存到相册，圆角处理，直接马赛克等功能，特意支持telegram,nicegram,swiftgram等应用，禁止截图或私密群组的图片保存到粘贴板和相册）。***(商店应用有百万千万级，非100%应用或场景支持，不可能挨个应用测试)***
+Name: STTool
+Author: 来了老弟
+Icon: file:///var/jb/Library/PreferenceBundles/SnapshotToolprefs.bundle/icons-llld/SnapshotTool.png
+SileoDepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.snapshottool/snapshottool.json
+
 Package: com.yechen.ccplayer
 Architecture: iphoneos-arm64
 Version: 1.7.573
@@ -136,6 +155,25 @@ SHA512: 5f261c5ab0eb185e8f045397facef0ce08e387902bdec965326f74a69a86d88feb4a872e
 Description: 这是一款加强控制中心3x2/4x2播放器美化的插件
 Name: cc播放器
 Author: 夜辰
+
+Package: cn.llld.qsyy
+Architecture: iphoneos-arm64
+Version: 2.3.1-2
+Section: rootless应用插件
+Maintainer: 来了老弟
+Installed-Size: 4964
+Depends: mobilesubstrate (>= 0.9.5000) , firmware (>= 14.0), preferenceloader, com.opa334.altlist
+Filename: debs/cn.llld.qsyy_2.3.1-2_iphoneos-arm64 (1).deb
+Size: 1948510
+MD5sum: 1720ab44620d5ea52305ef36a9f87ead
+SHA1: 898ec66e5a3061a3ce5e20ba5c98fdf432240f9c
+SHA256: 1ace250928a82e39ab3a9f146680ffa70ecdfcbe12a624d334bdfbfbd022e60f
+SHA512: 38ca8e871d71c76a0484ed2e0204453466407b9921835c3e01e15f9a5b44989d0141ae93903656f9553e87fde093927f926b54c1fee23f25dbb16210f3b19c1a
+Description: ***一款支持批量替换文本的悬浮窗工具***，使用说明：悬浮窗内填写：文本替换前===文本替换后，===是替换符。使用场景：修改通话时间，修改联系人，修改通话记录，翻译替换文本，自定义文字替换，自定义文字大小，自定义文字视图宽度，高度，自定义文字视图横向纵向的坐标，自定义文字颜色，自定义文字字体，自定义文字透明度，隐藏设备实际信息，靓仔装逼等，这只是应用类插件，不会影响到系统全局或桌面。
+Name: FT悬浮文本增强替换翻译汉化
+Author: 来了老弟
+Icon: file:///var/jb/Library/PreferenceBundles/fyllldprefs.bundle/icons-llld/fyxf.png
+SileoDepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.qsyy/fy.json
 
 Package: com.binglan.dongtaidao
 Architecture: iphoneos-arm64
