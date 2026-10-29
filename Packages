@@ -1307,6 +1307,24 @@ Name: Akara
 Author: Tr1Fecta & Kennyroo <xuanhua880@gmail.com>
 Icon: https://img.chariz.cloud/icon/akara/icon@3x.png
 
+Package: com.taoxi.ccrescale
+Architecture: iphoneos-arm64
+Version: 5.2.0-43
+Section: Tweaks
+Maintainer: ZuoTian
+Installed-Size: 484
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/控制中心比例调整.deb
+Size: 116874
+MD5sum: 075ca75acd434da2710a07eace6625e6
+SHA1: 437ade6a0e6e5d9b7cdeae994b645a98614fa518
+SHA256: bf1e801824caa17f3224165056892a7330ad892e0b6660065b3f570e6aa4cd36
+SHA512: d4e1b00834f4ba5eba8ea3b5889f47d45e3428c50edd97d01189d8a103a3216d8233284a6a4f3cf20d75510f9589ffb5b85f93bb1ed0d53ad1f56a15c743cee9
+Description: 整体缩放控制中心并保持原比例居中显示
+Name: 控制中心缩放
+Author: ZuoTian
+Icon: https://i.imgs.ovh/2026/10/28/3e6a440deb9a3cf04f41802f5695d515.png
+
 Package: com.xybp888.callassist16.dopamine
 Architecture: iphoneos-arm64
 Version: 1.6.3
