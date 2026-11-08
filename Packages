@@ -17,6 +17,42 @@ Author: fiore & p2kdev & SINI
 Icon: https://sini921.github.io/repo/sileodepiction/icon/ccborder.png
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/ccborder/js.json
 
+Package: cn.llld.floatplayer
+Architecture: iphoneos-arm64e
+Version: 1.5.24
+Section: Tweaks
+Maintainer: 来了老弟
+Installed-Size: 2428
+Depends: mobilesubstrate, firmware (>= 14.0), com.opa334.ccsupport
+Filename: debs/FP悬浮播放器_1.5.24-隐根-arm64e.deb
+Size: 424996
+MD5sum: 87f4f758874515854bbfa2fcc597cb63
+SHA1: c8adefb288abd02032153b39737db6fd07d8daa0
+SHA256: b4a7301bd0934ab856ac074eb5139f0472b4a4d1c25dc1fa1e00511c438429a4
+SHA512: dae3e682eb4d2cc425b8a1255f896285502aea8ab09fd891a0503aaa944c9c913a81e5f29585b5901b844acbaa885a4a9a7ef005d43a43ad9a32bf97c47b2e2f
+Description: SpringBoard 系统级悬浮音视频播放器，支持媒体导入、路径扫描、播放列表、倍速、侧边拉手和控制中心。无需注册登陆就播放某些厂音乐和下载。
+Name: FP悬浮播放器
+Author: 来了老弟
+Icon: file:///var/jb/Library/PreferenceBundles/FloatPlayerPrefs.bundle/icons-llld/icon@2x.png
+
+Package: cn.llld.floatplayer
+Architecture: iphoneos-arm64
+Version: 1.5.24
+Section: Tweaks
+Maintainer: 来了老弟
+Installed-Size: 2428
+Depends: mobilesubstrate, firmware (>= 14.0), com.opa334.ccsupport
+Filename: debs/FP悬浮播放器_1.5.24_无根-arm64.deb
+Size: 428908
+MD5sum: 279226af5a5c953ca5f390621b79d056
+SHA1: 0002bef13e46427d30c241d6b18490af88c0d57f
+SHA256: a472c1c6cda863f48cfae9e337e21489e85b839ffa6e01d6a2bc250f482e45bd
+SHA512: b944e8f9a9301ce7b0f92ee393a16bc227c8da211650df14719cb8af327d28d07faf2404f35fda285962e8eb0fd8cfca093b12f89b5a81132968b1f24276ab24
+Description: SpringBoard 系统级悬浮音视频播放器，支持媒体导入、路径扫描、播放列表、倍速、侧边拉手和控制中心。无需注册登陆就播放某些厂音乐和下载。
+Name: FP悬浮播放器
+Author: 来了老弟
+Icon: file:///var/jb/Library/PreferenceBundles/FloatPlayerPrefs.bundle/icons-llld/icon@2x.png
+
 Package: com.wkk.quickprefs
 Architecture: iphoneos-arm64e
 Version: 1.3.3-1
@@ -1343,4 +1379,21 @@ Name: 电话助手iOS16-正式版(完整越狱)
 Author: xybp888
 Depiction: https://apt.htv123.com/view/132
 SileoDepiction: https://apt.htv123.com/sileo/132
+
+Package: com.llld.xc
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Tweaks
+Maintainer: 来了老弟
+Installed-Size: 452
+Depends: mobilesubstrate
+Filename: debs/相册增强-arm64_1.deb
+Size: 76056
+MD5sum: f2546431656b3dadf86173f006622f21
+SHA1: 82016a6cc9bbd88c3b6d5face3374a848189faf0
+SHA256: c99f7dbc4bd72cf14f3c27a4801547d3f868b6189f5d89d6df5d24a356eb5a45
+SHA512: df7de9b9c412148b331e9889955b05d98aed1fcdd7443e3f326ca6305d681fba6c64c96dab0c10a3d2d37e92ac530bb37c41f81b805b68697184e42462231966
+Description: 相册增强：照片角标（分辨率/文件大小/拍摄日期/文件名）、自建视频与图片管理页（排序、多选、原生删除）、相簿统计。
+Name: 相册增强
+Author: 来了老弟
 
