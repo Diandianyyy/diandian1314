@@ -1325,6 +1325,24 @@ Description: 侧边栏分组
 Name: Fenzu
 Author: Junzai
 
+Package: org.coolstar.sileo
+Architecture: iphoneos-arm64e
+Version: 2.5.1-15
+Section: Packaging
+Maintainer: Amy While <me@anamy.gay>
+Depends: firmware (>= 11.0), firmware(>=12.2) | org.swift.libswift (>=5.0), coreutils (>= 8.30-1), dpkg (>= 1.19.4-1), apt (>= 1.8.2), libzstd1
+Filename: debs/org.coolstar.sileo_2.5.1-15_iphoneos-arm64e.deb
+Size: 3179544
+MD5sum: 223065edb86f312f225fa05d63c7b0e5
+SHA1: 58138c083be00b2821a6115cfdb80ed548ba236b
+SHA256: a6f587bf5f4be5bd79a43d463b64b8386670420b6a0acfb1f9004bb6545ce82b
+SHA512: 1af812122caa62051bc41c79092ac8a260b65b4df096cf6757b88c580e870b941c020205bef1ae195eb3b0a3cdf330804de26cc02876e5b9b8db2046ddea320a
+Description: 软件源右上角多备份选项的商店：备份恢复，全部插件备份，选择插件备份，配置备份，插件源备份，插件恢复，配置恢复，插件源恢复，查看备份，清除备份
+Name: Sileo
+Author: Amy While <me@anamy.gay>
+Icon: https://getsileo.app/img/icon.png
+SileoDepiction: https://featuredpage.getsileo.app/depiction.json
+
 Package: xyz.cypwn.akara.rootless
 Architecture: iphoneos-arm64e
 Version: 2.0.2k
