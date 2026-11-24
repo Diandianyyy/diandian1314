@@ -7,9 +7,19 @@ import subprocess
 import sys
 
 INDEXES = ["Packages", "Packages.bz2", "Packages.gz", "Packages.xz", "Packages.zst"]
-SITE_NAMES = {"Release", "CNAME", "sileo-featured.json", "README.md"}
-SITE_EXTENSIONS = {".png", ".jpg", ".jpeg", ".gif", ".webp", ".ico", ".svg",
-                   ".html", ".htm", ".css"}
+
+
+def sync_local_path(name):
+    path = Path(name)
+    if not name:
+        return False
+    if any(part.lower() in {".git", "debs", "__pycache__"} for part in path.parts):
+        return False
+    if path.suffix.lower() in {".deb", ".pyc", ".pyo"} or name.endswith(".cloud-new"):
+        return False
+    if name == "Packages" or name.startswith("Packages."):
+        return False
+    return True
 
 
 def git(*args, capture=False):
@@ -25,12 +35,7 @@ def stage_site():
                     capture=True).decode("utf-8").split("\0"))
     selected = []
     for name in sorted(paths):
-        path = Path(name)
-        if not name or any(part.startswith(".") for part in path.parts):
-            continue
-        if path.parts[0] in {"debs", "scripts"}:
-            continue
-        if name in SITE_NAMES or path.suffix.lower() in SITE_EXTENSIONS:
+        if sync_local_path(name):
             selected.append(name)
     # -A stages changed, new and removed public site files.
     if selected:
@@ -52,6 +57,9 @@ def main():
         # Start the downloaded revision of this program after Git finishes.
         subprocess.run([sys.executable, "scripts/update_cloud.py", "--after-pull"], check=True)
         return
+    # Also collect files omitted by an older updater before it downloaded this
+    # revision. This makes the existing command sufficient for the first upgrade.
+    stage_site()
     print("Scanning cloud packages...", flush=True)
     subprocess.run([sys.executable, "scripts/sync_cloud.py"], check=True)
     git("add", "--", *INDEXES)
