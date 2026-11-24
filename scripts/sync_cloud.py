@@ -128,7 +128,20 @@ def main():
     files = list_files(ROOT, token)
     if not files:
         raise RuntimeError("No DEB files found; existing indexes were preserved.")
+    previous = {}
+    if Path("Packages").exists():
+        for paragraph in re.split(r"\n\s*\n", Path("Packages").read_text(encoding="utf-8").strip()):
+            entry = package_fields(paragraph)
+            filename = entry.get("Filename", "")
+            if filename:
+                path = urllib.parse.unquote(urllib.parse.urlparse(filename).path)
+                if path.startswith("/d/"):
+                    path = path[2:]
+                if path.startswith("debs/"):
+                    path = ROOT + "/" + path[5:]
+                previous[path] = entry.get("SHA256")
     next_cache, paragraphs = {}, []
+    current_hashes = {}
     for number, (path, info) in enumerate(sorted(files), 1):
         url = download_url(path, info.get("sign", ""))
         stamp = [info["size"], info["modified"]]
@@ -151,12 +164,17 @@ def main():
                            "SHA1": hashlib.sha1(payload).hexdigest(), "SHA256": hashlib.sha256(payload).hexdigest()})
             print(f"[{number}/{len(files)}] Verified: {info['name']}", flush=True)
         fields["Filename"] = url
+        current_hashes[path] = fields["SHA256"]
         paragraphs.append("\n".join(f"{key}: {value}" for key, value in fields.items()))
         next_cache[path] = {"stamp": stamp, "fields": fields}
     # Write only after every file has been read and validated.
     write_indexes(paragraphs)
     cache_path.write_text(json.dumps(next_cache, ensure_ascii=False), encoding="utf-8")
     cache_path.chmod(0o600)
+    added = set(current_hashes) - set(previous)
+    removed = set(previous) - set(current_hashes)
+    changed = {p for p in current_hashes.keys() & previous.keys() if current_hashes[p] != previous[p]}
+    print(f"Added: {len(added)}; removed: {len(removed)}; changed: {len(changed)}")
     print(f"Updated {len(paragraphs)} package entries; DEB directory remains private.")
 
 
