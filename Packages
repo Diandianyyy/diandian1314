@@ -5,7 +5,7 @@ Section: 控制中心
 Maintainer: fiore & p2kdev & SINI
 Installed-Size: 1008
 Depends: mobilesubstrate, firmware (>= 16.0)
-Filename: debs/CCBorder(roothide)-1.1.2-42-iphoneos-arm64e (1).deb
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/CCBorder%28roothide%29-1.1.2-42-iphoneos-arm64e%20%281%29.deb?sign=BoaE6z2EMDJ3miSOr41g_AuSMb-q6wp0TvXeDvAI1Ks%3D%3A0
 Size: 207532
 MD5sum: 147e010f756f089e90060fd701262708
 SHA1: bb5c97e42618230cbff3736981d87e5afe325c90
@@ -24,7 +24,7 @@ Section: Tweaks
 Maintainer: 来了老弟
 Installed-Size: 2428
 Depends: mobilesubstrate, firmware (>= 14.0), com.opa334.ccsupport
-Filename: debs/FP悬浮播放器_1.5.24-隐根-arm64e.deb
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/FP%E6%82%AC%E6%B5%AE%E6%92%AD%E6%94%BE%E5%99%A8_1.5.24-%E9%9A%90%E6%A0%B9-arm64e.deb?sign=HNn-nfcqGIaH3pOQffTqR2F_fHkhOsSFLvxGdNo6qJ4%3D%3A0
 Size: 424996
 MD5sum: 87f4f758874515854bbfa2fcc597cb63
 SHA1: c8adefb288abd02032153b39737db6fd07d8daa0
@@ -42,7 +42,7 @@ Section: Tweaks
 Maintainer: 来了老弟
 Installed-Size: 2428
 Depends: mobilesubstrate, firmware (>= 14.0), com.opa334.ccsupport
-Filename: debs/FP悬浮播放器_1.5.24_无根-arm64.deb
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/FP%E6%82%AC%E6%B5%AE%E6%92%AD%E6%94%BE%E5%99%A8_1.5.24_%E6%97%A0%E6%A0%B9-arm64.deb?sign=yk6v6J8uajUApPKqsEvG4wCRtSzF4BSw9MwaCjcbqq0%3D%3A0
 Size: 428908
 MD5sum: 279226af5a5c953ca5f390621b79d056
 SHA1: 0002bef13e46427d30c241d6b18490af88c0d57f
@@ -60,7 +60,7 @@ Section: Tweaks
 Maintainer: AnthoPak <anthopakdev@gmail.com>
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>=11.0), mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 11.0)
-Filename: debs/QuickPrefs-1.3.3-1-iphoneos-arm64e.deb
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/QuickPrefs-1.3.3-1-iphoneos-arm64e.deb?sign=UAEQ9EqofpRx3_1naEl5M7PXo5T389bUdTq01knEXRY%3D%3A0
 Size: 538176
 MD5sum: 7019f4979db9ff4af233d2ed8875a97d
 SHA1: 11b6df478385ef3e594027c967e54ad2e96089ca
@@ -78,7 +78,7 @@ Section: rootless应用插件
 Maintainer: 来了老弟
 Installed-Size: 1856
 Depends: mobilesubstrate
-Filename: debs/STTool_4.7.0.30_全屏水印-arm64.deb
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/STTool_4.7.0.30_%E5%85%A8%E5%B1%8F%E6%B0%B4%E5%8D%B0-arm64.deb?sign=ZtE5kfL2DMihPYiCH8xkEpSsfPbk4SF5mBGqDWFoV-0%3D%3A0
 Size: 732540
 MD5sum: 0e97d63042caeb1681aa049e10428198
 SHA1: 905256bb99033ae608d042e57bb890bfbc480717
@@ -97,7 +97,7 @@ Section: Tweaks
 Maintainer: 夜辰
 Installed-Size: 2048
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
-Filename: debs/cc播放器_1.7.573_iphoneos-arm64.deb
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/cc%E6%92%AD%E6%94%BE%E5%99%A8_1.7.573_iphoneos-arm64.deb?sign=DOhGwIa3yXLZh8vJvRyUgrsLZLve_U_E6PeLAgAO9HY%3D%3A0
 Size: 4292148
 MD5sum: a24e9cd712ce54d661ca9dedba1b963d
 SHA1: b4792d268b565ef73b68335fd26da0533091ce63
@@ -114,7 +114,7 @@ Section: Tweaks
 Maintainer: 夜辰
 Installed-Size: 2048
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
-Filename: debs/cc播放器_1.7.591_iphoneos-arm64.deb
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/cc%E6%92%AD%E6%94%BE%E5%99%A8_1.7.591_iphoneos-arm64.deb?sign=cPd8YsvqRewRJFCSjgfzNUZ32vIYwGzU1T2lxCa-d-I%3D%3A0
 Size: 4329832
 MD5sum: c2ef0564551434e48defef975fb59df2
 SHA1: ad1eac4391e143860dcf2e32fe9e07406ea2b3be
@@ -131,7 +131,7 @@ Section: Tweaks
 Maintainer: 夜辰
 Installed-Size: 2048
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
-Filename: debs/cc播放器_1.7.591_roothide_iphoneos-arm64e.deb
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/cc%E6%92%AD%E6%94%BE%E5%99%A8_1.7.591_roothide_iphoneos-arm64e.deb?sign=fgAtKlqlQCysgZTp64rE4S05WPkB4Bj7rv_fx-hfejE%3D%3A0
 Size: 4329832
 MD5sum: 1a72a5dc4dd28d7e1e84ed5041d3e5fa
 SHA1: 38a51bdef05ded9c7eb0d17f84b96e452e06613e
@@ -148,7 +148,7 @@ Section: Tweaks
 Maintainer: 夜辰
 Installed-Size: 2048
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
-Filename: debs/cc播放器_1.7.598_iphoneos-arm64.deb
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/cc%E6%92%AD%E6%94%BE%E5%99%A8_1.7.598_iphoneos-arm64.deb?sign=4NivYfSahNGILHCeWQqTEHOApOYZYMAlKbsKPU0E9IM%3D%3A0
 Size: 4396228
 MD5sum: 6763d52a92e0ca1e8dabbd7d58c579f1
 SHA1: 78d60729d7f28fb78664297fed6a5d0efe486473
@@ -165,7 +165,7 @@ Section: Tweaks
 Maintainer: 夜辰
 Installed-Size: 2048
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
-Filename: debs/cc播放器_1.7.626_iphoneos-arm64.deb
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/cc%E6%92%AD%E6%94%BE%E5%99%A8_1.7.626_iphoneos-arm64.deb?sign=AQhky0PLYKYXHR27-vk1BbYcu7A0yg0-y7820q3wHHQ%3D%3A0
 Size: 4349076
 MD5sum: 80dbbf29efe2ec4a58d7d983c275b4e3
 SHA1: d917eacb0c0be58d997fa10686af110d0f5b7808
@@ -182,7 +182,7 @@ Section: Tweaks
 Maintainer: 夜辰
 Installed-Size: 2048
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
-Filename: debs/cc播放器_1.7.653_iphoneos-arm64.deb
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/cc%E6%92%AD%E6%94%BE%E5%99%A8_1.7.653_iphoneos-arm64.deb?sign=dgf13fA-UD8oK5DvrUUJM5NtVdXxs9r9zbeb32DzGUQ%3D%3A0
 Size: 4287948
 MD5sum: 72309b62f200690fad8f52f65c6d5ba8
 SHA1: 3864601dfcf1e07a50df71041553dcd530994893
@@ -199,7 +199,7 @@ Section: rootless应用插件
 Maintainer: 来了老弟
 Installed-Size: 4964
 Depends: mobilesubstrate (>= 0.9.5000) , firmware (>= 14.0), preferenceloader, com.opa334.altlist
-Filename: debs/cn.llld.qsyy_2.3.1-2_iphoneos-arm64 (1).deb
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/cn.llld.qsyy_2.3.1-2_iphoneos-arm64%20%281%29.deb?sign=w9UqP8HiGzfUItQdc52VC9KPJ-05xQBwNpEprb1mICM%3D%3A0
 Size: 1948510
 MD5sum: 1720ab44620d5ea52305ef36a9f87ead
 SHA1: 898ec66e5a3061a3ce5e20ba5c98fdf432240f9c
@@ -218,7 +218,7 @@ Section: 冰蓝的插件
 Maintainer: binglan
 Installed-Size: 492
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
-Filename: debs/com.binglan.dongtaidao_2.0.5_iphoneos-arm64.deb
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.binglan.dongtaidao_2.0.5_iphoneos-arm64.deb?sign=-CH3jWZeUmOrVp-sB4OLUeowUnoU9iIZnsY3dhWsBts%3D%3A0
 Size: 52952
 MD5sum: dce90cd16afaa59c9325513c2d543674
 SHA1: f00f426791fef3334327dbd25d305858abeea8d3
@@ -235,7 +235,7 @@ Section: Tweaks
 Maintainer: 冰蓝
 Installed-Size: 724
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
-Filename: debs/com.binglan.dynamicfx_1.0.5_iphoneos-arm64.deb
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.binglan.dynamicfx_1.0.5_iphoneos-arm64.deb?sign=uHwJJBlDsOuDAphrsxhJcP4pMw7hJeI_w8o0xTGs3BA%3D%3A0
 Size: 106324
 MD5sum: 1d54da6404e0db8fa9953d2b01dd2527
 SHA1: 1ea8923b266cd0964d25ac2b8c70123025160203
@@ -252,7 +252,7 @@ Section: Tweaks
 Maintainer: 冰蓝
 Installed-Size: 868
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
-Filename: debs/com.binglan.dynamicfx_1.0.7_iphoneos-arm64.deb
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.binglan.dynamicfx_1.0.7_iphoneos-arm64.deb?sign=jjW3iD7bJ-txUCIduMrEW-wOj9bX10lVwxolrenVUEQ%3D%3A0
 Size: 164388
 MD5sum: b281e4193eeb5462a90337596c890d1f
 SHA1: ea502dd27aca0f0517bdab41ff6fcb24fd9630a9
@@ -269,7 +269,7 @@ Section: 冰蓝的插件
 Maintainer: binglan
 Installed-Size: 432
 Depends: firmware (>= 16.0), mobilesubstrate
-Filename: debs/com.binglan.kongzhiBG_1.0.1_iphoneos-arm64.deb
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.binglan.kongzhiBG_1.0.1_iphoneos-arm64.deb?sign=wbFf8Vg3YHBw3ABF4a47Ze35NnaL_D7MVtb_l6TWONA%3D%3A0
 Size: 40652
 MD5sum: 01866a3e5cef4b892142e8c68b3362be
 SHA1: 5b78b0459288d56059e8d1bc61e8f57f3d0aa85d
@@ -286,7 +286,7 @@ Section: Tweaks
 Maintainer: binglan
 Installed-Size: 3028
 Depends: mobilesubstrate, firmware (>= 15.0)
-Filename: debs/com.binglan.kongzhidiy_2.3.3-end_iphoneos-arm64.deb
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.binglan.kongzhidiy_2.3.3-end_iphoneos-arm64.deb?sign=8jdo2CVsDJvkVha2FmcGR2wI8LDXA7B3LW_x9hMCZjo%3D%3A0
 Size: 674584
 MD5sum: 546334e75c474867ef5356a6585bff10
 SHA1: a0081bf5ad537864ed6010bfd4b1b3c78841fd02
@@ -303,7 +303,7 @@ Section: Tweaks
 Maintainer: binglan
 Installed-Size: 2088
 Depends: mobilesubstrate, firmware (>= 15.0)
-Filename: debs/com.binglan.kzmh_2.2.3-END_iphoneos-arm64.deb
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.binglan.kzmh_2.2.3-END_iphoneos-arm64.deb?sign=GXRz8lSos5e3DOwM9lC_0fBRqQuw0k_A_fREfjA6P-I%3D%3A0
 Size: 574496
 MD5sum: 3a52a1308f8f8332c1190eea913a9ddf
 SHA1: ea06e7dfc6790edd53bd0ebdaaab6b422b87ea7d
@@ -320,7 +320,7 @@ Section: 冰蓝的插件
 Maintainer: 冰蓝
 Installed-Size: 908
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.16)
-Filename: debs/com.binglanqjsy.deb_3.0.0_iphoneos-arm64.deb
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.binglanqjsy.deb_3.0.0_iphoneos-arm64.deb?sign=J_k7yBmvaF6x9XCcBzjLG2zEtvY_-t6MjuYbkqwx1YQ%3D%3A0
 Size: 164700
 MD5sum: b5f69b76705c352e5309337ee10efea0
 SHA1: e7f8a07f2cde1ee4fe34a6d89eaa2911da2ca4ce
@@ -337,7 +337,7 @@ Section: Tweaks
 Maintainer: 冰蓝
 Installed-Size: 2576
 Depends: mobilesubstrate, preferenceloader
-Filename: debs/com.binglanqjsy.deb_4.1.7-end_iphoneos-arm64.deb
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.binglanqjsy.deb_4.1.7-end_iphoneos-arm64.deb?sign=rRfgY8Ap4KAPioZhSEt7mqYhu9AHc6e3rIzOOjKq8UA%3D%3A0
 Size: 522792
 MD5sum: aac68325377dbffabb2c17c428045db2
 SHA1: 02899ab3ca47bd63c55d54833710ec467221b226
@@ -354,7 +354,7 @@ Section: 夜辰的插件
 Maintainer: 夜辰
 Installed-Size: 2048
 Depends: firmware (>= 14.0), preferenceloader
-Filename: debs/com.codex.ccplayer_1.7.226_iphoneos-arm64.deb
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.codex.ccplayer_1.7.226_iphoneos-arm64.deb?sign=4Zsu4TP1Xe7GQ-9S7zyaj9vrT-xR5BgdYbLXhcZbMn0%3D%3A0
 Size: 16200664
 MD5sum: c29f1cc87b226e6b602460fe362cd6d6
 SHA1: 29a6a3cb09abb15d80212450bf9eccfe459005df
@@ -371,7 +371,7 @@ Section: 夜辰的插件
 Maintainer: 夜辰
 Installed-Size: 2048
 Depends: firmware (>= 14.0), preferenceloader
-Filename: debs/com.codex.ccplayer_1.7.226_iphoneos-arm64e.deb
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.codex.ccplayer_1.7.226_iphoneos-arm64e.deb?sign=A5mLmp5syZBrf5pbEc11qqUuACfLOk_E3H3_NAB42-g%3D%3A0
 Size: 16201224
 MD5sum: aee4dfb8196053117d0a0cf2a99c5d9a
 SHA1: 5bc229164fc15f96459691c8b98fd1a6a596345b
@@ -388,7 +388,7 @@ Section: Tweaks
 Maintainer: dandian
 Installed-Size: 208
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.diandian.chajianjieshao_0.1_iphoneos-arm64.deb
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.diandian.chajianjieshao_0.1_iphoneos-arm64.deb?sign=FCOJVcrM3EB_R_r3hRqV3a60KHUveONhhJ-yQrrtsVE%3D%3A0
 Size: 872
 MD5sum: 3c476b40c1cdf157d687351523037324
 SHA1: 5a5e2fe6434b1f882acb2f482759db056f21a08b
@@ -405,7 +405,7 @@ Section: Tweaks
 Maintainer: 航
 Installed-Size: 928
 Depends: mobilesubstrate
-Filename: debs/com.hang.ccbackground_0.1_iphoneos-arm64e.deb
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.hang.ccbackground_0.1_iphoneos-arm64e.deb?sign=7KgMCs_VQIvCNs0QgEJJFE-4-FiYNzsegfpicIyem0o%3D%3A0
 Size: 168240
 MD5sum: cd08692a866375f5c9c59cb62711b1e5
 SHA1: 8c42965217ae84e9c46c11efc2080dbe97652902
@@ -424,7 +424,7 @@ Section: Tweaks
 Maintainer: hang
 Installed-Size: 80
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.hang.chajiandengpaotihuan_0.0.1-44+debug_iphoneos-arm64e.deb
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.hang.chajiandengpaotihuan_0.0.1-44%2Bdebug_iphoneos-arm64e.deb?sign=4mFm4mlasveYezkZAch0jeUtN00oWnQsVEkBb8E5nbc%3D%3A0
 Size: 9132
 MD5sum: a0479a861fe58f29650255010e3559c8
 SHA1: cc8da1a11aa096a16689115734b941c800e3d880
@@ -441,7 +441,7 @@ Section: Tweaks
 Maintainer: 航
 Installed-Size: 624
 Depends: firmware (>= 15.0), mobilesubstrate
-Filename: debs/com.hang.kaiguan_1.2_iphoneos-arm64e.deb
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.hang.kaiguan_1.2_iphoneos-arm64e.deb?sign=y7_VGTFWFwo5H5EESGrSddRMIXqtBVNwJBA_O6Aud4s%3D%3A0
 Size: 236122
 MD5sum: 0fb1e182e4a9cd3470e3c1024d47fc5e
 SHA1: f0c3da6d1cbbdf85af86eb3f2ebedcc7a4cfc403
@@ -461,7 +461,7 @@ Maintainer: 航
 Installed-Size: 92
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 17.0)
 Conflicts: com.codex.squidgesture17fix
-Filename: debs/com.hang.shoushibuding_0.2_iphoneos-arm64e.deb
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.hang.shoushibuding_0.2_iphoneos-arm64e.deb?sign=kTOUYP_xll5es5YXSd8GBwIVmRUroZ0kZoGtoY1TGI0%3D%3A0
 Size: 14942
 MD5sum: 3c941e0431c92d96b9efee635715cc84
 SHA1: 1ec83df36751496447dab25cdafc7719d9db30d6
@@ -479,7 +479,7 @@ Section: Tweaks
 Maintainer: hang
 Installed-Size: 180
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.hang.zzzj_0.0.1-8+debug_iphoneos-arm64.deb
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.hang.zzzj_0.0.1-8%2Bdebug_iphoneos-arm64.deb?sign=PNJsEUYKGm4enEaGzQALJEIs_7XienIE38bkHWyScns%3D%3A0
 Size: 35898
 MD5sum: 0a46cd640e82c3d1881dfff01993ba83
 SHA1: 8d6f754d2b985542e7c1f461e08be623a4757320
@@ -497,7 +497,7 @@ Maintainer: hang
 Installed-Size: 180
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.hang.zzzj_0.0.1-8+debug_iphoneos-arm64e.deb
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.hang.zzzj_0.0.1-8%2Bdebug_iphoneos-arm64e.deb?sign=SdBzWB5gofJX0-qwOUDRtXfuY_6wo5cdV_CDyAbYhow%3D%3A0
 Size: 47412
 MD5sum: 880240ec0a6e2f5f686a4beced5216c5
 SHA1: 76c2c9bc0052f1a0bdaba3c7737b651fe86a76e7
@@ -514,7 +514,7 @@ Section: Tweaks
 Maintainer: Kaku
 Installed-Size: 1352
 Depends: mobilesubstrate
-Filename: debs/com.kaku.minishelf_3.0-1+debug_iphoneos-arm64.deb
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.kaku.minishelf_3.0-1%2Bdebug_iphoneos-arm64.deb?sign=X0uWgZwFMzfWOxecWbUlvaK7tCKt1owQwLdmsT850YE%3D%3A0
 Size: 385980
 MD5sum: 79ba0b75a07655e665f3ddf9d62d3b54
 SHA1: de18fe482de700a15002cb70d5f180cede14c933
@@ -531,7 +531,7 @@ Section: Tweaks
 Maintainer: Kaku
 Installed-Size: 1184
 Depends: mobilesubstrate
-Filename: debs/com.kaku.minishelf_3.0-2+debug_iphoneos-arm64.deb
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.kaku.minishelf_3.0-2%2Bdebug_iphoneos-arm64.deb?sign=QaibMZedI7VLLx8_FNrOJgI2VDpUu5pvN8rL_hNOfAk%3D%3A0
 Size: 302648
 MD5sum: d5a68066c41f731f3f7e356eb1b81e94
 SHA1: 649f47cdcd7c222d140fba9e34c56fc81f2173c7
@@ -548,7 +548,7 @@ Section: Tweaks
 Maintainer: 夜辰
 Installed-Size: 956
 Depends: mobilesubstrate, preferenceloader, firmware (>= 16.0)
-Filename: debs/com.my.lingdongvideo_0.1.4.523_iphoneos-arm64.deb
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.my.lingdongvideo_0.1.4.523_iphoneos-arm64.deb?sign=lCdyEHjshTjOcNxhgZpM4rssWgOHLICSnbRAz38z1Ks%3D%3A0
 Size: 176632
 MD5sum: 9a2c2487bde3951804614965699677a9
 SHA1: b8a21185c21ac132d365d57c7eaf291611c6d909
@@ -565,7 +565,7 @@ Section: Tweaks
 Maintainer: ngkhoi
 Installed-Size: 28628
 Depends: mobilesubstrate
-Filename: debs/com.ngkhoi.26home_1.1.7_iphoneos-arm64.deb
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.ngkhoi.26home_1.1.7_iphoneos-arm64.deb?sign=wueMkIckU7FLZwV1QUdBfRl0DT0VV9yP17D7QV7fcJ8%3D%3A0
 Size: 19919896
 MD5sum: a7e9b0256d0cf33e8954fa530f5b4276
 SHA1: 95a450691057c9963a5763e3bc30a43a1da79613
@@ -581,7 +581,7 @@ Version: 2.1.1-3
 Section: Applications
 Maintainer: opa334
 Installed-Size: 11424
-Filename: debs/com.opa334.trollstorelite_2.1.1-3_iphoneos-arm64e.deb
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.opa334.trollstorelite_2.1.1-3_iphoneos-arm64e.deb?sign=muZnZ5rtc9Xyd5wfzLH8EzZjag-zCGuHFO6ymrakZQA%3D%3A0
 Size: 3678724
 MD5sum: 845214d144b6fdbeedaa369ad34ba330
 SHA1: 5856cc2ee8cb83a2c17de67923a8298d5c8cb548
@@ -599,7 +599,7 @@ Section: Tweaks
 Maintainer: Simon
 Installed-Size: 468
 Depends: mobilesubstrate, preferenceloader
-Filename: debs/com.simon.sliderforge_1.0.0_iphoneos-arm64.deb
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.simon.sliderforge_1.0.0_iphoneos-arm64.deb?sign=TN9KTl4wY7ouqlJug6A6hxuw0iyIa3V-mEuG4KzFywE%3D%3A0
 Size: 48308
 MD5sum: 769a28aa3b9aaa5d4c6ac5d1afdaca9e
 SHA1: 02a1fa5d7bf307cb586aa9a58f40908b4acee812
@@ -616,7 +616,7 @@ Section: Tweaks
 Maintainer: Simon
 Installed-Size: 468
 Depends: mobilesubstrate, preferenceloader
-Filename: debs/com.simon.sliderforge_1.0.0_iphoneos-arm64e (1).deb
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.simon.sliderforge_1.0.0_iphoneos-arm64e%20%281%29.deb?sign=lz6FuZHk__B3p1f0zn2CfO32AsR1whov5vClo9fNZ-Q%3D%3A0
 Size: 48152
 MD5sum: 67eb8f55a0bf081ceb8717fba7d4f972
 SHA1: 195c60c01a932383b9b4547e8b425f40dea79fe4
@@ -633,7 +633,7 @@ Section: Tweaks
 Maintainer: Simon
 Installed-Size: 468
 Depends: mobilesubstrate, preferenceloader
-Filename: debs/com.simon.sliderforge_1.0.1_iphoneos-arm64.deb
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.simon.sliderforge_1.0.1_iphoneos-arm64.deb?sign=WgFCLT4z_FQi5x1lZHkNRdMgmBmNQlTBvJIXURE1Pbc%3D%3A0
 Size: 50938
 MD5sum: d868f33a23a00abb7e63491766c99f05
 SHA1: 303478e26b1b8b96a7bbab4c1e2a44169ca1fa27
@@ -650,7 +650,7 @@ Section: Tweaks
 Maintainer: Simon
 Installed-Size: 468
 Depends: mobilesubstrate, preferenceloader
-Filename: debs/com.simon.sliderforge_1.0.1_iphoneos-arm64e.deb
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.simon.sliderforge_1.0.1_iphoneos-arm64e.deb?sign=8vqSP0Rx6Ihjew4DOubj-dJSF3UqLR0qQR-jm0kMzSA%3D%3A0
 Size: 50924
 MD5sum: 0f2300ae859e0aa3c3e0be1e9ce13a8f
 SHA1: fca2ab31f2d0273e7cfc035724ad65fc5bcd8e05
@@ -667,7 +667,7 @@ Section: Tweaks
 Maintainer: Simon
 Installed-Size: 784
 Depends: mobilesubstrate, preferenceloader
-Filename: debs/com.simon.spectrums_2.0.1_iphoneos-arm64.deb
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.simon.spectrums_2.0.1_iphoneos-arm64.deb?sign=JJntnO2JJZQoFiQsF5qT1TKq4vMPrC7g2jHpsxyhMXk%3D%3A0
 Size: 127628
 MD5sum: 792df9637411bf80a75355bad184a5d2
 SHA1: 53ca0fd44adbf56ff3c0b50e7403e85e29b6d460
@@ -684,7 +684,7 @@ Section: Tweaks
 Maintainer: Simon
 Installed-Size: 784
 Depends: mobilesubstrate, preferenceloader
-Filename: debs/com.simon.spectrums_2.0.1_iphoneos-arm64e.deb
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.simon.spectrums_2.0.1_iphoneos-arm64e.deb?sign=G-ckt2RnVemQiyqARwlVpHe8yVmHiyoy8WxafW5rzn4%3D%3A0
 Size: 127464
 MD5sum: 62b9b766929930f3899c03a4f291efb3
 SHA1: c693c2989500bd8d24aa9fa8d02ae68c6c6fd936
@@ -701,7 +701,7 @@ Section: Tweaks
 Maintainer: Simon
 Installed-Size: 768
 Depends: mobilesubstrate, preferenceloader
-Filename: debs/com.simon.spectrums_2.0_iphoneos-arm64.deb
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.simon.spectrums_2.0_iphoneos-arm64.deb?sign=jRVAyZaroer2bH8Z8tVjWAGRMjezFkAYNJoM2bXoqHc%3D%3A0
 Size: 123280
 MD5sum: 3d7d9d93a40bcb30c25e7b3d88dfc312
 SHA1: f7e571374fdb9e3ca6d97e61b425586a38e832de
@@ -718,7 +718,7 @@ Section: Tweaks
 Maintainer: Simon
 Installed-Size: 768
 Depends: mobilesubstrate, preferenceloader
-Filename: debs/com.simon.spectrums_2.0_iphoneos-arm64e.deb
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.simon.spectrums_2.0_iphoneos-arm64e.deb?sign=aIXI7wgj5gfe3fpjCltvqnekSYaURBTJDJs-_vJ_LDI%3D%3A0
 Size: 123564
 MD5sum: 9bcd2940b5b4650d11c928d554382472
 SHA1: 2289cd4e4b0853f3920dbb221361d4fb45ab0a18
@@ -735,7 +735,7 @@ Section: Tweaks
 Maintainer: Simon
 Installed-Size: 784
 Depends: mobilesubstrate, preferenceloader
-Filename: debs/com.simon.spectrums_3.0.1_iphoneos-arm64.deb
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.simon.spectrums_3.0.1_iphoneos-arm64.deb?sign=eJ8ScUwyGhTyR0dGHnooUfl9hTdZ00hUHb8p1ZjlqAk%3D%3A0
 Size: 139354
 MD5sum: f437b5997590525a9c1f2a8901f62e35
 SHA1: a4c612c8682782371d57686948a9cde2e0927a0b
@@ -752,7 +752,7 @@ Section: Tweaks
 Maintainer: Simon
 Installed-Size: 784
 Depends: mobilesubstrate, preferenceloader
-Filename: debs/com.simon.spectrums_3.0.1_iphoneos-arm64e.deb
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.simon.spectrums_3.0.1_iphoneos-arm64e.deb?sign=NLi04rA_ILL87Ee1eT-Urmbh951dGB6JkK_UacQgeyA%3D%3A0
 Size: 139294
 MD5sum: 255801ed3a841f75919754570146b3ae
 SHA1: 90fa5763fb081ec73398be3f615ad0707de60830
@@ -769,7 +769,7 @@ Section: Tweaks
 Maintainer: Simon
 Installed-Size: 784
 Depends: mobilesubstrate, preferenceloader
-Filename: debs/com.simon.spectrums_3.0.2_iphoneos-arm64.deb
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.simon.spectrums_3.0.2_iphoneos-arm64.deb?sign=bEHck3IEdcU6OF_64P6ie8trD3AU3XPZdV-slBZdYSo%3D%3A0
 Size: 139716
 MD5sum: 9d644d06d126c2fb82878d26027be421
 SHA1: abf33dba39054d143b124ea1380806308d9b2a83
@@ -786,7 +786,7 @@ Section: Tweaks
 Maintainer: Simon
 Installed-Size: 784
 Depends: mobilesubstrate, preferenceloader
-Filename: debs/com.simon.spectrums_3.0.2_iphoneos-arm64e.deb
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.simon.spectrums_3.0.2_iphoneos-arm64e.deb?sign=rOmLhEqRcdVykFdyJwjjrjmf6QD3nDI7jxTA-ja74vU%3D%3A0
 Size: 140648
 MD5sum: 8e11081208a5c1b5d54875faa8f99b82
 SHA1: 8a38ddb2c27b85cdd3c6dbbef23efc603a6d9017
@@ -803,7 +803,7 @@ Section: Tweaks
 Maintainer: Simon
 Installed-Size: 816
 Depends: mobilesubstrate, preferenceloader
-Filename: debs/com.simon.spectrums_3.0.3_iphoneos-arm64e 8.deb
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.simon.spectrums_3.0.3_iphoneos-arm64e%208.deb?sign=_G4ddPsBcFUBH4SjCMOJAdaLWD-J_CR2A6t2fJKoSEo%3D%3A0
 Size: 147996
 MD5sum: 2c66dbad455f51309b4283d3624d8678
 SHA1: d8aefe1d35141d6dba1a66fb7a367ab0230d05f3
@@ -820,7 +820,7 @@ Section: Tweaks
 Maintainer: Simon
 Installed-Size: 816
 Depends: mobilesubstrate, preferenceloader
-Filename: debs/com.simon.spectrums_3.0.5_iphoneos-arm64.deb
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.simon.spectrums_3.0.5_iphoneos-arm64.deb?sign=JIMQon7c-Gq3D3cIDLRIpz2LOw1rpVySyvYp27jsSV8%3D%3A0
 Size: 148914
 MD5sum: f18fcbf99ff881c810adecfbdf286844
 SHA1: 2384e81f21b73b87f33f20c6808ec1c8da9a9c36
@@ -837,7 +837,7 @@ Section: Tweaks
 Maintainer: Simon
 Installed-Size: 816
 Depends: mobilesubstrate, preferenceloader
-Filename: debs/com.simon.spectrums_3.0.5_iphoneos-arm64e.deb
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.simon.spectrums_3.0.5_iphoneos-arm64e.deb?sign=AnPLk6i6lUvyyecS0FJDuYdqSpurIplQ5FFiaYKAaR8%3D%3A0
 Size: 148054
 MD5sum: fa82e89b929a238d939dd6f28a90f67b
 SHA1: 0f524c2a551bf293b7df6a0ff7b7d17e98bcf702
@@ -854,7 +854,7 @@ Section: Tweaks
 Maintainer: Simon
 Installed-Size: 736
 Depends: mobilesubstrate, preferenceloader
-Filename: debs/com.simon.spectrums_3.0_iphoneos-arm64.deb
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.simon.spectrums_3.0_iphoneos-arm64.deb?sign=h82uYUwm-CaQSHJFjIoCptcNdxEGtqEetGufcpI5mbU%3D%3A0
 Size: 122764
 MD5sum: d6e939874c6c1dd3ade8735a7f84cdbf
 SHA1: ece63e62d888930fd4e4645a0cce59f6fb678f32
@@ -871,7 +871,7 @@ Section: Tweaks
 Maintainer: Simon
 Installed-Size: 736
 Depends: mobilesubstrate, preferenceloader
-Filename: debs/com.simon.spectrums_3.0_iphoneos-arm64e.deb
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.simon.spectrums_3.0_iphoneos-arm64e.deb?sign=BU6CCPh1F1Zsy9Q2TsI3NgT3IDGgwSmHIlkQ-6GSFWs%3D%3A0
 Size: 122710
 MD5sum: 51d240567813b512cf8a11f40742bc51
 SHA1: 61bc100efd5d9ee3709331e72f7c8a4f69cd81cb
@@ -888,7 +888,7 @@ Section: Tweaks
 Maintainer: Simon
 Installed-Size: 1332
 Depends: mobilesubstrate, preferenceloader
-Filename: debs/com.simon.spectrums_3.1.1_iphoneos-arm64.deb
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.simon.spectrums_3.1.1_iphoneos-arm64.deb?sign=BCJntk4XbKk_mDwtGpZma8oDqSs-w1WXAwP6X5bNx9k%3D%3A0
 Size: 207060
 MD5sum: abc91b709c23fec4d53e9f292620be09
 SHA1: 3b7726cae1870c4067451f2e932257f46e989f53
@@ -905,7 +905,7 @@ Section: Tweaks
 Maintainer: Simon
 Installed-Size: 1332
 Depends: mobilesubstrate, preferenceloader
-Filename: debs/com.simon.spectrums_3.1.1_iphoneos-arm64e.deb
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.simon.spectrums_3.1.1_iphoneos-arm64e.deb?sign=nN6VzEsmTpo-TEHO1hDYRRyvKqg4L4uK7Xfp_og6Xhw%3D%3A0
 Size: 206802
 MD5sum: 2dfdd3675a3c644f2a951d51d8800713
 SHA1: 0f9db31a852845f890c98fc89380df3c4c71bd0c
@@ -922,7 +922,7 @@ Section: Tweaks
 Maintainer: Simon
 Installed-Size: 1348
 Depends: mobilesubstrate, preferenceloader
-Filename: debs/com.simon.spectrums_3.1.2_iphoneos-arm64.deb
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.simon.spectrums_3.1.2_iphoneos-arm64.deb?sign=n11SlP2CiK8CEc7gwboy-zVMvwifWMi8ZgJSRpMT670%3D%3A0
 Size: 215688
 MD5sum: 7260a0e1a4cedb020615251c853b4e20
 SHA1: 6191f419b4aded58c12ad98913380e78919e0570
@@ -939,7 +939,7 @@ Section: Tweaks
 Maintainer: Simon
 Installed-Size: 1348
 Depends: mobilesubstrate, preferenceloader
-Filename: debs/com.simon.spectrums_3.1.2_iphoneos-arm64e.deb
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.simon.spectrums_3.1.2_iphoneos-arm64e.deb?sign=ZT1oy_ZiT0B4-1mJRDf1sVj2aTlOLRuYqiEdpncjZS0%3D%3A0
 Size: 215678
 MD5sum: 11cb962e5fddc554c9d8949884ad3e43
 SHA1: da07402eee9d87aefdae72b2434cdfda245479f2
@@ -956,7 +956,7 @@ Section: 苏苏的插件
 Maintainer: SuSu
 Installed-Size: 520
 Depends: firmware (>= 14.0), mobilesubstrate
-Filename: debs/com.susu.collection_1.0_iphoneos-arm64.deb
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.susu.collection_1.0_iphoneos-arm64.deb?sign=4j1Qy7Y4zJwOaGk7JATYupidj9a4bG_70tjbfgCCQlY%3D%3A0
 Size: 56464
 MD5sum: eb725e5e4ff8724169efb9b990c98b40
 SHA1: cdd45c5180847e9b2c1efff24369dd8d465df3fe
@@ -974,7 +974,7 @@ Maintainer: SuSu
 Installed-Size: 37032
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.susu.suspendedpets_1.0_iphoneos-arm64e.deb
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.susu.suspendedpets_1.0_iphoneos-arm64e.deb?sign=SJQeerclJBRGOZ_2FXAfSkOcFpgcef9ldWyPHgzDT2Q%3D%3A0
 Size: 56576088
 MD5sum: 87351380c0e362bef12ae30f15483061
 SHA1: b2393a19d3ea52143bc49801dfbcf9172eaa30ff
@@ -991,7 +991,7 @@ Section: Tweaks
 Maintainer: wkk
 Installed-Size: 1732
 Depends: firmware (>= 15.0), firmware (<< 18.0), mobilesubstrate, preferenceloader
-Filename: debs/com.wkk.copylogx_1.2-3_iphoneos-arm64.deb
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.wkk.copylogx_1.2-3_iphoneos-arm64.deb?sign=R5pvleuIzO5b4HbtF9G-5vxbEGVv3B6Zg3LSSBKzMZU%3D%3A0
 Size: 264238
 MD5sum: 52d2986bf9e7bc51b71ad4d7b819b14c
 SHA1: fe9c98dbf7a90458df9e3b45722ab949efc05de1
@@ -1009,7 +1009,7 @@ Section: Tweaks
 Maintainer: wkk
 Installed-Size: 1732
 Depends: firmware (>= 15.0), firmware (<< 18.0), mobilesubstrate, preferenceloader
-Filename: debs/com.wkk.copylogx_1.2-3_iphoneos-arm64e.deb
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.wkk.copylogx_1.2-3_iphoneos-arm64e.deb?sign=_hLSi9hil5A4uaz9R7kmTHf55c2uX0qXZRHJhxzbdRM%3D%3A0
 Size: 260812
 MD5sum: d62b5cb341bbea00671dcaa88e787552
 SHA1: afbe3e4bfeb4f51b2d7b47744b0f14c9ff78b292
@@ -1027,7 +1027,7 @@ Section: Tweaks
 Maintainer: wkk
 Installed-Size: 604
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: debs/com.wkk.keyboardx_1.2-2end_iphoneos-arm64.deb
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.wkk.keyboardx_1.2-2end_iphoneos-arm64.deb?sign=xySGuMm71BPmR0CY8bpoqpGhgjUiRNYrKhE5YXQrPLA%3D%3A0
 Size: 76372
 MD5sum: a65a758180f0a69a4ffb194af4ecf241
 SHA1: 70dbbc64a2106eb684eefd5245180fd37dbed54c
@@ -1045,7 +1045,7 @@ Section: Tweaks
 Maintainer: wkk
 Installed-Size: 568
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: debs/com.wkk.keyboardx_1.2-2end_iphoneos-arm64e.deb
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.wkk.keyboardx_1.2-2end_iphoneos-arm64e.deb?sign=L4wXSHubGiGZAXhrShNQH-NYDse17n4vWRK94EA3Y6U%3D%3A0
 Size: 74690
 MD5sum: b7c8d55361ef678c9d35ef23fb889293
 SHA1: 0b18b3affd9131557b7fb8f150cea0a044bf8b17
@@ -1063,7 +1063,7 @@ Section: Tweaks
 Maintainer: wkk
 Installed-Size: 968
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
-Filename: debs/com.wkk.onestepx_1.2-3_iphoneos-arm64.deb
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.wkk.onestepx_1.2-3_iphoneos-arm64.deb?sign=PPD8Z7nBoSPv6QSxzZtQDB608IRDzAEiDhRDvJJjjdc%3D%3A0
 Size: 159264
 MD5sum: 1b9a184d53b92245ade89c5dc70732e6
 SHA1: 9557b8598b8a353997e75bb4f3c8e5f70bcbc657
@@ -1081,7 +1081,7 @@ Section: Tweaks
 Maintainer: wkk
 Installed-Size: 968
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
-Filename: debs/com.wkk.onestepx_1.2-3_iphoneos-arm64e.deb
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.wkk.onestepx_1.2-3_iphoneos-arm64e.deb?sign=JYLE3o9i5StAdbM9SqBPuBn96vXMttTnE8sOXBTQb7U%3D%3A0
 Size: 156888
 MD5sum: aee916f27bbe960e5cf15f6a968c0025
 SHA1: bbcb95d3dcf8441e06a8f4f4a70e6314374415ad
@@ -1099,7 +1099,7 @@ Section: Tweaks
 Maintainer: wkk
 Installed-Size: 532
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: debs/com.wkk.recordeyex_1.0-5_iphoneos-arm64.deb
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.wkk.recordeyex_1.0-5_iphoneos-arm64.deb?sign=AQGt5yAp5XdAhj-665TN7smcxA-ry80rCk4kuqJBVlM%3D%3A0
 Size: 70610
 MD5sum: d24621f390623fcca51619f48ee007d7
 SHA1: b0c8ae9799b46c0b8bb102029351926030b8c317
@@ -1116,7 +1116,7 @@ Section: Tweaks
 Maintainer: wkk
 Installed-Size: 532
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: debs/com.wkk.recordeyex_1.0-5_iphoneos-arm64e.deb
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.wkk.recordeyex_1.0-5_iphoneos-arm64e.deb?sign=M9t8o3DNl0Ru2egLQZgE8PRm5GX6pTcxkL-MwmfQeis%3D%3A0
 Size: 67842
 MD5sum: 69719757c38fec9d8d1723a97f104785
 SHA1: 6abcd6143a1fa2a6f7e0ce0ee6a430be116c1b0c
@@ -1134,7 +1134,7 @@ Maintainer: wkk
 Installed-Size: 2792
 Depends: mobilesubstrate, preferenceloader
 Conflicts: com.wkk.clockglass
-Filename: debs/com.wkk.systembox_1.5-8end_iphoneos-arm64.deb
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.wkk.systembox_1.5-8end_iphoneos-arm64.deb?sign=ZHupn5qqgaRxMtDzp9sqfCxT-ap2mNCeUAvmLwaSOnE%3D%3A0
 Size: 636580
 MD5sum: b4ce46d3efc874b585be96b8f14371d0
 SHA1: 51b8fa84af50501b4a0bc45539b6a7abdc55a6f9
@@ -1153,7 +1153,7 @@ Maintainer: wkk
 Installed-Size: 2792
 Depends: mobilesubstrate, preferenceloader
 Conflicts: com.wkk.clockglass
-Filename: debs/com.wkk.systembox_1.5-8end_iphoneos-arm64e.deb
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.wkk.systembox_1.5-8end_iphoneos-arm64e.deb?sign=GZLPb10M17glPmFFj8Oo0upCrmxM8e8P4YDfiGUsMig%3D%3A0
 Size: 630968
 MD5sum: 4cbac8f77e8f110205314356e982a38c
 SHA1: cde9ea566369287c4b218a317939e1500c7a3696
@@ -1171,7 +1171,7 @@ Section: Tweaks
 Maintainer: 俊仔
 Installed-Size: 164
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.xuancaiqipao_1.1.2_iphoneos-arm64.deb
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.xuancaiqipao_1.1.2_iphoneos-arm64.deb?sign=PC2ZsHg604yIIHCRD-U5-7bUSWsEpH9kyPWfPQdonq0%3D%3A0
 Size: 31416
 MD5sum: cc73e142d0845aeba0c330e79f5e4a2a
 SHA1: f3c04bdeb24428fbedbc2d985c9e931d7f278b34
@@ -1190,7 +1190,7 @@ Installed-Size: 9036
 Depends: preferenceloader, mobilesubstrate, com.opa334.ccsupport
 Conflicts: com.codex.ccmodulebackground
 Replaces: com.codex.ccmodulebackground
-Filename: debs/com.yechen.ccmodulebackground_0.2.287_iphoneos-arm64.deb
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.yechen.ccmodulebackground_0.2.287_iphoneos-arm64.deb?sign=O455Gcl2hJenHiL_JqLA8g9Nd1_49wKgK6PUq1PWOrI%3D%3A0
 Size: 358986
 MD5sum: 51d941d848a22357da9f10a9ffd4b92b
 SHA1: dd32867ea05430d7367654c6506fa718fe0fcd53
@@ -1210,7 +1210,7 @@ Maintainer: 夜辰
 Installed-Size: 2048
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
-Filename: debs/com.yechen.ccplayer_1.7.573_iphoneos-arm64e.deb
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.yechen.ccplayer_1.7.573_iphoneos-arm64e.deb?sign=1cSh5NC7P-R6GkbRwhraa0c5MWepn9W9r0YleKKeSKU%3D%3A0
 Size: 9131278
 MD5sum: 4ee02ce001371be21f81ac47946f6ce2
 SHA1: 66e436adf86387ec084948da539b1392b2f0a9db
@@ -1227,7 +1227,7 @@ Section: 夜辰的插件
 Maintainer: 夜辰
 Installed-Size: 428
 Depends: mobilesubstrate, preferenceloader, firmware (>= 16.0)
-Filename: debs/com.yechen.dynamicislandring_1.1.0_iphoneos-arm64.deb
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.yechen.dynamicislandring_1.1.0_iphoneos-arm64.deb?sign=lXoeO7fJqpRQiewGu_SuBBIcJCqWSGT71BnaQF4461A%3D%3A0
 Size: 46300
 MD5sum: 24a62528a8e40285ab56cbb974c5a7eb
 SHA1: a9d2a655fecfd85a55cd628be675b8dc3b676b5f
@@ -1244,7 +1244,7 @@ Section: 夜辰的插件
 Maintainer: 夜辰
 Installed-Size: 876
 Depends: mobilesubstrate, preferenceloader, firmware (>= 16.0)
-Filename: debs/com.yechen.lingdongvideo_0.1.4.507_iphoneos-arm64.deb
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.yechen.lingdongvideo_0.1.4.507_iphoneos-arm64.deb?sign=tFlVzNx9DnzOwn0XKAcXeB-3wBC9QYcJazpm-0QJmJk%3D%3A0
 Size: 160692
 MD5sum: 2334181fca47729c5d06c675121be9a9
 SHA1: c95c5a8c6fe643362efed7b0f9648b43016391d2
@@ -1262,7 +1262,7 @@ Maintainer: Mobile User
 Installed-Size: 168
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.yourcompany.size_0.0.1-44+debug_iphoneos-arm64e.deb
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.yourcompany.size_0.0.1-44%2Bdebug_iphoneos-arm64e.deb?sign=qtyFX-97XmmXcnNC97zG1wefH2upcRlbThGB8pJ_phU%3D%3A0
 Size: 4880
 MD5sum: 8ee1fc1d7236d35bb9bf5b201e7c8efd
 SHA1: f43756ae34b7629632ea1398d3bac2f832481c96
@@ -1279,7 +1279,7 @@ Section: 余忆的插件
 Maintainer: 余忆
 Installed-Size: 372
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.yuyi.qqaudio_0.1-14+debug_iphoneos-arm64.deb
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.yuyi.qqaudio_0.1-14%2Bdebug_iphoneos-arm64.deb?sign=m7FYfCuUio80ZZZ8rBh413y_GxxEEELiCed2ZG-h1_U%3D%3A0
 Size: 56660
 MD5sum: 9802e86e4b41ed6f89b7affe5078d56b
 SHA1: 6e0fbf44419a7aeda3d2c52a65a466d2bf01ad08
@@ -1296,7 +1296,7 @@ Section: 余忆的插件
 Maintainer: yuyi
 Installed-Size: 208
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.yuyi.screenshot_0.1_iphoneos-arm64.deb
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.yuyi.screenshot_0.1_iphoneos-arm64.deb?sign=HUJEGMRtUEqBTq8dodSZHy5bX7XuHtAUGLGJSS9Jc8A%3D%3A0
 Size: 19136
 MD5sum: 14cad0dc2f55e6116b8561d2dcd32be1
 SHA1: c694828894cc89b2af4971cc8422f4c36101ef69
@@ -1315,7 +1315,7 @@ Installed-Size: 23536
 Depends: mobilesubstrate (>= 0.9.5000)
 Conflicts: com.monk.wclgbubbleliquidglass
 Replaces: com.monk.wclgbubbleliquidglass
-Filename: debs/fz_5.9.0-2-debug-nogroup.deb
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/fz_5.9.0-2-debug-nogroup.deb?sign=pR-tzZwFoLnLVH1wfsmeXgKhAmcwAOI4v5gS_2x7Grk%3D%3A0
 Size: 6115166
 MD5sum: f0b9f77b7980387aca0c0781ef25581c
 SHA1: f852ef16044a2ecbf6ca06dafb93d0a8cf9f1c93
@@ -1331,7 +1331,7 @@ Version: 2.5.1-15
 Section: Packaging
 Maintainer: Amy While <me@anamy.gay>
 Depends: firmware (>= 11.0), firmware(>=12.2) | org.swift.libswift (>=5.0), coreutils (>= 8.30-1), dpkg (>= 1.19.4-1), apt (>= 1.8.2), libzstd1
-Filename: debs/org.coolstar.sileo_2.5.1-15_iphoneos-arm64e.deb
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/org.coolstar.sileo_2.5.1-15_iphoneos-arm64e.deb?sign=meJV2wrFEMpnfB6ksdCjv9i7oKi4pwSexknE0PoWBTk%3D%3A0
 Size: 3179544
 MD5sum: 223065edb86f312f225fa05d63c7b0e5
 SHA1: 58138c083be00b2821a6115cfdb80ed548ba236b
@@ -1350,7 +1350,7 @@ Section: Tweaks
 Maintainer: CyPwn <xuanhua880@gmail.com>
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport, com.muirey03.libimagepicker, firmware (>=15.0)
-Filename: debs/xyz.cypwn.akara.rootless_2.0.2k_iphoneos-arm64e.deb
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/xyz.cypwn.akara.rootless_2.0.2k_iphoneos-arm64e.deb?sign=3SQ6sCfl3P8BDmfdmxXoNkMuE5srhsWzQEKKBaFvh9Q%3D%3A0
 Size: 672282
 MD5sum: 3815f026ba3a993ffd13e1b61089eedc
 SHA1: 79445935ca4ec363cc0377ee09d2919da7fedc42
@@ -1368,7 +1368,7 @@ Section: Tweaks
 Maintainer: ZuoTian
 Installed-Size: 484
 Depends: mobilesubstrate, preferenceloader
-Filename: debs/控制中心比例调整.deb
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/%E6%8E%A7%E5%88%B6%E4%B8%AD%E5%BF%83%E6%AF%94%E4%BE%8B%E8%B0%83%E6%95%B4.deb?sign=svvFI7V0ntjLExW0IbZBtQZSrcpNp9wZ12FTs2BRndQ%3D%3A0
 Size: 116874
 MD5sum: 075ca75acd434da2710a07eace6625e6
 SHA1: 437ade6a0e6e5d9b7cdeae994b645a98614fa518
@@ -1388,7 +1388,7 @@ Maintainer: Local Workspace
 Installed-Size: 268
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate
-Filename: debs/支付宝屏蔽，无需黑名单_0.1.9_iphoneos-arm64e.deb
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/%E6%94%AF%E4%BB%98%E5%AE%9D%E5%B1%8F%E8%94%BD%EF%BC%8C%E6%97%A0%E9%9C%80%E9%BB%91%E5%90%8D%E5%8D%95_0.1.9_iphoneos-arm64e.deb?sign=BZ5q72M7hVq-JY0omOhtS-62Q8wO8N8M5IkhILS7AN4%3D%3A0
 Size: 29292
 MD5sum: 85b1ce8b98b7853686f9d7221a645637
 SHA1: 324dee5f361d144b06afd55f7a5a873e4d6c55ec
@@ -1406,7 +1406,7 @@ Priority: optional
 Section: 你的iPhone不止于此
 Maintainer: xybp888
 Depends: firmware (>= 15.0), preferenceloader, com.opa334.libsandy
-Filename: debs/电话助手iOS16-正式版(完整越狱)-1.6.3-iphoneos-arm64.deb
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/%E7%94%B5%E8%AF%9D%E5%8A%A9%E6%89%8BiOS16-%E6%AD%A3%E5%BC%8F%E7%89%88%28%E5%AE%8C%E6%95%B4%E8%B6%8A%E7%8B%B1%29-1.6.3-iphoneos-arm64.deb?sign=Qc94x-HhCYvOLjaRNfbcariSQjWnPV65uSEqW7Y0k4E%3D%3A0
 Size: 2713688
 MD5sum: e7424f098accf3768fb8db9d22c7d628
 SHA1: 2c365f5d42a687b5a2289331284fb0e0472c9d3e
@@ -1425,7 +1425,7 @@ Section: Tweaks
 Maintainer: 来了老弟
 Installed-Size: 452
 Depends: mobilesubstrate
-Filename: debs/相册增强-arm64_1.deb
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/%E7%9B%B8%E5%86%8C%E5%A2%9E%E5%BC%BA-arm64_1.deb?sign=KU0Eyt9YJ0odAOVwcjvRZOEPP9uEHh1w4E2jdOdeztw%3D%3A0
 Size: 76056
 MD5sum: f2546431656b3dadf86173f006622f21
 SHA1: 82016a6cc9bbd88c3b6d5face3374a848189faf0

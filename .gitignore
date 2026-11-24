@@ -1,0 +1,4 @@
+debs/
+__pycache__/
+*.py[cod]
+*.cloud-new
