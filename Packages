@@ -1,1437 +1,1371 @@
 Package: com.sini921.ccborder
+Name: CCBorder(roothide)
+Description: 控制中心调整，基于开源修改编译，去掉了AlderisColorPicker依赖
+Maintainer: fiore & p2kdev & SINI
+Author: fiore & p2kdev & SINI
+Section: 控制中心
+Depends: mobilesubstrate, firmware (>= 16.0)
+Icon: https://sini921.github.io/repo/sileodepiction/icon/ccborder.png
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/ccborder/js.json
 Architecture: iphoneos-arm64e
 Version: 1.1.2-42
-Section: 控制中心
-Maintainer: fiore & p2kdev & SINI
 Installed-Size: 1008
-Depends: mobilesubstrate, firmware (>= 16.0)
-Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/CCBorder%28roothide%29-1.1.2-42-iphoneos-arm64e%20%281%29.deb?sign=BoaE6z2EMDJ3miSOr41g_AuSMb-q6wp0TvXeDvAI1Ks%3D%3A0
 Size: 207532
 MD5sum: 147e010f756f089e90060fd701262708
 SHA1: bb5c97e42618230cbff3736981d87e5afe325c90
 SHA256: d51be8d0bd3b6eb6ed4c6542834a05c7f7ccf529b8ce32db1a5387501515e11b
-SHA512: 216a965bdccf437b79772408efbe0b8313d58af8259cc52e5f48ec21aa741608866fb1dd527286b2ac862ae2d6754b37641aaa073b51b2787f02bdea0e64383f
-Description: 控制中心调整，基于开源修改编译，去掉了AlderisColorPicker依赖
-Name: CCBorder(roothide)
-Author: fiore & p2kdev & SINI
-Icon: https://sini921.github.io/repo/sileodepiction/icon/ccborder.png
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/ccborder/js.json
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/CCBorder%28roothide%29-1.1.2-42-iphoneos-arm64e%20%281%29.deb?sign=BoaE6z2EMDJ3miSOr41g_AuSMb-q6wp0TvXeDvAI1Ks%3D%3A0
 
 Package: cn.llld.floatplayer
+Name: FP悬浮播放器
+Depends: mobilesubstrate, firmware (>= 14.0), com.opa334.ccsupport
+Description: SpringBoard 系统级悬浮音视频播放器，支持媒体导入、路径扫描、播放列表、倍速、侧边拉手和控制中心。无需注册登陆就播放某些厂音乐和下载。
+Maintainer: 来了老弟
+Author: 来了老弟
+Section: Tweaks
+Icon: file:///var/jb/Library/PreferenceBundles/FloatPlayerPrefs.bundle/icons-llld/icon@2x.png
 Architecture: iphoneos-arm64e
 Version: 1.5.24
-Section: Tweaks
-Maintainer: 来了老弟
 Installed-Size: 2428
-Depends: mobilesubstrate, firmware (>= 14.0), com.opa334.ccsupport
-Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/FP%E6%82%AC%E6%B5%AE%E6%92%AD%E6%94%BE%E5%99%A8_1.5.24-%E9%9A%90%E6%A0%B9-arm64e.deb?sign=HNn-nfcqGIaH3pOQffTqR2F_fHkhOsSFLvxGdNo6qJ4%3D%3A0
 Size: 424996
 MD5sum: 87f4f758874515854bbfa2fcc597cb63
 SHA1: c8adefb288abd02032153b39737db6fd07d8daa0
 SHA256: b4a7301bd0934ab856ac074eb5139f0472b4a4d1c25dc1fa1e00511c438429a4
-SHA512: dae3e682eb4d2cc425b8a1255f896285502aea8ab09fd891a0503aaa944c9c913a81e5f29585b5901b844acbaa885a4a9a7ef005d43a43ad9a32bf97c47b2e2f
-Description: SpringBoard 系统级悬浮音视频播放器，支持媒体导入、路径扫描、播放列表、倍速、侧边拉手和控制中心。无需注册登陆就播放某些厂音乐和下载。
-Name: FP悬浮播放器
-Author: 来了老弟
-Icon: file:///var/jb/Library/PreferenceBundles/FloatPlayerPrefs.bundle/icons-llld/icon@2x.png
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/FP%E6%82%AC%E6%B5%AE%E6%92%AD%E6%94%BE%E5%99%A8_1.5.24-%E9%9A%90%E6%A0%B9-arm64e.deb?sign=HNn-nfcqGIaH3pOQffTqR2F_fHkhOsSFLvxGdNo6qJ4%3D%3A0
 
 Package: cn.llld.floatplayer
+Name: FP悬浮播放器
+Depends: mobilesubstrate, firmware (>= 14.0), com.opa334.ccsupport
+Description: SpringBoard 系统级悬浮音视频播放器，支持媒体导入、路径扫描、播放列表、倍速、侧边拉手和控制中心。无需注册登陆就播放某些厂音乐和下载。
+Maintainer: 来了老弟
+Author: 来了老弟
+Section: Tweaks
+Icon: file:///var/jb/Library/PreferenceBundles/FloatPlayerPrefs.bundle/icons-llld/icon@2x.png
 Architecture: iphoneos-arm64
 Version: 1.5.24
-Section: Tweaks
-Maintainer: 来了老弟
 Installed-Size: 2428
-Depends: mobilesubstrate, firmware (>= 14.0), com.opa334.ccsupport
-Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/FP%E6%82%AC%E6%B5%AE%E6%92%AD%E6%94%BE%E5%99%A8_1.5.24_%E6%97%A0%E6%A0%B9-arm64.deb?sign=yk6v6J8uajUApPKqsEvG4wCRtSzF4BSw9MwaCjcbqq0%3D%3A0
 Size: 428908
 MD5sum: 279226af5a5c953ca5f390621b79d056
 SHA1: 0002bef13e46427d30c241d6b18490af88c0d57f
 SHA256: a472c1c6cda863f48cfae9e337e21489e85b839ffa6e01d6a2bc250f482e45bd
-SHA512: b944e8f9a9301ce7b0f92ee393a16bc227c8da211650df14719cb8af327d28d07faf2404f35fda285962e8eb0fd8cfca093b12f89b5a81132968b1f24276ab24
-Description: SpringBoard 系统级悬浮音视频播放器，支持媒体导入、路径扫描、播放列表、倍速、侧边拉手和控制中心。无需注册登陆就播放某些厂音乐和下载。
-Name: FP悬浮播放器
-Author: 来了老弟
-Icon: file:///var/jb/Library/PreferenceBundles/FloatPlayerPrefs.bundle/icons-llld/icon@2x.png
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/FP%E6%82%AC%E6%B5%AE%E6%92%AD%E6%94%BE%E5%99%A8_1.5.24_%E6%97%A0%E6%A0%B9-arm64.deb?sign=yk6v6J8uajUApPKqsEvG4wCRtSzF4BSw9MwaCjcbqq0%3D%3A0
 
-Package: com.wkk.quickprefs
-Architecture: iphoneos-arm64e
-Version: 1.3.3-1
+Package: local.qqallinone.control
+Name: QQ彩虹糖
+Version: 9.3.78-1.52
+Architecture: iphoneos-arm64
+Maintainer: Hao
+Author: Hao
 Section: Tweaks
+Icon: file:///var/jb/Library/Application%20Support/QQRainbowCandy/icon.png
+Description: QQ彩虹糖 1.52 · QQ 增强
+ 防撤回（含群主/管理员撤回别人的消息）、群聊语音保存、点歌、文字转语音、模拟机型（55 款 iPhone / iPad / iPod）、QQ 空间去广告、数据目录独立存放，QQ 升级不丢素材与语音包。
+Size: 1572716
+MD5sum: 89d96ee9a938b8e31a762128e53641c3
+SHA1: 9dd9ef9071d452a9192c3ef7db9c9c5873d3694a
+SHA256: 0a7ecadb993c70a6e298f8d7d459c50aaa6125a5f0717f044cb107090eeee83c
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/QQRainbowCandy_1.52_rootless_iphoneos-arm64.deb?sign=ne88V2wjJH3Sxg5x8E6FX07kDTTdHcUwOk9aRkKnykY%3D%3A0
+
+Architecture: iphoneos-arm64e
+Package: com.wkk.quickprefs
+Name: QuickPrefs
+Version: 1.3.3-1
+Icon: https://s1.imagehub.cc/images/2025/01/24/137ad8ab011c468fac23f82c8eb7c050.png
+Description: 设置里的项目抓取，已汉化，上架备份。
+Section: Tweaks
+Depends: firmware (>=11.0), mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 11.0)
+Author: AnthoPak <anthopakdev@gmail.com>
 Maintainer: AnthoPak <anthopakdev@gmail.com>
 Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>=11.0), mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 11.0)
-Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/QuickPrefs-1.3.3-1-iphoneos-arm64e.deb?sign=UAEQ9EqofpRx3_1naEl5M7PXo5T389bUdTq01knEXRY%3D%3A0
 Size: 538176
 MD5sum: 7019f4979db9ff4af233d2ed8875a97d
 SHA1: 11b6df478385ef3e594027c967e54ad2e96089ca
 SHA256: c3aa6a2d16cb309552a5c22ed13a0c0d81e071685ca19f36811b65931e4871a8
-SHA512: db33a208416b157525b91d0b94b1003dc6b183b30fe2e75a5e29f0e14f58a973e2630d9cf4798edab79deb2c0c5b8f74b3cfb06b47c3d4424867fa98eceb4ce8
-Description: 设置里的项目抓取，已汉化，上架备份。
-Name: QuickPrefs
-Icon: https://s1.imagehub.cc/images/2025/01/24/137ad8ab011c468fac23f82c8eb7c050.png
-Author: AnthoPak <anthopakdev@gmail.com>
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/QuickPrefs-1.3.3-1-iphoneos-arm64e.deb?sign=UAEQ9EqofpRx3_1naEl5M7PXo5T389bUdTq01knEXRY%3D%3A0
 
 Package: cn.llld.snapshottool
+Name: STTool
+Author: 来了老弟
+Description: ---对于应用软件的图片，（AI编辑图，AI文生图等，无水印拿图，直接分享，复制到剪切板，图片分割，文字水印，涂鸦，截图，保存到相册，圆角处理，直接马赛克等功能，特意支持telegram,nicegram,swiftgram等应用，禁止截图或私密群组的图片保存到粘贴板和相册）。***(商店应用有百万千万级，非100%应用或场景支持，不可能挨个应用测试)***
+Depends: mobilesubstrate
+Maintainer: 来了老弟
+Section: rootless应用插件
+Icon: file:///var/jb/Library/PreferenceBundles/SnapshotToolprefs.bundle/icons-llld/SnapshotTool.png
+SileoDepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.snapshottool/snapshottool.json
 Architecture: iphoneos-arm64
 Version: 4.7.0.30
-Section: rootless应用插件
-Maintainer: 来了老弟
 Installed-Size: 1856
-Depends: mobilesubstrate
-Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/STTool_4.7.0.30_%E5%85%A8%E5%B1%8F%E6%B0%B4%E5%8D%B0-arm64.deb?sign=ZtE5kfL2DMihPYiCH8xkEpSsfPbk4SF5mBGqDWFoV-0%3D%3A0
 Size: 732540
 MD5sum: 0e97d63042caeb1681aa049e10428198
 SHA1: 905256bb99033ae608d042e57bb890bfbc480717
 SHA256: 71717a7158f2ed08ad618285d4116457c1922ac52616711383f18b2393040acc
-SHA512: a6c9dd154a5f1e81616f53d43ff00c470d25b2c88ee3f0c6b39325e29cafbe9464fc97fd078bf72e59497b2746f37108914bbce2a9558c3026b7900f91d094f1
-Description: ---对于应用软件的图片，（AI编辑图，AI文生图等，无水印拿图，直接分享，复制到剪切板，图片分割，文字水印，涂鸦，截图，保存到相册，圆角处理，直接马赛克等功能，特意支持telegram,nicegram,swiftgram等应用，禁止截图或私密群组的图片保存到粘贴板和相册）。***(商店应用有百万千万级，非100%应用或场景支持，不可能挨个应用测试)***
-Name: STTool
-Author: 来了老弟
-Icon: file:///var/jb/Library/PreferenceBundles/SnapshotToolprefs.bundle/icons-llld/SnapshotTool.png
-SileoDepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.snapshottool/snapshottool.json
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/STTool_4.7.0.30_%E5%85%A8%E5%B1%8F%E6%B0%B4%E5%8D%B0-arm64.deb?sign=ZtE5kfL2DMihPYiCH8xkEpSsfPbk4SF5mBGqDWFoV-0%3D%3A0
 
 Package: com.yechen.ccplayer
+Section: Tweaks
+Installed-Size: 2048
+Maintainer: 夜辰
 Architecture: iphoneos-arm64
 Version: 1.7.573
-Section: Tweaks
-Maintainer: 夜辰
-Installed-Size: 2048
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
-Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/cc%E6%92%AD%E6%94%BE%E5%99%A8_1.7.573_iphoneos-arm64.deb?sign=DOhGwIa3yXLZh8vJvRyUgrsLZLve_U_E6PeLAgAO9HY%3D%3A0
+Description: 这是一款加强控制中心3x2/4x2播放器美化的插件
+Name: cc播放器
+Author: 夜辰
 Size: 4292148
 MD5sum: a24e9cd712ce54d661ca9dedba1b963d
 SHA1: b4792d268b565ef73b68335fd26da0533091ce63
 SHA256: dc6cdacbe9ffb92c266adf0daf83ba342f48353aa5ea22329c148fbece3c3b53
-SHA512: fefc6e67ce535f8c3972ec5edb5ea4ab797bfee762bb084c85fd7cec5f835fc3cadf85764198418300eb0413dedae29b4f23def0f7be8d2aeaca497cbde5b463
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/cc%E6%92%AD%E6%94%BE%E5%99%A8_1.7.573_iphoneos-arm64.deb?sign=DOhGwIa3yXLZh8vJvRyUgrsLZLve_U_E6PeLAgAO9HY%3D%3A0
+
+Package: com.yechen.ccplayer
+Section: Tweaks
+Installed-Size: 2048
+Maintainer: 夜辰
+Architecture: iphoneos-arm64
+Version: 1.7.591
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
 Description: 这是一款加强控制中心3x2/4x2播放器美化的插件
 Name: cc播放器
 Author: 夜辰
-
-Package: com.yechen.ccplayer
-Architecture: iphoneos-arm64
-Version: 1.7.591
-Section: Tweaks
-Maintainer: 夜辰
-Installed-Size: 2048
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
-Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/cc%E6%92%AD%E6%94%BE%E5%99%A8_1.7.591_iphoneos-arm64.deb?sign=cPd8YsvqRewRJFCSjgfzNUZ32vIYwGzU1T2lxCa-d-I%3D%3A0
 Size: 4329832
 MD5sum: c2ef0564551434e48defef975fb59df2
 SHA1: ad1eac4391e143860dcf2e32fe9e07406ea2b3be
 SHA256: 12d7ff3844621366de20ddfab00e0354ab359f55b1556e4a46f3a01bded02931
-SHA512: 904fb24b86458c6d1cd474545c7791ed3969459342c3d249b3b088a348dd417bdd3bd0971360f543cdd0151bc95dae4d515e84ef0ce35949d94302daedba554b
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/cc%E6%92%AD%E6%94%BE%E5%99%A8_1.7.591_iphoneos-arm64.deb?sign=cPd8YsvqRewRJFCSjgfzNUZ32vIYwGzU1T2lxCa-d-I%3D%3A0
+
+Package: com.yechen.ccplayer
+Section: Tweaks
+Installed-Size: 2048
+Maintainer: 夜辰
+Architecture: iphoneos-arm64e
+Version: 1.7.591
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
 Description: 这是一款加强控制中心3x2/4x2播放器美化的插件
 Name: cc播放器
 Author: 夜辰
-
-Package: com.yechen.ccplayer
-Architecture: iphoneos-arm64e
-Version: 1.7.591
-Section: Tweaks
-Maintainer: 夜辰
-Installed-Size: 2048
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
-Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/cc%E6%92%AD%E6%94%BE%E5%99%A8_1.7.591_roothide_iphoneos-arm64e.deb?sign=fgAtKlqlQCysgZTp64rE4S05WPkB4Bj7rv_fx-hfejE%3D%3A0
 Size: 4329832
 MD5sum: 1a72a5dc4dd28d7e1e84ed5041d3e5fa
 SHA1: 38a51bdef05ded9c7eb0d17f84b96e452e06613e
 SHA256: cab22ab601a2e517ca10e9af58e4eb4a3e6ae0e76f1904d206ac4afaf734c120
-SHA512: 9a490277664d5d00170a1b92218213e17cddc10afa51328df35d6f0cb61187fc87bba547425fd7b560a12c19dd4a733387e1bb0f47ee0157a468a991086990d6
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/cc%E6%92%AD%E6%94%BE%E5%99%A8_1.7.591_roothide_iphoneos-arm64e.deb?sign=fgAtKlqlQCysgZTp64rE4S05WPkB4Bj7rv_fx-hfejE%3D%3A0
+
+Package: com.yechen.ccplayer
+Section: Tweaks
+Installed-Size: 2048
+Maintainer: 夜辰
+Architecture: iphoneos-arm64
+Version: 1.7.598
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
 Description: 这是一款加强控制中心3x2/4x2播放器美化的插件
 Name: cc播放器
 Author: 夜辰
-
-Package: com.yechen.ccplayer
-Architecture: iphoneos-arm64
-Version: 1.7.598
-Section: Tweaks
-Maintainer: 夜辰
-Installed-Size: 2048
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
-Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/cc%E6%92%AD%E6%94%BE%E5%99%A8_1.7.598_iphoneos-arm64.deb?sign=4NivYfSahNGILHCeWQqTEHOApOYZYMAlKbsKPU0E9IM%3D%3A0
 Size: 4396228
 MD5sum: 6763d52a92e0ca1e8dabbd7d58c579f1
 SHA1: 78d60729d7f28fb78664297fed6a5d0efe486473
 SHA256: 3a2a3b630e13dd6a9535aa66f1d1cb1ea8bd5d6cd89130ef5f2f51f359d9160e
-SHA512: cfb958ea116b2edc6a4526452e836a34cf8f960b495df3f3ca0e6ef4437675a96b3427489414f884f454bf712334e23011157e63660badabd4341942c7f26705
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/cc%E6%92%AD%E6%94%BE%E5%99%A8_1.7.598_iphoneos-arm64.deb?sign=4NivYfSahNGILHCeWQqTEHOApOYZYMAlKbsKPU0E9IM%3D%3A0
+
+Package: com.yechen.ccplayer
+Section: Tweaks
+Installed-Size: 2048
+Maintainer: 夜辰
+Architecture: iphoneos-arm64
+Version: 1.7.626
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
 Description: 这是一款加强控制中心3x2/4x2播放器美化的插件
 Name: cc播放器
 Author: 夜辰
-
-Package: com.yechen.ccplayer
-Architecture: iphoneos-arm64
-Version: 1.7.626
-Section: Tweaks
-Maintainer: 夜辰
-Installed-Size: 2048
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
-Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/cc%E6%92%AD%E6%94%BE%E5%99%A8_1.7.626_iphoneos-arm64.deb?sign=AQhky0PLYKYXHR27-vk1BbYcu7A0yg0-y7820q3wHHQ%3D%3A0
 Size: 4349076
 MD5sum: 80dbbf29efe2ec4a58d7d983c275b4e3
 SHA1: d917eacb0c0be58d997fa10686af110d0f5b7808
 SHA256: e09350e4214ed425bf1d90afecb4d96f2d665d38d2251f9b12dca6d1c4d9485d
-SHA512: 1e1af8c228e7041995ed01e0793b52333e8f4753df7327b339b49d3a6c985df68cb3e4569a6f12a01154f579427ee46fa8e293b4f55f3275fd004b8a1623f15e
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/cc%E6%92%AD%E6%94%BE%E5%99%A8_1.7.626_iphoneos-arm64.deb?sign=AQhky0PLYKYXHR27-vk1BbYcu7A0yg0-y7820q3wHHQ%3D%3A0
+
+Package: com.yechen.ccplayer
+Section: Tweaks
+Installed-Size: 2048
+Maintainer: 夜辰
+Architecture: iphoneos-arm64
+Version: 1.7.653
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
 Description: 这是一款加强控制中心3x2/4x2播放器美化的插件
 Name: cc播放器
 Author: 夜辰
-
-Package: com.yechen.ccplayer
-Architecture: iphoneos-arm64
-Version: 1.7.653
-Section: Tweaks
-Maintainer: 夜辰
-Installed-Size: 2048
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
-Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/cc%E6%92%AD%E6%94%BE%E5%99%A8_1.7.653_iphoneos-arm64.deb?sign=dgf13fA-UD8oK5DvrUUJM5NtVdXxs9r9zbeb32DzGUQ%3D%3A0
 Size: 4287948
 MD5sum: 72309b62f200690fad8f52f65c6d5ba8
 SHA1: 3864601dfcf1e07a50df71041553dcd530994893
 SHA256: 865569a29ccf56f59e3b1aee5c2814063294621669365aecc148b43341320242
-SHA512: 5f261c5ab0eb185e8f045397facef0ce08e387902bdec965326f74a69a86d88feb4a872eae6d54856e0740c10d03904ee300b7a3a47f91464a58d0d25d8effae
-Description: 这是一款加强控制中心3x2/4x2播放器美化的插件
-Name: cc播放器
-Author: 夜辰
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/cc%E6%92%AD%E6%94%BE%E5%99%A8_1.7.653_iphoneos-arm64.deb?sign=dgf13fA-UD8oK5DvrUUJM5NtVdXxs9r9zbeb32DzGUQ%3D%3A0
 
 Package: cn.llld.qsyy
+Name: FT悬浮文本增强替换翻译汉化
+Author: 来了老弟
+Description: ***一款支持批量替换文本的悬浮窗工具***，使用说明：悬浮窗内填写：文本替换前===文本替换后，===是替换符。使用场景：修改通话时间，修改联系人，修改通话记录，翻译替换文本，自定义文字替换，自定义文字大小，自定义文字视图宽度，高度，自定义文字视图横向纵向的坐标，自定义文字颜色，自定义文字字体，自定义文字透明度，隐藏设备实际信息，靓仔装逼等，这只是应用类插件，不会影响到系统全局或桌面。
+Depends: mobilesubstrate (>= 0.9.5000) , firmware (>= 14.0), preferenceloader, com.opa334.altlist
+Maintainer: 来了老弟
+Section: rootless应用插件
+Icon: file:///var/jb/Library/PreferenceBundles/fyllldprefs.bundle/icons-llld/fyxf.png
+SileoDepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.qsyy/fy.json
 Architecture: iphoneos-arm64
 Version: 2.3.1-2
-Section: rootless应用插件
-Maintainer: 来了老弟
 Installed-Size: 4964
-Depends: mobilesubstrate (>= 0.9.5000) , firmware (>= 14.0), preferenceloader, com.opa334.altlist
-Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/cn.llld.qsyy_2.3.1-2_iphoneos-arm64%20%281%29.deb?sign=w9UqP8HiGzfUItQdc52VC9KPJ-05xQBwNpEprb1mICM%3D%3A0
 Size: 1948510
 MD5sum: 1720ab44620d5ea52305ef36a9f87ead
 SHA1: 898ec66e5a3061a3ce5e20ba5c98fdf432240f9c
 SHA256: 1ace250928a82e39ab3a9f146680ffa70ecdfcbe12a624d334bdfbfbd022e60f
-SHA512: 38ca8e871d71c76a0484ed2e0204453466407b9921835c3e01e15f9a5b44989d0141ae93903656f9553e87fde093927f926b54c1fee23f25dbb16210f3b19c1a
-Description: ***一款支持批量替换文本的悬浮窗工具***，使用说明：悬浮窗内填写：文本替换前===文本替换后，===是替换符。使用场景：修改通话时间，修改联系人，修改通话记录，翻译替换文本，自定义文字替换，自定义文字大小，自定义文字视图宽度，高度，自定义文字视图横向纵向的坐标，自定义文字颜色，自定义文字字体，自定义文字透明度，隐藏设备实际信息，靓仔装逼等，这只是应用类插件，不会影响到系统全局或桌面。
-Name: FT悬浮文本增强替换翻译汉化
-Author: 来了老弟
-Icon: file:///var/jb/Library/PreferenceBundles/fyllldprefs.bundle/icons-llld/fyxf.png
-SileoDepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.qsyy/fy.json
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/cn.llld.qsyy_2.3.1-2_iphoneos-arm64%20%281%29.deb?sign=w9UqP8HiGzfUItQdc52VC9KPJ-05xQBwNpEprb1mICM%3D%3A0
 
 Package: com.binglan.dongtaidao
-Architecture: iphoneos-arm64
-Version: 2.0.5
+Name: 动态岛
 Section: 冰蓝的插件
 Maintainer: binglan
-Installed-Size: 492
+Author: binglan
+Description: 灵动岛增加视频背景。
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
-Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.binglan.dongtaidao_2.0.5_iphoneos-arm64.deb?sign=-CH3jWZeUmOrVp-sB4OLUeowUnoU9iIZnsY3dhWsBts%3D%3A0
+Architecture: iphoneos-arm64
+Version: 2.0.5
+Installed-Size: 492
 Size: 52952
 MD5sum: dce90cd16afaa59c9325513c2d543674
 SHA1: f00f426791fef3334327dbd25d305858abeea8d3
 SHA256: 397eac223c454553a367ad00547575dde5eab566c1d52cd541fddac4a7cf55b3
-SHA512: 317d339de7208a84586d8762f754e7f97d7d536fa3f40ef38e3b50beccfe1a5c26a1f96a992046cbce2d745bd5053113901e057f7051e9ef0d491dcbc7a5da24
-Description: 灵动岛增加视频背景。
-Name: 动态岛
-Author: binglan
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.binglan.dongtaidao_2.0.5_iphoneos-arm64.deb?sign=-CH3jWZeUmOrVp-sB4OLUeowUnoU9iIZnsY3dhWsBts%3D%3A0
 
 Package: com.binglan.dynamicfx
-Architecture: iphoneos-arm64
-Version: 1.0.5
+Name: DynamicFX
 Section: Tweaks
 Maintainer: 冰蓝
-Installed-Size: 724
+Author: 冰蓝
+Description: 灵动岛视频背景？
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
-Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.binglan.dynamicfx_1.0.5_iphoneos-arm64.deb?sign=uHwJJBlDsOuDAphrsxhJcP4pMw7hJeI_w8o0xTGs3BA%3D%3A0
+Architecture: iphoneos-arm64
+Version: 1.0.5
+Installed-Size: 724
 Size: 106324
 MD5sum: 1d54da6404e0db8fa9953d2b01dd2527
 SHA1: 1ea8923b266cd0964d25ac2b8c70123025160203
 SHA256: da17aee01b053169739d1933895e7d86992111b507d07ff23971cb31eedc56f6
-SHA512: 61ee1b25c121891942dc659dbaea7abf9bbeec45944175dfd51722ccc6dff4feb860dfb9c8aba91c1efdc0b7e5d81537559d1c04db2bfde98489d08427c3f500
-Description: 灵动岛视频背景？
-Name: DynamicFX
-Author: 冰蓝
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.binglan.dynamicfx_1.0.5_iphoneos-arm64.deb?sign=uHwJJBlDsOuDAphrsxhJcP4pMw7hJeI_w8o0xTGs3BA%3D%3A0
 
 Package: com.binglan.dynamicfx
-Architecture: iphoneos-arm64
-Version: 1.0.7
+Name: DynamicFX
 Section: Tweaks
 Maintainer: 冰蓝
-Installed-Size: 868
+Author: 冰蓝
+Description: 灵动岛背景？
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
-Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.binglan.dynamicfx_1.0.7_iphoneos-arm64.deb?sign=jjW3iD7bJ-txUCIduMrEW-wOj9bX10lVwxolrenVUEQ%3D%3A0
+Architecture: iphoneos-arm64
+Version: 1.0.7
+Installed-Size: 868
 Size: 164388
 MD5sum: b281e4193eeb5462a90337596c890d1f
 SHA1: ea502dd27aca0f0517bdab41ff6fcb24fd9630a9
 SHA256: c58e23132f0f80a3f669ee4051573a769ad03aa09d674c71a8755c40f9a0b81a
-SHA512: c8ce7b4e61c86ab84b6d8294c56fefc21e42d8ef38637932899121a8cd28dc6c31d990c6df804b6cbaed0c91e74033dd1560166c9bf117ae2f562265f95f90ab
-Description: 灵动岛背景？
-Name: DynamicFX
-Author: 冰蓝
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.binglan.dynamicfx_1.0.7_iphoneos-arm64.deb?sign=jjW3iD7bJ-txUCIduMrEW-wOj9bX10lVwxolrenVUEQ%3D%3A0
 
 Package: com.binglan.kongzhiBG
+Name: 控制中心视频
+Description: ps：安装之前需要去https://wwg135.github.io/越狱源安装Flex 3 Beta90依赖，插件描述：为控制中心增加视频背景
+Maintainer: binglan
+Author: binglan
+Section: 冰蓝的插件
+Depends: firmware (>= 16.0), mobilesubstrate
 Architecture: iphoneos-arm64
 Version: 1.0.1
-Section: 冰蓝的插件
-Maintainer: binglan
 Installed-Size: 432
-Depends: firmware (>= 16.0), mobilesubstrate
-Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.binglan.kongzhiBG_1.0.1_iphoneos-arm64.deb?sign=wbFf8Vg3YHBw3ABF4a47Ze35NnaL_D7MVtb_l6TWONA%3D%3A0
 Size: 40652
 MD5sum: 01866a3e5cef4b892142e8c68b3362be
 SHA1: 5b78b0459288d56059e8d1bc61e8f57f3d0aa85d
 SHA256: aaa803b7a6efc4b4d3afca59b9cdbbf8b215ab306c4073fb562bde83abffb0ea
-SHA512: c5a45b1295de068a126557399ae99acfa20c96026e5b7ef2b11b2376231803bc97d613e6901143e89ef68c6d2e26de87edc740c196990821f6bd01d4002af7bc
-Description: ps：安装之前需要去https://wwg135.github.io/越狱源安装Flex 3 Beta90依赖，插件描述：为控制中心增加视频背景
-Name: 控制中心视频
-Author: binglan
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.binglan.kongzhiBG_1.0.1_iphoneos-arm64.deb?sign=wbFf8Vg3YHBw3ABF4a47Ze35NnaL_D7MVtb_l6TWONA%3D%3A0
 
 Package: com.binglan.kongzhidiy
-Architecture: iphoneos-arm64
-Version: 2.3.3-end
+Name: 控制中心美化
 Section: Tweaks
 Maintainer: binglan
-Installed-Size: 3028
+Author: binglan
+Description: 神秘功能。
 Depends: mobilesubstrate, firmware (>= 15.0)
-Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.binglan.kongzhidiy_2.3.3-end_iphoneos-arm64.deb?sign=8jdo2CVsDJvkVha2FmcGR2wI8LDXA7B3LW_x9hMCZjo%3D%3A0
+Architecture: iphoneos-arm64
+Version: 2.3.3-end
+Installed-Size: 3028
 Size: 674584
 MD5sum: 546334e75c474867ef5356a6585bff10
 SHA1: a0081bf5ad537864ed6010bfd4b1b3c78841fd02
 SHA256: 2965455ebb602bb3567d842c738da10af0d59c9c77ce9e02132bb03724525fb3
-SHA512: 9e0679ade2b995b9be98ae25ac84255f80d5c526a07745b1a72ac36fb34263d75da8d4a751f1c202b199ae54981965f9ca55a82bc8bf4a549d49107acbfe2fd9
-Description: 神秘功能。
-Name:  控制中心美化
-Author: binglan
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.binglan.kongzhidiy_2.3.3-end_iphoneos-arm64.deb?sign=8jdo2CVsDJvkVha2FmcGR2wI8LDXA7B3LW_x9hMCZjo%3D%3A0
 
 Package: com.binglan.kzmh
-Architecture: iphoneos-arm64
-Version: 2.2.3-END
+Name: 控制中心美化
 Section: Tweaks
 Maintainer: binglan
-Installed-Size: 2088
+Author: binglan
+Description: 神秘功能。
 Depends: mobilesubstrate, firmware (>= 15.0)
-Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.binglan.kzmh_2.2.3-END_iphoneos-arm64.deb?sign=GXRz8lSos5e3DOwM9lC_0fBRqQuw0k_A_fREfjA6P-I%3D%3A0
+Architecture: iphoneos-arm64
+Version: 2.2.3-END
+Installed-Size: 2088
 Size: 574496
 MD5sum: 3a52a1308f8f8332c1190eea913a9ddf
 SHA1: ea06e7dfc6790edd53bd0ebdaaab6b422b87ea7d
 SHA256: 520777b8b45dcb47269d4e372c1bb04eca7d266defb8f6d95a8c4703099df18a
-SHA512: 079eb17dbca86e9afe6e44aba377c46570260c968f2208c74695b0ee452bae7fcf2e1a0161a6347203be513c19408de27d686838cfec36154ba52244d7a88d24
-Description: 神秘功能。
-Name:  控制中心美化
-Author: binglan
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.binglan.kzmh_2.2.3-END_iphoneos-arm64.deb?sign=GXRz8lSos5e3DOwM9lC_0fBRqQuw0k_A_fREfjA6P-I%3D%3A0
 
 Package: com.binglanqjsy.deb
+Name: 全局水印
+Description: 添加全局水印相关功能，支持截图水印，录屏水印，套壳截图，套壳录屏。
+Maintainer: 冰蓝
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.16)
+Section: 冰蓝的插件
+Author: 冰蓝
 Architecture: iphoneos-arm64
 Version: 3.0.0
-Section: 冰蓝的插件
-Maintainer: 冰蓝
 Installed-Size: 908
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.16)
-Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.binglanqjsy.deb_3.0.0_iphoneos-arm64.deb?sign=J_k7yBmvaF6x9XCcBzjLG2zEtvY_-t6MjuYbkqwx1YQ%3D%3A0
 Size: 164700
 MD5sum: b5f69b76705c352e5309337ee10efea0
 SHA1: e7f8a07f2cde1ee4fe34a6d89eaa2911da2ca4ce
 SHA256: e0888fb88c29de86ab70d475664c9fa385e02d0d82dbb92bcfe9cf5d2689bfc2
-SHA512: 75e234cdc442f41911eca5255b70ffa1cf974171665c2630a7245b2d6b27d7988fdc3aeab9cb70a7251461b1be8bfbf63b62ab82d72df482b709467ab25cf843
-Description: 添加全局水印相关功能，支持截图水印，录屏水印，套壳截图，套壳录屏。
-Name: 全局水印
-Author: 冰蓝
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.binglanqjsy.deb_3.0.0_iphoneos-arm64.deb?sign=J_k7yBmvaF6x9XCcBzjLG2zEtvY_-t6MjuYbkqwx1YQ%3D%3A0
 
 Package: com.binglanqjsy.deb
+Name: 全局水印Pro
+Description: 让简单截图，拥有更多可能。
+Maintainer: 冰蓝
+Depends: mobilesubstrate, preferenceloader
+Section: Tweaks
+Author: 冰蓝
 Architecture: iphoneos-arm64
 Version: 4.1.7-end
-Section: Tweaks
-Maintainer: 冰蓝
 Installed-Size: 2576
-Depends: mobilesubstrate, preferenceloader
-Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.binglanqjsy.deb_4.1.7-end_iphoneos-arm64.deb?sign=rRfgY8Ap4KAPioZhSEt7mqYhu9AHc6e3rIzOOjKq8UA%3D%3A0
 Size: 522792
 MD5sum: aac68325377dbffabb2c17c428045db2
 SHA1: 02899ab3ca47bd63c55d54833710ec467221b226
 SHA256: 26c43d21631de9e4febc4cbc69dfb0e559772720a5ebdd6e30cf0dbad27c3258
-SHA512: 8e181969e10fd3ed23c5eebe226d59c7558e261d7f3ac77b6fde22e11ea6f5860d8eda4b5309d2e89f3d4a1cd914f417489981bf95f5d7a0b8dcebd4c86aa250
-Description: 让简单截图，拥有更多可能。
-Name: 全局水印Pro
-Author: 冰蓝
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.binglanqjsy.deb_4.1.7-end_iphoneos-arm64.deb?sign=rRfgY8Ap4KAPioZhSEt7mqYhu9AHc6e3rIzOOjKq8UA%3D%3A0
 
 Package: com.codex.ccplayer
+Section: 夜辰的插件
+Installed-Size: 2048
+Maintainer: 夜辰
 Architecture: iphoneos-arm64
 Version: 1.7.226
-Section: 夜辰的插件
-Maintainer: 夜辰
-Installed-Size: 2048
 Depends: firmware (>= 14.0), preferenceloader
-Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.codex.ccplayer_1.7.226_iphoneos-arm64.deb?sign=4Zsu4TP1Xe7GQ-9S7zyaj9vrT-xR5BgdYbLXhcZbMn0%3D%3A0
+Description: 这是一款加强控制中心3x2/4x2播放器美化的插件，无根版，38.8元激活作者微信Pb_0504_作者QQ：860059661
+Name: cc播放器
+Author: 夜辰
 Size: 16200664
 MD5sum: c29f1cc87b226e6b602460fe362cd6d6
 SHA1: 29a6a3cb09abb15d80212450bf9eccfe459005df
 SHA256: cad7be006735475f249bfa5d2b0dca1b55258a93d7022c3f06e015c87ef36f8a
-SHA512: 09e7206c77186d5b80b097d04cf43e5acbaaf876e7fb3a23c1cfcedbc41c3601422ee230f24a270ee0e8fa5b9b9af30aebc0e6afc2d91be86560bb1cec7cc705
-Description: 这是一款加强控制中心3x2/4x2播放器美化的插件，无根版，38.8元激活作者微信Pb_0504_作者QQ：860059661
-Name: cc播放器
-Author: 夜辰
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.codex.ccplayer_1.7.226_iphoneos-arm64.deb?sign=4Zsu4TP1Xe7GQ-9S7zyaj9vrT-xR5BgdYbLXhcZbMn0%3D%3A0
 
 Package: com.codex.ccplayer
+Section: 夜辰的插件
+Installed-Size: 2048
+Maintainer: 夜辰
 Architecture: iphoneos-arm64e
 Version: 1.7.226
-Section: 夜辰的插件
-Maintainer: 夜辰
-Installed-Size: 2048
 Depends: firmware (>= 14.0), preferenceloader
-Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.codex.ccplayer_1.7.226_iphoneos-arm64e.deb?sign=A5mLmp5syZBrf5pbEc11qqUuACfLOk_E3H3_NAB42-g%3D%3A0
+Description: 这是一款加强控制中心3x2/4x2播放器美化的插件，隐根版，38.8元激活作者微信Pb_0504_作者QQ：860059661
+Name: cc播放器
+Author: 夜辰
 Size: 16201224
 MD5sum: aee4dfb8196053117d0a0cf2a99c5d9a
 SHA1: 5bc229164fc15f96459691c8b98fd1a6a596345b
 SHA256: 991106b5467c0e02214a1d33c025831a0d61dbaf960f64ddc83109a5fecb23a6
-SHA512: d4d82f04e104a8fad995086a183380ff4598b144f239990eefb1a78681c79c572d5e7ec8a1780e93980795bf321722d3a0058eae9289d1b5d8ba440773e13079
-Description: 这是一款加强控制中心3x2/4x2播放器美化的插件，隐根版，38.8元激活作者微信Pb_0504_作者QQ：860059661
-Name: cc播放器
-Author: 夜辰
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.codex.ccplayer_1.7.226_iphoneos-arm64e.deb?sign=A5mLmp5syZBrf5pbEc11qqUuACfLOk_E3H3_NAB42-g%3D%3A0
 
 Package: com.diandian.chajianjieshao
+Name: AAA插件仅为自己备份使用
+Description: 仅自己备份使用
+Maintainer: dandian
+Author: diandian
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
 Architecture: iphoneos-arm64
 Version: 0.1
-Section: Tweaks
-Maintainer: dandian
 Installed-Size: 208
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.diandian.chajianjieshao_0.1_iphoneos-arm64.deb?sign=FCOJVcrM3EB_R_r3hRqV3a60KHUveONhhJ-yQrrtsVE%3D%3A0
 Size: 872
 MD5sum: 3c476b40c1cdf157d687351523037324
 SHA1: 5a5e2fe6434b1f882acb2f482759db056f21a08b
 SHA256: 0ae7c5622f33f70d3f16f99e3f32824a003092ed35dd8ad94a57880e0d13dff4
-SHA512: d70275fde69fb403ce5da04ef91c31575adfcd1bc1728647020e8583caa97a74e082b26dc6350295cd2a04ab9bdb092ccf580448f0e5ecd8cf84793612d44423
-Description: 仅自己备份使用
-Name: AAA插件仅为自己备份使用
-Author: diandian
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.diandian.chajianjieshao_0.1_iphoneos-arm64.deb?sign=FCOJVcrM3EB_R_r3hRqV3a60KHUveONhhJ-yQrrtsVE%3D%3A0
 
 Package: com.hang.ccbackground
+Name: 控制中心背景自定义
+Depends: mobilesubstrate
+Description: 控制中心背景
+Depiction: https://pic1.imgdb.cn/item/69e5dc9f198dd6f8d6ac6bd2.png
+Icon: https://pic1.imgdb.cn/item/69e5dc9f198dd6f8d6ac6bd2.png
+Maintainer: 航
+Author: 航
+Section: Tweaks
 Architecture: iphoneos-arm64
 Version: 1.2
-Section: Tweaks
-Maintainer: 航
 Installed-Size: 928
-Depends: mobilesubstrate
-Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.hang.ccbackground_0.1_iphoneos-arm64e.deb?sign=7KgMCs_VQIvCNs0QgEJJFE-4-FiYNzsegfpicIyem0o%3D%3A0
 Size: 168240
 MD5sum: cd08692a866375f5c9c59cb62711b1e5
 SHA1: 8c42965217ae84e9c46c11efc2080dbe97652902
 SHA256: 1a6912bfc1ec5489e1b0bba027c3ebc796f8f85d82ca5c8f8f8b555e4d417f0d
-SHA512: 8b76561c8946e0023c1488c1e5dc85f6d8e4de29db941ee1a4d6e3954cc45b27b7507073f2d4b6df5e1c28070c4eaca0a38232a8b05f6231ad24ecf817d7cf0f
-Description: 控制中心背景
-Name: 控制中心背景自定义
-Depiction: https://pic1.imgdb.cn/item/69e5dc9f198dd6f8d6ac6bd2.png
-Icon: https://pic1.imgdb.cn/item/69e5dc9f198dd6f8d6ac6bd2.png
-Author: 航
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.hang.ccbackground_0.1_iphoneos-arm64e.deb?sign=7KgMCs_VQIvCNs0QgEJJFE-4-FiYNzsegfpicIyem0o%3D%3A0
 
 Package: com.hang.chajiandengpaotihuan
+Name: 微信第三方插件灯泡更换
+Description: 微信第三方插件灯泡更换，被热更新禁止没用就注入一个tp主题ThemePro
+Maintainer: hang
+Author: hang
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
 Architecture: iphoneos-arm64e
 Version: 0.0.1-44+debug
-Section: Tweaks
-Maintainer: hang
 Installed-Size: 80
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.hang.chajiandengpaotihuan_0.0.1-44%2Bdebug_iphoneos-arm64e.deb?sign=4mFm4mlasveYezkZAch0jeUtN00oWnQsVEkBb8E5nbc%3D%3A0
 Size: 9132
 MD5sum: a0479a861fe58f29650255010e3559c8
 SHA1: cc8da1a11aa096a16689115734b941c800e3d880
 SHA256: 555fc15c796886ea2d36bf57829cbd1393328445637c3f38464c7f598a3cce74
-SHA512: 32353deb98511b4d53bc8a992f25834cdf7e19bf2e88c73cd2678e70540d37ab48ad54207cfb00bca00bdae6d71183ae6d7696cfd654d9130ccd25999d25f099
-Description: 微信第三方插件灯泡更换，被热更新禁止没用就注入一个tp主题ThemePro
-Name: 微信第三方插件灯泡更换
-Author: hang
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.hang.chajiandengpaotihuan_0.0.1-44%2Bdebug_iphoneos-arm64e.deb?sign=4mFm4mlasveYezkZAch0jeUtN00oWnQsVEkBb8E5nbc%3D%3A0
 
 Package: com.hang.kaiguan
+Name: 航の开关
+Depends: firmware (>= 15.0), mobilesubstrate
+Description: 自用开关，有问题请卸载。
+Depiction: https://pic1.imgdb.cn/item/69e5a39901316fbabf2ca364.png
+Icon: https://hang1888.github.io/debs/com.hang.kaiguan-icon.jpg
+Maintainer: 航
+Author: 航
+Section: Tweaks
 Architecture: iphoneos-arm64e
 Version: 1.2
-Section: Tweaks
-Maintainer: 航
 Installed-Size: 624
-Depends: firmware (>= 15.0), mobilesubstrate
-Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.hang.kaiguan_1.2_iphoneos-arm64e.deb?sign=y7_VGTFWFwo5H5EESGrSddRMIXqtBVNwJBA_O6Aud4s%3D%3A0
 Size: 236122
 MD5sum: 0fb1e182e4a9cd3470e3c1024d47fc5e
 SHA1: f0c3da6d1cbbdf85af86eb3f2ebedcc7a4cfc403
 SHA256: f55ea299f2caed9e4e60660df427621c791c5644d86b2888a14c8c0622a2aa66
-SHA512: d7a11926ee4006f2cf24ae10f9e017d585b5a35d76757affb651d973b985673b02121c4fea340863b4df1e4cc1da1b9eefe8335c4355c2ce053bc813c7fd4e34
-Description: 自用开关，有问题请卸载。
-Name: 航の开关
-Depiction: https://pic1.imgdb.cn/item/69e5a39901316fbabf2ca364.png
-Icon: https://hang1888.github.io/debs/com.hang.kaiguan-icon.jpg
-Author: 航
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.hang.kaiguan_1.2_iphoneos-arm64e.deb?sign=y7_VGTFWFwo5H5EESGrSddRMIXqtBVNwJBA_O6Aud4s%3D%3A0
 
 Package: com.hang.squidgesturepro-ios17fix
-Architecture: iphoneos-arm64e
-Version: 2.3
-Section: Tweaks
+Name: 乌贼手势 iOS 17 补丁
+Description: 修复SquidGesturePro在iOS17状态栏不生效与启动快捷指令时导致的安全模式。
+ 不生效就把手势内总开关跟小开关重新开启一下，有问题请卸载。
 Maintainer: 航
-Installed-Size: 92
+Author: 航
+Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 17.0)
 Conflicts: com.codex.squidgesture17fix
-Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.hang.shoushibuding_0.2_iphoneos-arm64e.deb?sign=kTOUYP_xll5es5YXSd8GBwIVmRUroZ0kZoGtoY1TGI0%3D%3A0
+Architecture: iphoneos-arm64e
+Version: 2.3
+Installed-Size: 92
 Size: 14942
 MD5sum: 3c941e0431c92d96b9efee635715cc84
 SHA1: 1ec83df36751496447dab25cdafc7719d9db30d6
 SHA256: ecb5cb35b8fa79f0cc957c68208d8239fdca79143b227e275589cc62594d99cd
-SHA512: ff22369b6e7cae135758d0d5d937f3921b209c80bdbe557b2e3c1a209b629135d984af6dc88d45baa1f847d055cd1201ec52b0c080ed96f6cd46e154cd5acadf
-Description: 修复SquidGesturePro在iOS17状态栏不生效与启动快捷指令时导致的安全模式。
- 不生效就把手势内总开关跟小开关重新开启一下，有问题请卸载。
-Name: 乌贼手势 iOS 17 补丁
-Author: 航
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.hang.shoushibuding_0.2_iphoneos-arm64e.deb?sign=kTOUYP_xll5es5YXSd8GBwIVmRUroZ0kZoGtoY1TGI0%3D%3A0
 
 Package: com.hang.zzzj
+Name: 转转找鸡
+Description: 转转搜索筛选助手：悬浮球面板，按机型/电池/系统版本/成色筛选，带复制链接
+Maintainer: hang
+Author: hang
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
 Architecture: iphoneos-arm64
 Version: 0.0.1-8+debug
-Section: Tweaks
-Maintainer: hang
 Installed-Size: 180
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.hang.zzzj_0.0.1-8%2Bdebug_iphoneos-arm64.deb?sign=PNJsEUYKGm4enEaGzQALJEIs_7XienIE38bkHWyScns%3D%3A0
 Size: 35898
 MD5sum: 0a46cd640e82c3d1881dfff01993ba83
 SHA1: 8d6f754d2b985542e7c1f461e08be623a4757320
 SHA256: f6756b6c384c3cf318d53a266627fc4ab6f0026920644ede1def5d62d7d8a792
-SHA512: bf6713b53eb330c373da841ed56c931d06d055d9f5b0c0c5e091c797400b7b26b5a282dcea554212e1ce83555fd420dd8d916c604452029f0844b46f90869b82
-Description: 转转搜索筛选助手：悬浮球面板，按机型/电池/系统版本/成色筛选，带复制链接
-Name: 转转找鸡
-Author: hang
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.hang.zzzj_0.0.1-8%2Bdebug_iphoneos-arm64.deb?sign=PNJsEUYKGm4enEaGzQALJEIs_7XienIE38bkHWyScns%3D%3A0
 
 Package: com.hang.zzzj
+Name: 转转找鸡
+Description: 转转搜索筛选助手：悬浮球面板，按机型/电池/系统版本/成色筛选，带复制链接
+Maintainer: hang
+Author: hang
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
 Architecture: iphoneos-arm64e
 Version: 0.0.1-8+debug
-Section: Tweaks
-Maintainer: hang
 Installed-Size: 180
 Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.hang.zzzj_0.0.1-8%2Bdebug_iphoneos-arm64e.deb?sign=SdBzWB5gofJX0-qwOUDRtXfuY_6wo5cdV_CDyAbYhow%3D%3A0
 Size: 47412
 MD5sum: 880240ec0a6e2f5f686a4beced5216c5
 SHA1: 76c2c9bc0052f1a0bdaba3c7737b651fe86a76e7
 SHA256: ff274f49c7f8fba96bd5132317b6e267487572b3e8fd87251f907fe9dd6d366a
-SHA512: ccb3266893d04d3cb745ac4077c81c9632c43a76b5ea5b1b60805c105db0e5304ee589a2419ec5aee62302389d27a318e6232af3e8a3ae555067c14abce3ee88
-Description: 转转搜索筛选助手：悬浮球面板，按机型/电池/系统版本/成色筛选，带复制链接
-Name: 转转找鸡
-Author: hang
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.hang.zzzj_0.0.1-8%2Bdebug_iphoneos-arm64e.deb?sign=SdBzWB5gofJX0-qwOUDRtXfuY_6wo5cdV_CDyAbYhow%3D%3A0
 
 Package: com.kaku.minishelf
+Name: Kaku Mini Shelf
+Description: 消息收纳（语音、表情、动图、文本、文件等）+ 跨会话拖拽 + 原生重发 + 搜索 + 预览 + 交互。
+Maintainer: Kaku
+Author: Kaku
+Section: Tweaks
+Depends: mobilesubstrate
 Architecture: iphoneos-arm64
 Version: 3.0-1+debug
-Section: Tweaks
-Maintainer: Kaku
 Installed-Size: 1352
-Depends: mobilesubstrate
-Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.kaku.minishelf_3.0-1%2Bdebug_iphoneos-arm64.deb?sign=X0uWgZwFMzfWOxecWbUlvaK7tCKt1owQwLdmsT850YE%3D%3A0
 Size: 385980
 MD5sum: 79ba0b75a07655e665f3ddf9d62d3b54
 SHA1: de18fe482de700a15002cb70d5f180cede14c933
 SHA256: dbedb58d8fb8addaa9c174aa98505e0ae750031f4b40b85beac6f45a046c5fe5
-SHA512: 937490b2e11a9cafd5bf329f4d623caac323b1f1f2a539fb2772ce13471a4ae47a68ed8aeea19a35a6202062fd566984650f8f246f36742c0f878ae6ead214ab
-Description: 消息收纳（语音、表情、动图、文本、文件等）+ 跨会话拖拽 + 原生重发 + 搜索 + 预览 + 交互。
-Name: Kaku Mini Shelf
-Author: Kaku
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.kaku.minishelf_3.0-1%2Bdebug_iphoneos-arm64.deb?sign=X0uWgZwFMzfWOxecWbUlvaK7tCKt1owQwLdmsT850YE%3D%3A0
 
 Package: com.kaku.minishelf
+Name: Kaku Mini Shelf
+Description: 消息收纳（语音、表情、动图、文本、文件等）+ 跨会话拖拽 + 原生重发 + 搜索 + 预览 + 交互。
+Maintainer: Kaku
+Author: Kaku
+Section: Tweaks
+Depends: mobilesubstrate
 Architecture: iphoneos-arm64
 Version: 3.0-2+debug
-Section: Tweaks
-Maintainer: Kaku
 Installed-Size: 1184
-Depends: mobilesubstrate
-Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.kaku.minishelf_3.0-2%2Bdebug_iphoneos-arm64.deb?sign=QaibMZedI7VLLx8_FNrOJgI2VDpUu5pvN8rL_hNOfAk%3D%3A0
 Size: 302648
 MD5sum: d5a68066c41f731f3f7e356eb1b81e94
 SHA1: 649f47cdcd7c222d140fba9e34c56fc81f2173c7
 SHA256: e16cac76428f150777af38a2cfa71e4dfc8657cb8d5bb5f060fb5e0a005761d2
-SHA512: 170b48596a722b778bde847e39cd4d9ff6b8b53be26006b40dc3a6603aad9c3f38fbbc8114758091edd04fe8e053fe1cb3e3a7a1228a9eed45f0d3d5d1701e87
-Description: 消息收纳（语音、表情、动图、文本、文件等）+ 跨会话拖拽 + 原生重发 + 搜索 + 预览 + 交互。
-Name: Kaku Mini Shelf
-Author: Kaku
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.kaku.minishelf_3.0-2%2Bdebug_iphoneos-arm64.deb?sign=QaibMZedI7VLLx8_FNrOJgI2VDpUu5pvN8rL_hNOfAk%3D%3A0
 
 Package: com.my.lingdongvideo
+Name: 灵动岛视频背景
+Depends: mobilesubstrate, preferenceloader, firmware (>= 16.0)
+Description: 为灵动岛音乐播放、展开态和通知场景增加统一视频背景。
+Maintainer: 夜辰
+Author: 夜辰
+Section: Tweaks
 Architecture: iphoneos-arm64
 Version: 0.1.4.523
-Section: Tweaks
-Maintainer: 夜辰
 Installed-Size: 956
-Depends: mobilesubstrate, preferenceloader, firmware (>= 16.0)
-Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.my.lingdongvideo_0.1.4.523_iphoneos-arm64.deb?sign=lCdyEHjshTjOcNxhgZpM4rssWgOHLICSnbRAz38z1Ks%3D%3A0
 Size: 176632
 MD5sum: 9a2c2487bde3951804614965699677a9
 SHA1: b8a21185c21ac132d365d57c7eaf291611c6d909
 SHA256: 52c60f59b687aa1200ff8c1132b1db478f4915e846f6edbd0b4bda8a6bf847dd
-SHA512: d9a240401ec584d9c223c9d71426e1517d1392af23e13bffabb9afc3d78bcc7a12974bec4c65ac323340d9306b40db8081574e5d8931a6de7f0d986a951d8b43
-Description: 为灵动岛音乐播放、展开态和通知场景增加统一视频背景。
-Name: 灵动岛视频背景
-Author: 夜辰
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.my.lingdongvideo_0.1.4.523_iphoneos-arm64.deb?sign=lCdyEHjshTjOcNxhgZpM4rssWgOHLICSnbRAz38z1Ks%3D%3A0
 
 Package: com.ngkhoi.26home
+Name: 26Home
+Depends: mobilesubstrate
+Description: iOS 26 Homescreen customization.
+Maintainer: ngkhoi
+Author: ngkhoi
+Section: Tweaks
 Architecture: iphoneos-arm64
 Version: 1.1.7
-Section: Tweaks
-Maintainer: ngkhoi
 Installed-Size: 28628
-Depends: mobilesubstrate
-Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.ngkhoi.26home_1.1.7_iphoneos-arm64.deb?sign=wueMkIckU7FLZwV1QUdBfRl0DT0VV9yP17D7QV7fcJ8%3D%3A0
 Size: 19919896
 MD5sum: a7e9b0256d0cf33e8954fa530f5b4276
 SHA1: 95a450691057c9963a5763e3bc30a43a1da79613
 SHA256: 53f8d3465f95107ccd48d6f46d59c7f8698ac5e591592020b9a024516a601294
-SHA512: ff5dde9e01dbe19d430e6ca83bd54aad5b330ccf0b29e885ddac01c87dcd98d1056b3d7de7c80144ffd8e894732de7d3cae9d376aec7efa99a22e8a1240e70c8
-Description: iOS 26 Homescreen customization.
-Name: 26Home
-Author: ngkhoi
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.ngkhoi.26home_1.1.7_iphoneos-arm64.deb?sign=wueMkIckU7FLZwV1QUdBfRl0DT0VV9yP17D7QV7fcJ8%3D%3A0
 
 Package: com.opa334.trollstorelite
+Name: TrollStore Lite
+Description: 魔改版白巨魔（相当于直接内置了魔改 rar包➕汉化，无需单独安装刀刀的汉化包
+Maintainer: opa334
+Author: opa334&iosdump
+Section: Applications
 Architecture: iphoneos-arm64e
 Version: 2.1.1-3
-Section: Applications
-Maintainer: opa334
 Installed-Size: 11424
-Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.opa334.trollstorelite_2.1.1-3_iphoneos-arm64e.deb?sign=muZnZ5rtc9Xyd5wfzLH8EzZjag-zCGuHFO6ymrakZQA%3D%3A0
+icon: https://huayuarc.github.io/icon/trollstorehelper.png
 Size: 3678724
 MD5sum: 845214d144b6fdbeedaa369ad34ba330
 SHA1: 5856cc2ee8cb83a2c17de67923a8298d5c8cb548
 SHA256: e614164902365270d2ae375b64466f1d785a6d747cb90971f2124a27c6a05e58
-SHA512: 9b142b621baa29c820e11322d79327ed00ac9a625037945f8aa52e228d1cf7ab7e7340d374a3ba56b931c42663e16add974939900595af56528d6724799d9fd9
-Description: 魔改版白巨魔（相当于直接内置了魔改 rar包➕汉化，无需单独安装刀刀的汉化包
-Name: TrollStore Lite
-Author: opa334&iosdump
-icon: https://huayuarc.github.io/icon/trollstorehelper.png
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.opa334.trollstorelite_2.1.1-3_iphoneos-arm64e.deb?sign=muZnZ5rtc9Xyd5wfzLH8EzZjag-zCGuHFO6ymrakZQA%3D%3A0
 
 Package: com.simon.sliderforge
+Name: SliderForge
+Description: 控制中心亮度/音量滑块布局、填充、百分比字体颜色与自定义。
+Maintainer: Simon
+Author: Simon
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm64
 Version: 1.0.0
-Section: Tweaks
-Maintainer: Simon
 Installed-Size: 468
-Depends: mobilesubstrate, preferenceloader
-Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.simon.sliderforge_1.0.0_iphoneos-arm64.deb?sign=TN9KTl4wY7ouqlJug6A6hxuw0iyIa3V-mEuG4KzFywE%3D%3A0
 Size: 48308
 MD5sum: 769a28aa3b9aaa5d4c6ac5d1afdaca9e
 SHA1: 02a1fa5d7bf307cb586aa9a58f40908b4acee812
 SHA256: aa9c3b6e75ee7dd70ba8eb46f33cd87a95af7959096420417f0b35de0ee7f7c0
-SHA512: e7828b98f68d4670e0925f947458c9b2ee3c16d312a8cc273991dd393505e5f3718abde1df2dda7e0e43d35d68f803ab536cb3691e85f61a4e280f031c78861f
-Description: 控制中心亮度/音量滑块布局、填充、百分比字体颜色与自定义。
-Name: SliderForge
-Author: Simon
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.simon.sliderforge_1.0.0_iphoneos-arm64.deb?sign=TN9KTl4wY7ouqlJug6A6hxuw0iyIa3V-mEuG4KzFywE%3D%3A0
 
 Package: com.simon.sliderforge
+Name: SliderForge
+Description: 控制中心亮度/音量滑块布局、填充、百分比字体颜色与自定义。
+Maintainer: Simon
+Author: Simon
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm64e
 Version: 1.0.0
-Section: Tweaks
-Maintainer: Simon
 Installed-Size: 468
-Depends: mobilesubstrate, preferenceloader
-Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.simon.sliderforge_1.0.0_iphoneos-arm64e%20%281%29.deb?sign=lz6FuZHk__B3p1f0zn2CfO32AsR1whov5vClo9fNZ-Q%3D%3A0
 Size: 48152
 MD5sum: 67eb8f55a0bf081ceb8717fba7d4f972
 SHA1: 195c60c01a932383b9b4547e8b425f40dea79fe4
 SHA256: 79d0d4f798a5a446049455697518872b8e92de6f872d4d49fa3d4c0277010691
-SHA512: 053180a2893d9e8a61d5714689b45afe59f57cd01848ae6c27fcb5119dcf262a5797b81e9fd2dbc66c3f14bad2216476767bb82b5595a8566b172f4d07a79cd5
-Description: 控制中心亮度/音量滑块布局、填充、百分比字体颜色与自定义。
-Name: SliderForge
-Author: Simon
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.simon.sliderforge_1.0.0_iphoneos-arm64e%20%281%29.deb?sign=lz6FuZHk__B3p1f0zn2CfO32AsR1whov5vClo9fNZ-Q%3D%3A0
 
 Package: com.simon.sliderforge
+Name: SliderForge
+Description: 控制中心亮度/音量滑块布局、填充、百分比字体颜色与自定义。
+Maintainer: Simon
+Author: Simon
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm64
 Version: 1.0.1
-Section: Tweaks
-Maintainer: Simon
 Installed-Size: 468
-Depends: mobilesubstrate, preferenceloader
-Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.simon.sliderforge_1.0.1_iphoneos-arm64.deb?sign=WgFCLT4z_FQi5x1lZHkNRdMgmBmNQlTBvJIXURE1Pbc%3D%3A0
 Size: 50938
 MD5sum: d868f33a23a00abb7e63491766c99f05
 SHA1: 303478e26b1b8b96a7bbab4c1e2a44169ca1fa27
 SHA256: 3466cd5b1718880bc38b8dfbe4bdac6c3435dd20bfebb6680e8c9401e6e054de
-SHA512: 0907b020e3eb5ae15b067630767238faf695a9ea363bb62bb7931bca68df07eaff8c92d10595d7a0604501e9368c251c51af5dc00761b5aa6fc46181ccc1254d
-Description: 控制中心亮度/音量滑块布局、填充、百分比字体颜色与自定义。
-Name: SliderForge
-Author: Simon
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.simon.sliderforge_1.0.1_iphoneos-arm64.deb?sign=WgFCLT4z_FQi5x1lZHkNRdMgmBmNQlTBvJIXURE1Pbc%3D%3A0
 
 Package: com.simon.sliderforge
+Name: SliderForge
+Description: 控制中心亮度/音量滑块布局、填充、百分比字体颜色与自定义。
+Maintainer: Simon
+Author: Simon
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm64e
 Version: 1.0.1
-Section: Tweaks
-Maintainer: Simon
 Installed-Size: 468
-Depends: mobilesubstrate, preferenceloader
-Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.simon.sliderforge_1.0.1_iphoneos-arm64e.deb?sign=8vqSP0Rx6Ihjew4DOubj-dJSF3UqLR0qQR-jm0kMzSA%3D%3A0
 Size: 50924
 MD5sum: 0f2300ae859e0aa3c3e0be1e9ce13a8f
 SHA1: fca2ab31f2d0273e7cfc035724ad65fc5bcd8e05
 SHA256: aef55e38a3a5d7dd8c5902306a2ae45e458fed7351ce83ae215c009cec267ed8
-SHA512: cbcf52fd16aee9b22c3392221b5fa6f908ea643c492774c42087e7c93f6b8f337775a8a98d4e71cc497a17ad3cc2a9a6186d1ff4d9c5f007b45a5b68539391e9
-Description: 控制中心亮度/音量滑块布局、填充、百分比字体颜色与自定义。
-Name: SliderForge
-Author: Simon
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.simon.sliderforge_1.0.1_iphoneos-arm64e.deb?sign=8vqSP0Rx6Ihjew4DOubj-dJSF3UqLR0qQR-jm0kMzSA%3D%3A0
 
 Package: com.simon.spectrums
+Name: spectrums
+Description: 去掉音轨在17系统上面的小黑块，动感专辑圆环均衡器，17系统不再卑微！
+Maintainer: Simon
+Author: Simon
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm64
 Version: 2.0.1
-Section: Tweaks
-Maintainer: Simon
 Installed-Size: 784
-Depends: mobilesubstrate, preferenceloader
-Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.simon.spectrums_2.0.1_iphoneos-arm64.deb?sign=JJntnO2JJZQoFiQsF5qT1TKq4vMPrC7g2jHpsxyhMXk%3D%3A0
 Size: 127628
 MD5sum: 792df9637411bf80a75355bad184a5d2
 SHA1: 53ca0fd44adbf56ff3c0b50e7403e85e29b6d460
 SHA256: 159b1aef95b73845f40f5efe8cdc3415a7d55c59227be93d1229bf9cf014282e
-SHA512: f033853250f34a5e0d0f52fea09efc467315d50e123baef9d251fd15343970a7948ced90be052b79b812cbb3462535fa3b5d511772cade128ded64b4f41d83bd
-Description: 去掉音轨在17系统上面的小黑块，动感专辑圆环均衡器，17系统不再卑微！
-Name: spectrums
-Author: Simon
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.simon.spectrums_2.0.1_iphoneos-arm64.deb?sign=JJntnO2JJZQoFiQsF5qT1TKq4vMPrC7g2jHpsxyhMXk%3D%3A0
 
 Package: com.simon.spectrums
+Name: spectrums
+Description: 去掉音轨在17系统上面的小黑块，动感专辑圆环均衡器，17系统不再卑微！
+Maintainer: Simon
+Author: Simon
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm64e
 Version: 2.0.1
-Section: Tweaks
-Maintainer: Simon
 Installed-Size: 784
-Depends: mobilesubstrate, preferenceloader
-Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.simon.spectrums_2.0.1_iphoneos-arm64e.deb?sign=G-ckt2RnVemQiyqARwlVpHe8yVmHiyoy8WxafW5rzn4%3D%3A0
 Size: 127464
 MD5sum: 62b9b766929930f3899c03a4f291efb3
 SHA1: c693c2989500bd8d24aa9fa8d02ae68c6c6fd936
 SHA256: 53972b98048d4edd634d2c374e598e558539a865f0bb64e15061b08284fb2cfc
-SHA512: 868c24fa11950497a72931613709f4ad352974c44704d988d7079769c8c60341d3c7affa5eeb76634b6e7cb5fdd0d53c0c530e00e9652f1a453d0494f0120b7f
-Description: 去掉音轨在17系统上面的小黑块，动感专辑圆环均衡器，17系统不再卑微！
-Name: spectrums
-Author: Simon
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.simon.spectrums_2.0.1_iphoneos-arm64e.deb?sign=G-ckt2RnVemQiyqARwlVpHe8yVmHiyoy8WxafW5rzn4%3D%3A0
 
 Package: com.simon.spectrums
+Name: spectrums
+Description: 去掉音轨在17系统上面的小黑块，动感专辑圆环均衡器，17系统不再卑微！
+Maintainer: Simon
+Author: Simon
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm64
 Version: 2.0
-Section: Tweaks
-Maintainer: Simon
 Installed-Size: 768
-Depends: mobilesubstrate, preferenceloader
-Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.simon.spectrums_2.0_iphoneos-arm64.deb?sign=jRVAyZaroer2bH8Z8tVjWAGRMjezFkAYNJoM2bXoqHc%3D%3A0
 Size: 123280
 MD5sum: 3d7d9d93a40bcb30c25e7b3d88dfc312
 SHA1: f7e571374fdb9e3ca6d97e61b425586a38e832de
 SHA256: ee1355a76f6349e76edeb01bcf5d1fcce9a95e8659fe6450ab79c978d6c31b9c
-SHA512: 34fb9f9e514624d535e7cc9b42483aa36dd787119431628e47bc884b7d084d6185a41fa518fd8d73a48bc6d19794f5b913fe4ebeeb5e92b538e01ec2f3eaba17
-Description: 去掉音轨在17系统上面的小黑块，动感专辑圆环均衡器，17系统不再卑微！
-Name: spectrums
-Author: Simon
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.simon.spectrums_2.0_iphoneos-arm64.deb?sign=jRVAyZaroer2bH8Z8tVjWAGRMjezFkAYNJoM2bXoqHc%3D%3A0
 
 Package: com.simon.spectrums
+Name: spectrums
+Description: 去掉音轨在17系统上面的小黑块，动感专辑圆环均衡器，17系统不再卑微！
+Maintainer: Simon
+Author: Simon
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm64e
 Version: 2.0
-Section: Tweaks
-Maintainer: Simon
 Installed-Size: 768
-Depends: mobilesubstrate, preferenceloader
-Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.simon.spectrums_2.0_iphoneos-arm64e.deb?sign=aIXI7wgj5gfe3fpjCltvqnekSYaURBTJDJs-_vJ_LDI%3D%3A0
 Size: 123564
 MD5sum: 9bcd2940b5b4650d11c928d554382472
 SHA1: 2289cd4e4b0853f3920dbb221361d4fb45ab0a18
 SHA256: 1be31d3f7a4f57ea223ddda274d0a357b4e027cbb4d31217c48d2f1152385dd9
-SHA512: 2864e86211bd7a63a01a2146137528b92697be6ce57b635dc4c129baf3b1fc8c05e713b48dc22a25a1127e8def0c56fcb94e5b44021bdb91aa61372862f6da90
-Description: 去掉音轨在17系统上面的小黑块，动感专辑圆环均衡器，17系统不再卑微！
-Name: spectrums
-Author: Simon
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.simon.spectrums_2.0_iphoneos-arm64e.deb?sign=aIXI7wgj5gfe3fpjCltvqnekSYaURBTJDJs-_vJ_LDI%3D%3A0
 
 Package: com.simon.spectrums
+Name: spectrums
+Description: 去掉音轨在17系统上面的小黑块，动感专辑圆环均衡器，17系统不再卑微！
+Maintainer: Simon
+Author: Simon
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm64
 Version: 3.0.1
-Section: Tweaks
-Maintainer: Simon
 Installed-Size: 784
-Depends: mobilesubstrate, preferenceloader
-Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.simon.spectrums_3.0.1_iphoneos-arm64.deb?sign=eJ8ScUwyGhTyR0dGHnooUfl9hTdZ00hUHb8p1ZjlqAk%3D%3A0
 Size: 139354
 MD5sum: f437b5997590525a9c1f2a8901f62e35
 SHA1: a4c612c8682782371d57686948a9cde2e0927a0b
 SHA256: 2d397e50c85be7f6dc3422054cbc098b7a26dfd38e08d591c4d8dde0ab2ce3e5
-SHA512: 7ad6034be57900a57d0fac1cd76ed54184a7d1268919d4194ae8d97884caf581be45b16c613bc4e8548f9cb03aae243bf3272b0e9b84979bb98e949a7dbe97b4
-Description: 去掉音轨在17系统上面的小黑块，动感专辑圆环均衡器，17系统不再卑微！
-Name: spectrums
-Author: Simon
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.simon.spectrums_3.0.1_iphoneos-arm64.deb?sign=eJ8ScUwyGhTyR0dGHnooUfl9hTdZ00hUHb8p1ZjlqAk%3D%3A0
 
 Package: com.simon.spectrums
+Name: spectrums
+Description: 去掉音轨在17系统上面的小黑块，动感专辑圆环均衡器，17系统不再卑微！
+Maintainer: Simon
+Author: Simon
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm64e
 Version: 3.0.1
-Section: Tweaks
-Maintainer: Simon
 Installed-Size: 784
-Depends: mobilesubstrate, preferenceloader
-Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.simon.spectrums_3.0.1_iphoneos-arm64e.deb?sign=NLi04rA_ILL87Ee1eT-Urmbh951dGB6JkK_UacQgeyA%3D%3A0
 Size: 139294
 MD5sum: 255801ed3a841f75919754570146b3ae
 SHA1: 90fa5763fb081ec73398be3f615ad0707de60830
 SHA256: 8ca1ad2840e0bbd18dbc26190bd538ee0b9cfecd5a0ec9012ac266cdfc447e69
-SHA512: 33d9f86cef7df04e1675fa4bc47e5e2469acf98a868f83d2f97d6992905732f63f9311b5c0381f19972467d97387878d5fc2bb5e124607eb0bc0a35773cf57fc
-Description: 去掉音轨在17系统上面的小黑块，动感专辑圆环均衡器，17系统不再卑微！
-Name: spectrums
-Author: Simon
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.simon.spectrums_3.0.1_iphoneos-arm64e.deb?sign=NLi04rA_ILL87Ee1eT-Urmbh951dGB6JkK_UacQgeyA%3D%3A0
 
 Package: com.simon.spectrums
+Name: spectrums
+Description: 去掉音轨在17系统上面的小黑块，动感专辑圆环均衡器，17系统不再卑微！
+Maintainer: Simon
+Author: Simon
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm64
 Version: 3.0.2
-Section: Tweaks
-Maintainer: Simon
 Installed-Size: 784
-Depends: mobilesubstrate, preferenceloader
-Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.simon.spectrums_3.0.2_iphoneos-arm64.deb?sign=bEHck3IEdcU6OF_64P6ie8trD3AU3XPZdV-slBZdYSo%3D%3A0
 Size: 139716
 MD5sum: 9d644d06d126c2fb82878d26027be421
 SHA1: abf33dba39054d143b124ea1380806308d9b2a83
 SHA256: 58f4f45352c61d4d1679076ba407801c0a5318a7056962bf1817b9f926f54886
-SHA512: f7cf7e0c1a46cccee10e87648b5d70fee366249f5158b52b9c9174088907a39d2415fa371ce9a70dd2e8f6bb7c2621a276e0b9a37bc5e099bd0f7dde10f98b73
-Description: 去掉音轨在17系统上面的小黑块，动感专辑圆环均衡器，17系统不再卑微！
-Name: spectrums
-Author: Simon
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.simon.spectrums_3.0.2_iphoneos-arm64.deb?sign=bEHck3IEdcU6OF_64P6ie8trD3AU3XPZdV-slBZdYSo%3D%3A0
 
 Package: com.simon.spectrums
+Name: spectrums
+Description: 去掉音轨在17系统上面的小黑块，动感专辑圆环均衡器，17系统不再卑微！
+Maintainer: Simon
+Author: Simon
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm64e
 Version: 3.0.2
-Section: Tweaks
-Maintainer: Simon
 Installed-Size: 784
-Depends: mobilesubstrate, preferenceloader
-Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.simon.spectrums_3.0.2_iphoneos-arm64e.deb?sign=rOmLhEqRcdVykFdyJwjjrjmf6QD3nDI7jxTA-ja74vU%3D%3A0
 Size: 140648
 MD5sum: 8e11081208a5c1b5d54875faa8f99b82
 SHA1: 8a38ddb2c27b85cdd3c6dbbef23efc603a6d9017
 SHA256: 89f65d11f88a1a8ae1bf9e048695b1e7f36c1559c20f92a5bfa0fbe714465d31
-SHA512: e2966c0a38e2ce70c0eabc086d718028d8b6c0264ae66bb0acebeea63424542e736e9d5ce8db14740ae5394c9a246d7d0b7fe060a1fa0380617ae5179af912f6
-Description: 去掉音轨在17系统上面的小黑块，动感专辑圆环均衡器，17系统不再卑微！
-Name: spectrums
-Author: Simon
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.simon.spectrums_3.0.2_iphoneos-arm64e.deb?sign=rOmLhEqRcdVykFdyJwjjrjmf6QD3nDI7jxTA-ja74vU%3D%3A0
 
 Package: com.simon.spectrums
+Name: spectrums
+Description: 去掉音轨在17系统上面的小黑块，动感专辑圆环均衡器，17系统不再卑微！
+Maintainer: Simon
+Author: Simon
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm64e
 Version: 3.0.3
-Section: Tweaks
-Maintainer: Simon
 Installed-Size: 816
-Depends: mobilesubstrate, preferenceloader
-Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.simon.spectrums_3.0.3_iphoneos-arm64e%208.deb?sign=_G4ddPsBcFUBH4SjCMOJAdaLWD-J_CR2A6t2fJKoSEo%3D%3A0
 Size: 147996
 MD5sum: 2c66dbad455f51309b4283d3624d8678
 SHA1: d8aefe1d35141d6dba1a66fb7a367ab0230d05f3
 SHA256: 5dad856807f5dd195459f13067cf88f4006f94bd88c224b31868f1db338c7a6c
-SHA512: 64a416b708a69233ba6506828cca9eca744520d315efdbde861f7e1c515b2d8b858795661478354b8989803dd4555fad906043fa8c1e4bbef833538942360537
-Description: 去掉音轨在17系统上面的小黑块，动感专辑圆环均衡器，17系统不再卑微！
-Name: spectrums
-Author: Simon
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.simon.spectrums_3.0.3_iphoneos-arm64e%208.deb?sign=_G4ddPsBcFUBH4SjCMOJAdaLWD-J_CR2A6t2fJKoSEo%3D%3A0
 
 Package: com.simon.spectrums
+Name: spectrums
+Description: 去掉音轨在17系统上面的小黑块，动感专辑圆环均衡器，17系统不再卑微！
+Maintainer: Simon
+Author: Simon
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm64
 Version: 3.0.5
-Section: Tweaks
-Maintainer: Simon
 Installed-Size: 816
-Depends: mobilesubstrate, preferenceloader
-Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.simon.spectrums_3.0.5_iphoneos-arm64.deb?sign=JIMQon7c-Gq3D3cIDLRIpz2LOw1rpVySyvYp27jsSV8%3D%3A0
 Size: 148914
 MD5sum: f18fcbf99ff881c810adecfbdf286844
 SHA1: 2384e81f21b73b87f33f20c6808ec1c8da9a9c36
 SHA256: 24c8b4cbe11fbe3614b844492f7a5b7d002cb98fef86b9e73ebde41c727f654c
-SHA512: 9a2a461583cb76d276a7c2b17e34ab638fb06fe76c8b45e4a96ac16e7d0f94a8d8af3fa06db5a4e5374596e352e462f664f39630d5bf21bdffd944496d3d070c
-Description: 去掉音轨在17系统上面的小黑块，动感专辑圆环均衡器，17系统不再卑微！
-Name: spectrums
-Author: Simon
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.simon.spectrums_3.0.5_iphoneos-arm64.deb?sign=JIMQon7c-Gq3D3cIDLRIpz2LOw1rpVySyvYp27jsSV8%3D%3A0
 
 Package: com.simon.spectrums
+Name: spectrums
+Description: 去掉音轨在17系统上面的小黑块，动感专辑圆环均衡器，17系统不再卑微！
+Maintainer: Simon
+Author: Simon
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm64e
 Version: 3.0.5
-Section: Tweaks
-Maintainer: Simon
 Installed-Size: 816
-Depends: mobilesubstrate, preferenceloader
-Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.simon.spectrums_3.0.5_iphoneos-arm64e.deb?sign=AnPLk6i6lUvyyecS0FJDuYdqSpurIplQ5FFiaYKAaR8%3D%3A0
 Size: 148054
 MD5sum: fa82e89b929a238d939dd6f28a90f67b
 SHA1: 0f524c2a551bf293b7df6a0ff7b7d17e98bcf702
 SHA256: 207950d30828d7135bbe3465316478dd7979b5c34f8b57d1fcef57f55ab66c68
-SHA512: 0f6a7c3daedb0bcdaa509bd90f57e36e16cd412fca539c3c7af98d1c85ddedc7c04d072379bcdc68e503501b9e73ac1c7eb9615e2f401c835dd27a945f5bc459
-Description: 去掉音轨在17系统上面的小黑块，动感专辑圆环均衡器，17系统不再卑微！
-Name: spectrums
-Author: Simon
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.simon.spectrums_3.0.5_iphoneos-arm64e.deb?sign=AnPLk6i6lUvyyecS0FJDuYdqSpurIplQ5FFiaYKAaR8%3D%3A0
 
 Package: com.simon.spectrums
+Name: spectrums
+Description: 去掉音轨在17系统上面的小黑块，动感专辑圆环均衡器，17系统不再卑微！
+Maintainer: Simon
+Author: Simon
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm64
 Version: 3.0
-Section: Tweaks
-Maintainer: Simon
 Installed-Size: 736
-Depends: mobilesubstrate, preferenceloader
-Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.simon.spectrums_3.0_iphoneos-arm64.deb?sign=h82uYUwm-CaQSHJFjIoCptcNdxEGtqEetGufcpI5mbU%3D%3A0
 Size: 122764
 MD5sum: d6e939874c6c1dd3ade8735a7f84cdbf
 SHA1: ece63e62d888930fd4e4645a0cce59f6fb678f32
 SHA256: 9e13776c72785d79dcc54ab5be2deba6aa5be533f0203e6998e6585a50f424e2
-SHA512: 2f99f808d68780f871c1eb5dafc1a2e998a2a03e3babeb103d3a44ad988fcfcd1360bef56d16632769a958527ce6df42b66937de33a95b389be44ea1980dcb3f
-Description: 去掉音轨在17系统上面的小黑块，动感专辑圆环均衡器，17系统不再卑微！
-Name: spectrums
-Author: Simon
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.simon.spectrums_3.0_iphoneos-arm64.deb?sign=h82uYUwm-CaQSHJFjIoCptcNdxEGtqEetGufcpI5mbU%3D%3A0
 
 Package: com.simon.spectrums
+Name: spectrums
+Description: 去掉音轨在17系统上面的小黑块，动感专辑圆环均衡器，17系统不再卑微！
+Maintainer: Simon
+Author: Simon
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm64e
 Version: 3.0
-Section: Tweaks
-Maintainer: Simon
 Installed-Size: 736
-Depends: mobilesubstrate, preferenceloader
-Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.simon.spectrums_3.0_iphoneos-arm64e.deb?sign=BU6CCPh1F1Zsy9Q2TsI3NgT3IDGgwSmHIlkQ-6GSFWs%3D%3A0
 Size: 122710
 MD5sum: 51d240567813b512cf8a11f40742bc51
 SHA1: 61bc100efd5d9ee3709331e72f7c8a4f69cd81cb
 SHA256: aec5698a00ef39063be44e8f9aa9c1c4044ba1acfdc351ec8e754931d8ba5700
-SHA512: c68229b35ec0adece108fe4615c5a968fa26045fbd3596fccc3d589560503b607a6b2e6ac861680daf6d18c6f1ff80f2189a7b409488a4983444234bb7c2071d
-Description: 去掉音轨在17系统上面的小黑块，动感专辑圆环均衡器，17系统不再卑微！
-Name: spectrums
-Author: Simon
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.simon.spectrums_3.0_iphoneos-arm64e.deb?sign=BU6CCPh1F1Zsy9Q2TsI3NgT3IDGgwSmHIlkQ-6GSFWs%3D%3A0
 
 Package: com.simon.spectrums
+Name: spectrums
+Description: 去掉音轨在17系统上面的小黑块，动感专辑圆环均衡器，17系统不再卑微！
+Maintainer: Simon
+Author: Simon
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm64
 Version: 3.1.1
-Section: Tweaks
-Maintainer: Simon
 Installed-Size: 1332
-Depends: mobilesubstrate, preferenceloader
-Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.simon.spectrums_3.1.1_iphoneos-arm64.deb?sign=BCJntk4XbKk_mDwtGpZma8oDqSs-w1WXAwP6X5bNx9k%3D%3A0
 Size: 207060
 MD5sum: abc91b709c23fec4d53e9f292620be09
 SHA1: 3b7726cae1870c4067451f2e932257f46e989f53
 SHA256: f50f99b48bd6b3fce2539ec89a1410f866d665f17883dd67acfdc104e46cbbd5
-SHA512: 569e967b22b04a100a3fe72f851160a5034e03a46696308c8c91db2a43caea44a5b43e2e50ec707e314a59f68c6484bf691be2c49e48e3545de36a3b27385d74
-Description: 去掉音轨在17系统上面的小黑块，动感专辑圆环均衡器，17系统不再卑微！
-Name: spectrums
-Author: Simon
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.simon.spectrums_3.1.1_iphoneos-arm64.deb?sign=BCJntk4XbKk_mDwtGpZma8oDqSs-w1WXAwP6X5bNx9k%3D%3A0
 
 Package: com.simon.spectrums
+Name: spectrums
+Description: 去掉音轨在17系统上面的小黑块，动感专辑圆环均衡器，17系统不再卑微！
+Maintainer: Simon
+Author: Simon
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm64e
 Version: 3.1.1
-Section: Tweaks
-Maintainer: Simon
 Installed-Size: 1332
-Depends: mobilesubstrate, preferenceloader
-Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.simon.spectrums_3.1.1_iphoneos-arm64e.deb?sign=nN6VzEsmTpo-TEHO1hDYRRyvKqg4L4uK7Xfp_og6Xhw%3D%3A0
 Size: 206802
 MD5sum: 2dfdd3675a3c644f2a951d51d8800713
 SHA1: 0f9db31a852845f890c98fc89380df3c4c71bd0c
 SHA256: f27b7467dd4add638a3368c59b99d0a50b3f9c2031e887c514a581ed881b969f
-SHA512: 7239bf122cad41b8769ad4aa767a269982cfac6a9016dab98309bee57bf0417d60fff4dfbc173b311c609ba65bc3fd1e89c899d9e97861acebdd968a720c7dd7
-Description: 去掉音轨在17系统上面的小黑块，动感专辑圆环均衡器，17系统不再卑微！
-Name: spectrums
-Author: Simon
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.simon.spectrums_3.1.1_iphoneos-arm64e.deb?sign=nN6VzEsmTpo-TEHO1hDYRRyvKqg4L4uK7Xfp_og6Xhw%3D%3A0
 
 Package: com.simon.spectrums
+Name: spectrums
+Description: 去掉音轨在17系统上面的小黑块，动感专辑圆环均衡器，17系统不再卑微！
+Maintainer: Simon
+Author: Simon
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm64
 Version: 3.1.2
-Section: Tweaks
-Maintainer: Simon
 Installed-Size: 1348
-Depends: mobilesubstrate, preferenceloader
-Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.simon.spectrums_3.1.2_iphoneos-arm64.deb?sign=n11SlP2CiK8CEc7gwboy-zVMvwifWMi8ZgJSRpMT670%3D%3A0
 Size: 215688
 MD5sum: 7260a0e1a4cedb020615251c853b4e20
 SHA1: 6191f419b4aded58c12ad98913380e78919e0570
 SHA256: e454d6659c33d30acca82f760f7849de809c5c23aef5541a463f9041ac3df94c
-SHA512: af89b3f2a025d41e7b3c2c96d480001bc9dc3b35cc32334f3c1e4b0cc87f98a7c65c17a11fa738bbd89fed251897042f95cb36ebd8a73059b6835247c53bd30e
-Description: 去掉音轨在17系统上面的小黑块，动感专辑圆环均衡器，17系统不再卑微！
-Name: spectrums
-Author: Simon
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.simon.spectrums_3.1.2_iphoneos-arm64.deb?sign=n11SlP2CiK8CEc7gwboy-zVMvwifWMi8ZgJSRpMT670%3D%3A0
 
 Package: com.simon.spectrums
+Name: spectrums
+Description: 去掉音轨在17系统上面的小黑块，动感专辑圆环均衡器，17系统不再卑微！
+Maintainer: Simon
+Author: Simon
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm64e
 Version: 3.1.2
-Section: Tweaks
-Maintainer: Simon
 Installed-Size: 1348
-Depends: mobilesubstrate, preferenceloader
-Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.simon.spectrums_3.1.2_iphoneos-arm64e.deb?sign=ZT1oy_ZiT0B4-1mJRDf1sVj2aTlOLRuYqiEdpncjZS0%3D%3A0
 Size: 215678
 MD5sum: 11cb962e5fddc554c9d8949884ad3e43
 SHA1: da07402eee9d87aefdae72b2434cdfda245479f2
 SHA256: 3e5b4b55140a19dde3fb97d90baa9a1007f827b9d39e4057f6cd1b9b545b4695
-SHA512: a6fdf1b48ac90538a23f4d24fdef258a141d9aab8bc0429dca3fcb1436383cb741d92347771502d64d03238d5f5ed6e427cfaca696bd29a8abdefbc561dc1ae1
-Description: 去掉音轨在17系统上面的小黑块，动感专辑圆环均衡器，17系统不再卑微！
-Name: spectrums
-Author: Simon
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.simon.spectrums_3.1.2_iphoneos-arm64e.deb?sign=ZT1oy_ZiT0B4-1mJRDf1sVj2aTlOLRuYqiEdpncjZS0%3D%3A0
 
 Package: com.susu.collection
+Name: SuCollection
+Depends: firmware (>= 14.0), mobilesubstrate
+Description: 苏苏的日月开关，备份使用
+Maintainer: SuSu
+Author: SuSu
+Section: 苏苏的插件
 Architecture: iphoneos-arm64
 Version: 1.0
-Section: 苏苏的插件
-Maintainer: SuSu
 Installed-Size: 520
-Depends: firmware (>= 14.0), mobilesubstrate
-Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.susu.collection_1.0_iphoneos-arm64.deb?sign=4j1Qy7Y4zJwOaGk7JATYupidj9a4bG_70tjbfgCCQlY%3D%3A0
 Size: 56464
 MD5sum: eb725e5e4ff8724169efb9b990c98b40
 SHA1: cdd45c5180847e9b2c1efff24369dd8d465df3fe
 SHA256: 02fa72d251e5482adb00380719e415071f1119d42efac62dd8cbe4e90e35ab52
-SHA512: 61272122ea3a380d56f55e77a608c9bc49c2f1b5b2e1b8af2351e69951ba9cd08594bb8a7af93ab3449b4c76474075ecb780107b8d621255f52dee116b26ef26
-Description: 苏苏的日月开关，备份使用
-Name: SuCollection
-Author: SuSu
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.susu.collection_1.0_iphoneos-arm64.deb?sign=4j1Qy7Y4zJwOaGk7JATYupidj9a4bG_70tjbfgCCQlY%3D%3A0
 
 Package: com.susu.suspendedpets
+Name: SuspendedPets
+Description: 苏苏的桌宠，授权使用!摇一摇唤出面板（switch界面）
+Maintainer: SuSu
+Author: SuSu
+Section: 苏苏的插件
+Depends: mobilesubstrate (>= 0.9.5000)
 Architecture: iphoneos-arm64e
 Version: 1.0
-Section: 苏苏的插件
-Maintainer: SuSu
 Installed-Size: 37032
 Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.susu.suspendedpets_1.0_iphoneos-arm64e.deb?sign=SJQeerclJBRGOZ_2FXAfSkOcFpgcef9ldWyPHgzDT2Q%3D%3A0
 Size: 56576088
 MD5sum: 87351380c0e362bef12ae30f15483061
 SHA1: b2393a19d3ea52143bc49801dfbcf9172eaa30ff
 SHA256: f92e67afb824578eea1767074002b6f9ebc4d93492de117f45f06c14893d9f9e
-SHA512: e84bfe882f764bfb3bcc3be92021bb977a17ca1d31e716a2f457cff9be8908509c027455c9a91bf0a90de40596c701eddf957325486480d6f3f05564a52ba161
-Description: 苏苏的桌宠，授权使用!摇一摇唤出面板（switch界面）
-Name: SuspendedPets
-Author: SuSu
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.susu.suspendedpets_1.0_iphoneos-arm64e.deb?sign=SJQeerclJBRGOZ_2FXAfSkOcFpgcef9ldWyPHgzDT2Q%3D%3A0
 
 Package: com.wkk.copylogx
+Name: CopylogX
+Description: cool！
+Maintainer: wkk
+Author: wkk
+Section: Tweaks
+Depends: firmware (>= 15.0), firmware (<< 18.0), mobilesubstrate, preferenceloader
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Architecture: iphoneos-arm64
 Version: 1.2-3
-Section: Tweaks
-Maintainer: wkk
 Installed-Size: 1732
-Depends: firmware (>= 15.0), firmware (<< 18.0), mobilesubstrate, preferenceloader
-Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.wkk.copylogx_1.2-3_iphoneos-arm64.deb?sign=R5pvleuIzO5b4HbtF9G-5vxbEGVv3B6Zg3LSSBKzMZU%3D%3A0
 Size: 264238
 MD5sum: 52d2986bf9e7bc51b71ad4d7b819b14c
 SHA1: fe9c98dbf7a90458df9e3b45722ab949efc05de1
 SHA256: 17634c76019c1f59b04db22e4133fed6eaf3077b5e75b6382b5324228efcb226
-SHA512: 663165bce02f710d5c970a6fdf5afa7641f703fcdcb6e09f4d09517b1c0f88536e2e48697b3b58351de44d046086386f9fffc961d7e158073f4f0f2820f9832d
-Description: cool！
-Name: CopylogX
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.wkk.copylogx_1.2-3_iphoneos-arm64.deb?sign=R5pvleuIzO5b4HbtF9G-5vxbEGVv3B6Zg3LSSBKzMZU%3D%3A0
 
 Package: com.wkk.copylogx
+Name: CopylogX
+Description: cool！
+Maintainer: wkk
+Author: wkk
+Section: Tweaks
+Depends: firmware (>= 15.0), firmware (<< 18.0), mobilesubstrate, preferenceloader
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Architecture: iphoneos-arm64e
 Version: 1.2-3
-Section: Tweaks
-Maintainer: wkk
 Installed-Size: 1732
-Depends: firmware (>= 15.0), firmware (<< 18.0), mobilesubstrate, preferenceloader
-Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.wkk.copylogx_1.2-3_iphoneos-arm64e.deb?sign=_hLSi9hil5A4uaz9R7kmTHf55c2uX0qXZRHJhxzbdRM%3D%3A0
 Size: 260812
 MD5sum: d62b5cb341bbea00671dcaa88e787552
 SHA1: afbe3e4bfeb4f51b2d7b47744b0f14c9ff78b292
 SHA256: a065e673bc600f07837af2dd7175c37ee5fbe0235fe89e80b9e735b647ff6ac5
-SHA512: 82ad9e9d48ae688e6e846594f0b81fce89a7f1bc0aecd9d5292fb712d1449e882d127c3b000fa73332dd7acf077ec667fd22d860a7bb245d695f3cd99c2afb2a
-Description: cool！
-Name: CopylogX
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.wkk.copylogx_1.2-3_iphoneos-arm64e.deb?sign=_hLSi9hil5A4uaz9R7kmTHf55c2uX0qXZRHJhxzbdRM%3D%3A0
 
 Package: com.wkk.keyboardx
+Name: KeyboardX
+Description: 键盘调整。
+Maintainer: wkk
+Author: wkk
+Section: Tweaks
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
 Architecture: iphoneos-arm64
 Version: 1.2-2end
-Section: Tweaks
-Maintainer: wkk
 Installed-Size: 604
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.wkk.keyboardx_1.2-2end_iphoneos-arm64.deb?sign=xySGuMm71BPmR0CY8bpoqpGhgjUiRNYrKhE5YXQrPLA%3D%3A0
 Size: 76372
 MD5sum: a65a758180f0a69a4ffb194af4ecf241
 SHA1: 70dbbc64a2106eb684eefd5245180fd37dbed54c
 SHA256: d5b97e164a5ae05ade5c67701cff6075af7cd743bc3b3891ffee5fdaf7c09d31
-SHA512: 1f2041b6cb887a68cd203cf379382ba6f24643be5cde87b4d41c0651f7724aa0cdd84673f579aae636efe28c3676e8fdd1fddd5c754f7cc7754c8477a3ed9200
-Description: 键盘调整。
-Name: KeyboardX
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.wkk.keyboardx_1.2-2end_iphoneos-arm64.deb?sign=xySGuMm71BPmR0CY8bpoqpGhgjUiRNYrKhE5YXQrPLA%3D%3A0
 
 Package: com.wkk.keyboardx
+Name: KeyboardX
+Description: 键盘调整。
+Maintainer: wkk
+Author: wkk
+Section: Tweaks
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
 Architecture: iphoneos-arm64e
 Version: 1.2-2end
-Section: Tweaks
-Maintainer: wkk
 Installed-Size: 568
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.wkk.keyboardx_1.2-2end_iphoneos-arm64e.deb?sign=L4wXSHubGiGZAXhrShNQH-NYDse17n4vWRK94EA3Y6U%3D%3A0
 Size: 74690
 MD5sum: b7c8d55361ef678c9d35ef23fb889293
 SHA1: 0b18b3affd9131557b7fb8f150cea0a044bf8b17
 SHA256: 2ef078ed6d92acb042be635bc4716674354dfd9587992722594228c82f252117
-SHA512: f26f6c0fe6670cc8352dbb29012f9914e1fa838e87a2d370e212f3e3fa9417709987a2844b3035436e26af0958c2847bb9cf655a03d2baad44cddcc45c56e9fb
-Description: 键盘调整。
-Name: KeyboardX
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.wkk.keyboardx_1.2-2end_iphoneos-arm64e.deb?sign=L4wXSHubGiGZAXhrShNQH-NYDse17n4vWRK94EA3Y6U%3D%3A0
 
 Package: com.wkk.onestepx
+Name: OneStepX
+Description: cool
+Maintainer: wkk
+Author: wkk
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Architecture: iphoneos-arm64
 Version: 1.2-3
-Section: Tweaks
-Maintainer: wkk
 Installed-Size: 968
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
-Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.wkk.onestepx_1.2-3_iphoneos-arm64.deb?sign=PPD8Z7nBoSPv6QSxzZtQDB608IRDzAEiDhRDvJJjjdc%3D%3A0
 Size: 159264
 MD5sum: 1b9a184d53b92245ade89c5dc70732e6
 SHA1: 9557b8598b8a353997e75bb4f3c8e5f70bcbc657
 SHA256: c4dd24a83292fb1166571773c7868c01d06112d8c5d5136d5a605e9763420172
-SHA512: 22f5f5c4669ce2bc04967195858facd0b758bff3e0254d2627d82e31a7b2c24535df66db5269dee2c1b2b963ad18ea282a1013cb93085eb3ae4b8681f32a7716
-Description: cool
-Name: OneStepX
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.wkk.onestepx_1.2-3_iphoneos-arm64.deb?sign=PPD8Z7nBoSPv6QSxzZtQDB608IRDzAEiDhRDvJJjjdc%3D%3A0
 
 Package: com.wkk.onestepx
+Name: OneStepX
+Description: cool
+Maintainer: wkk
+Author: wkk
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Architecture: iphoneos-arm64e
 Version: 1.2-3
-Section: Tweaks
-Maintainer: wkk
 Installed-Size: 968
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
-Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.wkk.onestepx_1.2-3_iphoneos-arm64e.deb?sign=JYLE3o9i5StAdbM9SqBPuBn96vXMttTnE8sOXBTQb7U%3D%3A0
 Size: 156888
 MD5sum: aee916f27bbe960e5cf15f6a968c0025
 SHA1: bbcb95d3dcf8441e06a8f4f4a70e6314374415ad
 SHA256: 1cdbc569f31140743a7d942cf625454085a08d778d12ab2ddbc3441901c8ab9c
-SHA512: a5fdcf4d21ae65be4569ea0d494189e22830a2c6a618308cfbc8f93bb15acb39e81ca91e75db80f43a54417e4d883f9a3136c6bf49c56d85167b5cdccaaaf5d4
-Description: cool
-Name: OneStepX
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.wkk.onestepx_1.2-3_iphoneos-arm64e.deb?sign=JYLE3o9i5StAdbM9SqBPuBn96vXMttTnE8sOXBTQb7U%3D%3A0
 
 Package: com.wkk.recordeyex
+Name: RecordEyeX
+Description: 自定义快捷录屏的灵动岛录制指示点。
+Maintainer: wkk
+Author: wkk
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
 Architecture: iphoneos-arm64
 Version: 1.0-5
-Section: Tweaks
-Maintainer: wkk
 Installed-Size: 532
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.wkk.recordeyex_1.0-5_iphoneos-arm64.deb?sign=AQGt5yAp5XdAhj-665TN7smcxA-ry80rCk4kuqJBVlM%3D%3A0
 Size: 70610
 MD5sum: d24621f390623fcca51619f48ee007d7
 SHA1: b0c8ae9799b46c0b8bb102029351926030b8c317
 SHA256: 0907150ed7602eb6656c2d24b6fe0b19e581db732ad2b86408cd2a11c13ecb59
-SHA512: 7587d85281bd62fa61ae1baa2509400d50bbeea8dbdb6222e53b5690fa11462f544385928d71931318b950e5e3cec0166b18071b40954e959f694877ec08b1e0
-Description: 自定义快捷录屏的灵动岛录制指示点。
-Name: RecordEyeX
-Author: wkk
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.wkk.recordeyex_1.0-5_iphoneos-arm64.deb?sign=AQGt5yAp5XdAhj-665TN7smcxA-ry80rCk4kuqJBVlM%3D%3A0
 
 Package: com.wkk.recordeyex
+Name: RecordEyeX
+Description: 自定义快捷录屏的灵动岛录制指示点。
+Maintainer: wkk
+Author: wkk
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
 Architecture: iphoneos-arm64e
 Version: 1.0-5
-Section: Tweaks
-Maintainer: wkk
 Installed-Size: 532
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.wkk.recordeyex_1.0-5_iphoneos-arm64e.deb?sign=M9t8o3DNl0Ru2egLQZgE8PRm5GX6pTcxkL-MwmfQeis%3D%3A0
 Size: 67842
 MD5sum: 69719757c38fec9d8d1723a97f104785
 SHA1: 6abcd6143a1fa2a6f7e0ce0ee6a430be116c1b0c
 SHA256: 443fe8239a691db435fe1e4872e0e6cbdc12d9565b5cecc3ab8a15528cb9b844
-SHA512: a8f4b4bdac2512fe6f9ffc3a83a43f53c17735150c38ea9c94a1ddf07ac641ced5690a0d913972f042e4e23b46b80c4625f7e2395b0fdfb273378a43993ba979
-Description: 自定义快捷录屏的灵动岛录制指示点。
-Name: RecordEyeX
-Author: wkk
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.wkk.recordeyex_1.0-5_iphoneos-arm64e.deb?sign=M9t8o3DNl0Ru2egLQZgE8PRm5GX6pTcxkL-MwmfQeis%3D%3A0
 
 Package: com.wkk.systembox
-Architecture: iphoneos-arm64
-Version: 1.5-8end
-Section: Tweaks
+Name: SystemX
+Description: cool
 Maintainer: wkk
-Installed-Size: 2792
+Author: wkk
+Section: Tweaks
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Depends: mobilesubstrate, preferenceloader
 Conflicts: com.wkk.clockglass
-Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.wkk.systembox_1.5-8end_iphoneos-arm64.deb?sign=ZHupn5qqgaRxMtDzp9sqfCxT-ap2mNCeUAvmLwaSOnE%3D%3A0
+Architecture: iphoneos-arm64
+Version: 1.5-8end
+Installed-Size: 2792
 Size: 636580
 MD5sum: b4ce46d3efc874b585be96b8f14371d0
 SHA1: 51b8fa84af50501b4a0bc45539b6a7abdc55a6f9
 SHA256: a96100c23e8a144eba875bee0a99f9c702616d180e1d3325dbd351adb78cec91
-SHA512: d10db1491dec784f93ce660747929b3efee231c1accd7b32ff3daa4c3ad48f9ca4ea74ecc0f6122324ee6568a97a9ca82ae2d01728e993e373a532675df2eb4a
-Description: cool
-Name: SystemX
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.wkk.systembox_1.5-8end_iphoneos-arm64.deb?sign=ZHupn5qqgaRxMtDzp9sqfCxT-ap2mNCeUAvmLwaSOnE%3D%3A0
 
 Package: com.wkk.systembox
-Architecture: iphoneos-arm64e
-Version: 1.5-8end
-Section: Tweaks
+Name: SystemX
+Description: cool
 Maintainer: wkk
-Installed-Size: 2792
+Author: wkk
+Section: Tweaks
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Depends: mobilesubstrate, preferenceloader
 Conflicts: com.wkk.clockglass
-Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.wkk.systembox_1.5-8end_iphoneos-arm64e.deb?sign=GZLPb10M17glPmFFj8Oo0upCrmxM8e8P4YDfiGUsMig%3D%3A0
+Architecture: iphoneos-arm64e
+Version: 1.5-8end
+Installed-Size: 2792
 Size: 630968
 MD5sum: 4cbac8f77e8f110205314356e982a38c
 SHA1: cde9ea566369287c4b218a317939e1500c7a3696
 SHA256: 9c5f883b2a93e624bb6be93b1b80a58b1c1f33b20d376c653f93412215e5a6b8
-SHA512: 55a599058cabbf392d542d4a4599c3320f394db42f3de60c3376bee3b4c05677135713e9ae1b01707560a0be9981f22e84bc4bed11e03870feca1531ac588caa
-Description: cool
-Name: SystemX
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.wkk.systembox_1.5-8end_iphoneos-arm64e.deb?sign=GZLPb10M17glPmFFj8Oo0upCrmxM8e8P4YDfiGUsMig%3D%3A0
 
 Package: com.xuancaiqipao
+Name: 俊仔の炫彩气泡
+Description: 插件有瑕疵 多种动态效果 预览下雪效果 修复深色模式
+Maintainer: 俊仔
+Author: 俊仔
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
 Architecture: iphoneos-arm64
 Version: 1.1.2
-Section: Tweaks
-Maintainer: 俊仔
 Installed-Size: 164
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.xuancaiqipao_1.1.2_iphoneos-arm64.deb?sign=PC2ZsHg604yIIHCRD-U5-7bUSWsEpH9kyPWfPQdonq0%3D%3A0
 Size: 31416
 MD5sum: cc73e142d0845aeba0c330e79f5e4a2a
 SHA1: f3c04bdeb24428fbedbc2d985c9e931d7f278b34
 SHA256: 464cdf75a751ba6a1bfa4841d60eaafd2ff744b527f21ff9742cc5db12bf0815
-SHA512: 3e76e4a5875c867577b9b01d169493f8759a8d44578ad0bee4719a60e654644d055457eadf23f8f2f06fef4a687d9ae65ec1c2066f3f30a4a2a0e376976ed8fb
-Description: 插件有瑕疵 多种动态效果 预览下雪效果 修复深色模式
-Name: 俊仔の炫彩气泡
-Author: 俊仔
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.xuancaiqipao_1.1.2_iphoneos-arm64.deb?sign=PC2ZsHg604yIIHCRD-U5-7bUSWsEpH9kyPWfPQdonq0%3D%3A0
 
 Package: com.yechen.ccmodulebackground
+Name: CC模块背景
+Description: 自建控制中心原生模块，支持承载系统原生模块、自定义尺寸和背景。
+Icon: file:///var/jb/Library/PreferenceBundles/CCModuleBackgroundPrefs.bundle/icon@3x.png
+Maintainer: 夜辰
+Author: 夜辰
+Section: Tweaks
+Depends: preferenceloader, mobilesubstrate, com.opa334.ccsupport
+Replaces: com.codex.ccmodulebackground
+Conflicts: com.codex.ccmodulebackground
+Tag: role::enduser, purpose::extension, cydia::requires-respring
 Architecture: iphoneos-arm64
 Version: 0.2.287
-Section: Tweaks
-Maintainer: 夜辰
 Installed-Size: 9036
-Depends: preferenceloader, mobilesubstrate, com.opa334.ccsupport
-Conflicts: com.codex.ccmodulebackground
-Replaces: com.codex.ccmodulebackground
-Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.yechen.ccmodulebackground_0.2.287_iphoneos-arm64.deb?sign=O455Gcl2hJenHiL_JqLA8g9Nd1_49wKgK6PUq1PWOrI%3D%3A0
 Size: 358986
 MD5sum: 51d941d848a22357da9f10a9ffd4b92b
 SHA1: dd32867ea05430d7367654c6506fa718fe0fcd53
 SHA256: f45d7e6ffca80f941c491df7a125d10ea79640fbb7656adec79c47acef82e5a6
-SHA512: 5cfee9497ae043f08dc04f3944971f6aeff80fbdb8e697f3a3cf803f18dab9c1744bede2b91ed24dea30851a4dd165ab3e1d7709d8bf4609e4fc1c9b329b4162
-Description: 自建控制中心原生模块，支持承载系统原生模块、自定义尺寸和背景。
-Tag: role::enduser, purpose::extension, cydia::requires-respring
-Name: CC模块背景
-Icon: file:///var/jb/Library/PreferenceBundles/CCModuleBackgroundPrefs.bundle/icon@3x.png
-Author: 夜辰
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.yechen.ccmodulebackground_0.2.287_iphoneos-arm64.deb?sign=O455Gcl2hJenHiL_JqLA8g9Nd1_49wKgK6PUq1PWOrI%3D%3A0
 
 Package: com.yechen.ccplayer
+Section: Tweaks
+Installed-Size: 2048
+Maintainer: 夜辰
 Architecture: iphoneos-arm64e
 Version: 1.7.573
-Section: Tweaks
-Maintainer: 夜辰
-Installed-Size: 2048
-Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
-Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.yechen.ccplayer_1.7.573_iphoneos-arm64e.deb?sign=1cSh5NC7P-R6GkbRwhraa0c5MWepn9W9r0YleKKeSKU%3D%3A0
+Description: 这是一款加强控制中心3x2/4x2播放器美化的插件
+Name: cc播放器
+Author: 夜辰
+Pre-Depends: rootless-compat(>= 0.9)
 Size: 9131278
 MD5sum: 4ee02ce001371be21f81ac47946f6ce2
 SHA1: 66e436adf86387ec084948da539b1392b2f0a9db
 SHA256: c02eff852247a8cebd8588ccdc795013bd8be7354e461c7042c677e03146f346
-SHA512: f0db40a977626d28eda625668fbba400580fb25b87a8508de6d7c2d22ed8cf1c271b32b9c2d27d05125695446cf426f305413a0e279b803c234841b2d73dada4
-Description: 这是一款加强控制中心3x2/4x2播放器美化的插件
-Name: cc播放器
-Author: 夜辰
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.yechen.ccplayer_1.7.573_iphoneos-arm64e.deb?sign=1cSh5NC7P-R6GkbRwhraa0c5MWepn9W9r0YleKKeSKU%3D%3A0
 
 Package: com.yechen.dynamicislandring
+Name: 灵动岛进度环
+Depends: mobilesubstrate, preferenceloader, firmware (>= 16.0)
+Description: 灵动岛音乐进度环增强插件
+Maintainer: 夜辰
+Author: 夜辰
+Section: 夜辰的插件
 Architecture: iphoneos-arm64
 Version: 1.1.0
-Section: 夜辰的插件
-Maintainer: 夜辰
 Installed-Size: 428
-Depends: mobilesubstrate, preferenceloader, firmware (>= 16.0)
-Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.yechen.dynamicislandring_1.1.0_iphoneos-arm64.deb?sign=lXoeO7fJqpRQiewGu_SuBBIcJCqWSGT71BnaQF4461A%3D%3A0
 Size: 46300
 MD5sum: 24a62528a8e40285ab56cbb974c5a7eb
 SHA1: a9d2a655fecfd85a55cd628be675b8dc3b676b5f
 SHA256: f8f57acbda913e3e299513c0737e6b517916e64d5b56f3fbee4c5358154a8e36
-SHA512: b180ea5a65f5c0ae684fa4b881f09d15f3d82e5d4a03fa8a718f2873f5a306707411a59299f20ea3a9e747dcd8785c6e912824b5f56117545a32d59326be88e6
-Description: 灵动岛音乐进度环增强插件
-Name: 灵动岛进度环
-Author: 夜辰
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.yechen.dynamicislandring_1.1.0_iphoneos-arm64.deb?sign=lXoeO7fJqpRQiewGu_SuBBIcJCqWSGT71BnaQF4461A%3D%3A0
 
 Package: com.yechen.lingdongvideo
+Name: 灵动岛视频背景
+Depends: mobilesubstrate, preferenceloader, firmware (>= 16.0)
+Description: 为灵动岛音乐播放、展开态和通知场景增加统一视频背景。50元授权
+Maintainer: 夜辰
+Author: 夜辰
+Section: 夜辰的插件
 Architecture: iphoneos-arm64
 Version: 0.1.4.507
-Section: 夜辰的插件
-Maintainer: 夜辰
 Installed-Size: 876
-Depends: mobilesubstrate, preferenceloader, firmware (>= 16.0)
-Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.yechen.lingdongvideo_0.1.4.507_iphoneos-arm64.deb?sign=tFlVzNx9DnzOwn0XKAcXeB-3wBC9QYcJazpm-0QJmJk%3D%3A0
 Size: 160692
 MD5sum: 2334181fca47729c5d06c675121be9a9
 SHA1: c95c5a8c6fe643362efed7b0f9648b43016391d2
 SHA256: 13319c6c3fdd5772229c5fc76cd12efa52199f1a25c15ee0170ced46e25b4621
-SHA512: 8746e4d3f379825580d73da621859fdc989cbc8fced44b7f9d87a4f329d7cb2b8c4ac4c22f03a958275f9163f0de8d23cfc7243b01c0e12ccbba7ba8ae3c295c
-Description: 为灵动岛音乐播放、展开态和通知场景增加统一视频背景。50元授权
-Name: 灵动岛视频背景
-Author: 夜辰
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.yechen.lingdongvideo_0.1.4.507_iphoneos-arm64.deb?sign=tFlVzNx9DnzOwn0XKAcXeB-3wBC9QYcJazpm-0QJmJk%3D%3A0
 
 Package: com.yourcompany.size
+Name: size
+Description: 余忆的设置内显示有限保修期插件
+Maintainer: Mobile User
+Author: Mobile User
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
 Architecture: iphoneos-arm64e
 Version: 0.0.1-44+debug
-Section: Tweaks
-Maintainer: Mobile User
 Installed-Size: 168
 Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.yourcompany.size_0.0.1-44%2Bdebug_iphoneos-arm64e.deb?sign=qtyFX-97XmmXcnNC97zG1wefH2upcRlbThGB8pJ_phU%3D%3A0
 Size: 4880
 MD5sum: 8ee1fc1d7236d35bb9bf5b201e7c8efd
 SHA1: f43756ae34b7629632ea1398d3bac2f832481c96
 SHA256: 2bc75246c7a8d708fec18da5189405e97e4177b0b13bab9ad1a2dd2b405aaa99
-SHA512: 343c30c535e28c9db752b95ad1b7dff8488936748df3fc258ce2746ef2b2a0ccc40ed44746a64cc31256d2975616b47378562f6d7ba47da5b2a2fccc18aa9748
-Description: 余忆的设置内显示有限保修期插件
-Name: size
-Author: Mobile User
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.yourcompany.size_0.0.1-44%2Bdebug_iphoneos-arm64e.deb?sign=qtyFX-97XmmXcnNC97zG1wefH2upcRlbThGB8pJ_phU%3D%3A0
 
 Package: com.yuyi.qqaudio
+Name: QQAudio（QQ语音包）
+Description: QQ语音包，提示激活输入QQ：2974245302，使用方法为先用QQ的录音录几秒钟，暂停之后长按即可弹出语音包素材，导入方法跟微信的一样或者用filza到QQ文档目录找到yuyi_audio往里面放解压好的语音包即可
+Maintainer: 余忆
+Author: 余忆
+Section: 余忆的插件
+Depends: mobilesubstrate (>= 0.9.5000)
 Architecture: iphoneos-arm64
 Version: 0.1-14+debug
-Section: 余忆的插件
-Maintainer: 余忆
 Installed-Size: 372
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.yuyi.qqaudio_0.1-14%2Bdebug_iphoneos-arm64.deb?sign=m7FYfCuUio80ZZZ8rBh413y_GxxEEELiCed2ZG-h1_U%3D%3A0
 Size: 56660
 MD5sum: 9802e86e4b41ed6f89b7affe5078d56b
 SHA1: 6e0fbf44419a7aeda3d2c52a65a466d2bf01ad08
 SHA256: 190135fe6fdafb3f7198adec61fcc718e5d6bea671070a0694ff6f53614d5b2b
-SHA512: 441cd86c463e1eefe528baefd39f357fa4f238810c9d42acab13177578b2abb223b1eef88b640172e06553388e22bdb19f2294eb11acc07931178983608ee7ea
-Description: QQ语音包，提示激活输入QQ：2974245302，使用方法为先用QQ的录音录几秒钟，暂停之后长按即可弹出语音包素材，导入方法跟微信的一样或者用filza到QQ文档目录找到yuyi_audio往里面放解压好的语音包即可
-Name: QQAudio（QQ语音包）
-Author: 余忆
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.yuyi.qqaudio_0.1-14%2Bdebug_iphoneos-arm64.deb?sign=m7FYfCuUio80ZZZ8rBh413y_GxxEEELiCed2ZG-h1_U%3D%3A0
 
 Package: com.yuyi.screenshot
+Name: Screenshot
+Description: 截图套壳，好像是在QQ聊天记录双指或三指长按设置
+Maintainer: yuyi
+Author: yuyi
+Section: 余忆的插件
+Depends: mobilesubstrate (>= 0.9.5000)
 Architecture: iphoneos-arm64
 Version: 0.1
-Section: 余忆的插件
-Maintainer: yuyi
 Installed-Size: 208
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.yuyi.screenshot_0.1_iphoneos-arm64.deb?sign=HUJEGMRtUEqBTq8dodSZHy5bX7XuHtAUGLGJSS9Jc8A%3D%3A0
 Size: 19136
 MD5sum: 14cad0dc2f55e6116b8561d2dcd32be1
 SHA1: c694828894cc89b2af4971cc8422f4c36101ef69
 SHA256: b9a2259b9b8cc0361830c24a002a97fde5d14d31da0d65379ab1ad75be3e2f4a
-SHA512: 21c2fa26eb0b0601db0b42e1bd6768d8ca5e26b317ee816f4609daea12c1be5a131164cdfe5aaec663bdf0f0faf6f82556e2f9163783b30e583b8fa2f087190e
-Description: 截图套壳，好像是在QQ聊天记录双指或三指长按设置
-Name: Screenshot
-Author: yuyi
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.yuyi.screenshot_0.1_iphoneos-arm64.deb?sign=HUJEGMRtUEqBTq8dodSZHy5bX7XuHtAUGLGJSS9Jc8A%3D%3A0
 
 Package: com.jz.fz
-Architecture: iphoneos-arm64
-Version: 5.9.0-2+debug
-Section: Tweaks
+Name: Fenzu
+Description: 侧边栏分组
 Maintainer: Junzai
-Installed-Size: 23536
+Author: Junzai
+Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000)
 Conflicts: com.monk.wclgbubbleliquidglass
 Replaces: com.monk.wclgbubbleliquidglass
-Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/fz_5.9.0-2-debug-nogroup.deb?sign=pR-tzZwFoLnLVH1wfsmeXgKhAmcwAOI4v5gS_2x7Grk%3D%3A0
+Architecture: iphoneos-arm64
+Version: 5.9.0-2+debug
+Installed-Size: 23536
 Size: 6115166
 MD5sum: f0b9f77b7980387aca0c0781ef25581c
 SHA1: f852ef16044a2ecbf6ca06dafb93d0a8cf9f1c93
 SHA256: 9841117b8a205f0561e97f21680ec3f7b233ff10365a77f2c83a5efc16935f3c
-SHA512: 5f01782505190aba78cd323165d39deaf855166cb2a0bef1cc08adc6fbdb62483ee21177bceac5610b9a7ada788cd21dd7bff422dbced7be40f237471202d9da
-Description: 侧边栏分组
-Name: Fenzu
-Author: Junzai
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/fz_5.9.0-2-debug-nogroup.deb?sign=pR-tzZwFoLnLVH1wfsmeXgKhAmcwAOI4v5gS_2x7Grk%3D%3A0
 
 Package: org.coolstar.sileo
-Architecture: iphoneos-arm64e
+Name: Sileo
 Version: 2.5.1-15
-Section: Packaging
+Author: Amy While <me@anamy.gay>
 Maintainer: Amy While <me@anamy.gay>
+Description: 软件源右上角多备份选项的商店：备份恢复，全部插件备份，选择插件备份，配置备份，插件源备份，插件恢复，配置恢复，插件源恢复，查看备份，清除备份
+Architecture: iphoneos-arm64e
 Depends: firmware (>= 11.0), firmware(>=12.2) | org.swift.libswift (>=5.0), coreutils (>= 8.30-1), dpkg (>= 1.19.4-1), apt (>= 1.8.2), libzstd1
-Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/org.coolstar.sileo_2.5.1-15_iphoneos-arm64e.deb?sign=meJV2wrFEMpnfB6ksdCjv9i7oKi4pwSexknE0PoWBTk%3D%3A0
+Section: Packaging
+Icon: https://getsileo.app/img/icon.png
+SileoDepiction: https://featuredpage.getsileo.app/depiction.json
 Size: 3179544
 MD5sum: 223065edb86f312f225fa05d63c7b0e5
 SHA1: 58138c083be00b2821a6115cfdb80ed548ba236b
 SHA256: a6f587bf5f4be5bd79a43d463b64b8386670420b6a0acfb1f9004bb6545ce82b
-SHA512: 1af812122caa62051bc41c79092ac8a260b65b4df096cf6757b88c580e870b941c020205bef1ae195eb3b0a3cdf330804de26cc02876e5b9b8db2046ddea320a
-Description: 软件源右上角多备份选项的商店：备份恢复，全部插件备份，选择插件备份，配置备份，插件源备份，插件恢复，配置恢复，插件源恢复，查看备份，清除备份
-Name: Sileo
-Author: Amy While <me@anamy.gay>
-Icon: https://getsileo.app/img/icon.png
-SileoDepiction: https://featuredpage.getsileo.app/depiction.json
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/org.coolstar.sileo_2.5.1-15_iphoneos-arm64e.deb?sign=meJV2wrFEMpnfB6ksdCjv9i7oKi4pwSexknE0PoWBTk%3D%3A0
 
 Package: xyz.cypwn.akara.rootless
 Architecture: iphoneos-arm64e
+Name: Akara
 Version: 2.0.2k
+Description: Minimal design without compromise
+Author: Tr1Fecta & Kennyroo <xuanhua880@gmail.com>
 Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport, com.muirey03.libimagepicker, firmware (>=15.0)
+Icon: https://img.chariz.cloud/icon/akara/icon@3x.png
 Maintainer: CyPwn <xuanhua880@gmail.com>
 Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport, com.muirey03.libimagepicker, firmware (>=15.0)
-Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/xyz.cypwn.akara.rootless_2.0.2k_iphoneos-arm64e.deb?sign=3SQ6sCfl3P8BDmfdmxXoNkMuE5srhsWzQEKKBaFvh9Q%3D%3A0
 Size: 672282
 MD5sum: 3815f026ba3a993ffd13e1b61089eedc
 SHA1: 79445935ca4ec363cc0377ee09d2919da7fedc42
 SHA256: ba108edb457ff0e8925bdb1bf78e38cf753f9ff10a986a1ba0f1c5af5f635fa8
-SHA512: aa61fdfdbf9f723289bbfb7db7e3f71385c73272e9c741d6a74c4b9f70937bd0995ad1ca03b3e60a92d7a0485ecf4f2add13ead78d754a2f43196552ef3370e9
-Description: Minimal design without compromise
-Name: Akara
-Author: Tr1Fecta & Kennyroo <xuanhua880@gmail.com>
-Icon: https://img.chariz.cloud/icon/akara/icon@3x.png
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/xyz.cypwn.akara.rootless_2.0.2k_iphoneos-arm64e.deb?sign=3SQ6sCfl3P8BDmfdmxXoNkMuE5srhsWzQEKKBaFvh9Q%3D%3A0
 
 Package: com.taoxi.ccrescale
+Name: 控制中心缩放
+Description: 整体缩放控制中心并保持原比例居中显示
+Maintainer: ZuoTian
+Author: ZuoTian
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader
+Icon: https://i.imgs.ovh/2026/10/28/3e6a440deb9a3cf04f41802f5695d515.png
 Architecture: iphoneos-arm64
 Version: 5.2.0-43
-Section: Tweaks
-Maintainer: ZuoTian
 Installed-Size: 484
-Depends: mobilesubstrate, preferenceloader
-Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/%E6%8E%A7%E5%88%B6%E4%B8%AD%E5%BF%83%E6%AF%94%E4%BE%8B%E8%B0%83%E6%95%B4.deb?sign=svvFI7V0ntjLExW0IbZBtQZSrcpNp9wZ12FTs2BRndQ%3D%3A0
 Size: 116874
 MD5sum: 075ca75acd434da2710a07eace6625e6
 SHA1: 437ade6a0e6e5d9b7cdeae994b645a98614fa518
 SHA256: bf1e801824caa17f3224165056892a7330ad892e0b6660065b3f570e6aa4cd36
-SHA512: d4e1b00834f4ba5eba8ea3b5889f47d45e3428c50edd97d01189d8a103a3216d8233284a6a4f3cf20d75510f9589ffb5b85f93bb1ed0d53ad1f56a15c743cee9
-Description: 整体缩放控制中心并保持原比例居中显示
-Name: 控制中心缩放
-Author: ZuoTian
-Icon: https://i.imgs.ovh/2026/10/28/3e6a440deb9a3cf04f41802f5695d515.png
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/%E6%8E%A7%E5%88%B6%E4%B8%AD%E5%BF%83%E6%AF%94%E4%BE%8B%E8%B0%83%E6%95%B4.deb?sign=svvFI7V0ntjLExW0IbZBtQZSrcpNp9wZ12FTs2BRndQ%3D%3A0
 
-Package: com.local.alipay.identity-compat
+Author: Local Workspace
 Architecture: iphoneos-arm64e
+Description: 支付宝刷脸设备兼容与热更新冻结层（12.12.16）
+Maintainer: Local Workspace
 Version: 0.1.9
 Priority: optional
-Section: Tweaks
-Maintainer: Local Workspace
-Installed-Size: 268
-Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate
-Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/%E6%94%AF%E4%BB%98%E5%AE%9D%E5%B1%8F%E8%94%BD%EF%BC%8C%E6%97%A0%E9%9C%80%E9%BB%91%E5%90%8D%E5%8D%95_0.1.9_iphoneos-arm64e.deb?sign=BZ5q72M7hVq-JY0omOhtS-62Q8wO8N8M5IkhILS7AN4%3D%3A0
+Name: 支付宝身份验证兼容
+Section: Tweaks
+Installed-Size: 268
+Package: com.local.alipay.identity-compat
+Icon: https://sini921.github.io/repo/sileodepiction/icon/zfbhook.png
+Pre-Depends: rootless-compat(>= 0.9)
 Size: 29292
 MD5sum: 85b1ce8b98b7853686f9d7221a645637
 SHA1: 324dee5f361d144b06afd55f7a5a873e4d6c55ec
 SHA256: 803e3a963111ee5d41b138a71d82eb10111b1dac3e93f2a993dcabb815956596
-SHA512: 720d8a6f0d43a5694507f8e3c12bf22a937692a6daff85d6da34e60e1e1ec5eb8354d2f30e0ff0a52ef4be5fb90ba996a7126b2baf490e760651c72c71d2c720
-Description: 支付宝刷脸设备兼容与热更新冻结层（12.12.16）
-Author: Local Workspace
-Name: 支付宝身份验证兼容
-Icon: https://sini921.github.io/repo/sileodepiction/icon/zfbhook.png
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/%E6%94%AF%E4%BB%98%E5%AE%9D%E5%B1%8F%E8%94%BD%EF%BC%8C%E6%97%A0%E9%9C%80%E9%BB%91%E5%90%8D%E5%8D%95_0.1.9_iphoneos-arm64e.deb?sign=BZ5q72M7hVq-JY0omOhtS-62Q8wO8N8M5IkhILS7AN4%3D%3A0
 
 Package: com.xybp888.callassist16.dopamine
-Architecture: iphoneos-arm64
 Version: 1.6.3
 Priority: optional
 Section: 你的iPhone不止于此
 Maintainer: xybp888
-Depends: firmware (>= 15.0), preferenceloader, com.opa334.libsandy
-Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/%E7%94%B5%E8%AF%9D%E5%8A%A9%E6%89%8BiOS16-%E6%AD%A3%E5%BC%8F%E7%89%88%28%E5%AE%8C%E6%95%B4%E8%B6%8A%E7%8B%B1%29-1.6.3-iphoneos-arm64.deb?sign=Qc94x-HhCYvOLjaRNfbcariSQjWnPV65uSEqW7Y0k4E%3D%3A0
-Size: 2713688
-MD5sum: e7424f098accf3768fb8db9d22c7d628
-SHA1: 2c365f5d42a687b5a2289331284fb0e0472c9d3e
-SHA256: 288261e094a04342538ab260d11dd4b0094b4b68c4047df7459f00f40faa96cc
-SHA512: 7dbae80b8389ff8a390e67b5ce07ea7d43666750a54e91aaa0fbfff4bc12341ddec5d8f74b0d45f33cfc20d30c87b90e150cb8d31397cbbc222b0093c67cd01d
 Description: 电话助手授权版本,通话录音,通话记录合并,T9双卡选卡拨号键盘,短信双卡选卡,来去电归属地,黑名单,骚扰拦截,状态栏图标替换,时间格式修改,常用小功能等强大插件
+Depends: firmware (>= 15.0), preferenceloader, com.opa334.libsandy
+Architecture: iphoneos-arm64
 Name: 电话助手iOS16-正式版(完整越狱)
 Author: xybp888
 Depiction: https://apt.htv123.com/view/132
 SileoDepiction: https://apt.htv123.com/sileo/132
+Size: 2713688
+MD5sum: e7424f098accf3768fb8db9d22c7d628
+SHA1: 2c365f5d42a687b5a2289331284fb0e0472c9d3e
+SHA256: 288261e094a04342538ab260d11dd4b0094b4b68c4047df7459f00f40faa96cc
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/%E7%94%B5%E8%AF%9D%E5%8A%A9%E6%89%8BiOS16-%E6%AD%A3%E5%BC%8F%E7%89%88%28%E5%AE%8C%E6%95%B4%E8%B6%8A%E7%8B%B1%29-1.6.3-iphoneos-arm64.deb?sign=Qc94x-HhCYvOLjaRNfbcariSQjWnPV65uSEqW7Y0k4E%3D%3A0
 
 Package: com.llld.xc
+Name: 相册增强
+Description: 相册增强：照片角标（分辨率/文件大小/拍摄日期/文件名）、自建视频与图片管理页（排序、多选、原生删除）、相簿统计。
+Maintainer: 来了老弟
+Author: 来了老弟
+Section: Tweaks
+Depends: mobilesubstrate
 Architecture: iphoneos-arm64
 Version: 1.1
-Section: Tweaks
-Maintainer: 来了老弟
 Installed-Size: 452
-Depends: mobilesubstrate
-Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/%E7%9B%B8%E5%86%8C%E5%A2%9E%E5%BC%BA-arm64_1.deb?sign=KU0Eyt9YJ0odAOVwcjvRZOEPP9uEHh1w4E2jdOdeztw%3D%3A0
 Size: 76056
 MD5sum: f2546431656b3dadf86173f006622f21
 SHA1: 82016a6cc9bbd88c3b6d5face3374a848189faf0
 SHA256: c99f7dbc4bd72cf14f3c27a4801547d3f868b6189f5d89d6df5d24a356eb5a45
-SHA512: df7de9b9c412148b331e9889955b05d98aed1fcdd7443e3f326ca6305d681fba6c64c96dab0c10a3d2d37e92ac530bb37c41f81b805b68697184e42462231966
-Description: 相册增强：照片角标（分辨率/文件大小/拍摄日期/文件名）、自建视频与图片管理页（排序、多选、原生删除）、相簿统计。
-Name: 相册增强
-Author: 来了老弟
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/%E7%9B%B8%E5%86%8C%E5%A2%9E%E5%BC%BA-arm64_1.deb?sign=KU0Eyt9YJ0odAOVwcjvRZOEPP9uEHh1w4E2jdOdeztw%3D%3A0
 
