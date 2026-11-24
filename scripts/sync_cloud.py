@@ -5,7 +5,6 @@ import getpass
 import gzip
 import hashlib
 import json
-import lzma
 import os
 from pathlib import Path
 import re
@@ -109,13 +108,23 @@ def package_fields(payload):
 def write_indexes(paragraphs):
     payload = ("\n\n".join(paragraphs) + "\n\n").encode("utf-8")
     files = {"Packages": payload, "Packages.bz2": bz2.compress(payload),
-             "Packages.gz": gzip.compress(payload, mtime=0), "Packages.xz": lzma.compress(payload)}
+             "Packages.gz": gzip.compress(payload, mtime=0)}
+    # Some iOS Python builds fail inside their bundled liblzma. Use the same
+    # system compressor that the owner's original working command used.
+    files["Packages.xz"] = subprocess.check_output(["xz", "-c", "-6"], input=payload)
     # Keep zstd generation compatible with the existing phone command.
     files["Packages.zst"] = subprocess.check_output(["zstd", "-q", "-c"], input=payload)
     for name, data in files.items():
         tmp = Path(name + ".cloud-new")
         tmp.write_bytes(data)
         tmp.replace(name)
+
+
+def save_cache(path, entries):
+    temporary = path.with_name(path.name + ".new")
+    temporary.write_text(json.dumps(entries, ensure_ascii=False), encoding="utf-8")
+    temporary.chmod(0o600)
+    temporary.replace(path)
 
 
 def main():
@@ -162,15 +171,18 @@ def main():
                 raise ValueError("Missing required DEB fields: " + info["name"])
             fields.update({"Size": str(len(payload)), "MD5sum": hashlib.md5(payload).hexdigest(),
                            "SHA1": hashlib.sha1(payload).hexdigest(), "SHA256": hashlib.sha256(payload).hexdigest()})
+            # Checkpoint each verified package, even if a later download or
+            # compression fails. Only complete, verified metadata is cached.
+            cache[path] = {"stamp": stamp, "fields": fields.copy()}
+            save_cache(cache_path, cache)
             print(f"[{number}/{len(files)}] Verified: {info['name']}", flush=True)
         fields["Filename"] = url
         current_hashes[path] = fields["SHA256"]
         paragraphs.append("\n".join(f"{key}: {value}" for key, value in fields.items()))
         next_cache[path] = {"stamp": stamp, "fields": fields}
-    # Write only after every file has been read and validated.
+    save_cache(cache_path, next_cache)
+    # Prepare all compressed forms before replacing any published index file.
     write_indexes(paragraphs)
-    cache_path.write_text(json.dumps(next_cache, ensure_ascii=False), encoding="utf-8")
-    cache_path.chmod(0o600)
     added = set(current_hashes) - set(previous)
     removed = set(previous) - set(current_hashes)
     changed = {p for p in current_hashes.keys() & previous.keys() if current_hashes[p] != previous[p]}
