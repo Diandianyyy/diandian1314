@@ -1379,6 +1379,26 @@ Name: 控制中心缩放
 Author: ZuoTian
 Icon: https://i.imgs.ovh/2026/10/28/3e6a440deb9a3cf04f41802f5695d515.png
 
+Package: com.local.alipay.identity-compat
+Architecture: iphoneos-arm64e
+Version: 0.1.9
+Priority: optional
+Section: Tweaks
+Maintainer: Local Workspace
+Installed-Size: 268
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: debs/支付宝屏蔽，无需黑名单_0.1.9_iphoneos-arm64e.deb
+Size: 29292
+MD5sum: 85b1ce8b98b7853686f9d7221a645637
+SHA1: 324dee5f361d144b06afd55f7a5a873e4d6c55ec
+SHA256: 803e3a963111ee5d41b138a71d82eb10111b1dac3e93f2a993dcabb815956596
+SHA512: 720d8a6f0d43a5694507f8e3c12bf22a937692a6daff85d6da34e60e1e1ec5eb8354d2f30e0ff0a52ef4be5fb90ba996a7126b2baf490e760651c72c71d2c720
+Description: 支付宝刷脸设备兼容与热更新冻结层（12.12.16）
+Author: Local Workspace
+Name: 支付宝身份验证兼容
+Icon: https://sini921.github.io/repo/sileodepiction/icon/zfbhook.png
+
 Package: com.xybp888.callassist16.dopamine
 Architecture: iphoneos-arm64
 Version: 1.6.3
