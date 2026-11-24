@@ -157,7 +157,6 @@ def main():
         old = cache.get(path)
         if old and old["stamp"] == stamp:
             fields = old["fields"].copy()
-            print(f"[{number}/{len(files)}] Cached: {info['name']}", flush=True)
         else:
             payload = request(url)
             if len(payload) != info["size"] or not payload.startswith(b"!<arch>\n"):
@@ -175,9 +174,12 @@ def main():
             # compression fails. Only complete, verified metadata is cached.
             cache[path] = {"stamp": stamp, "fields": fields.copy()}
             save_cache(cache_path, cache)
-            print(f"[{number}/{len(files)}] Verified: {info['name']}", flush=True)
         fields["Filename"] = url
         current_hashes[path] = fields["SHA256"]
+        if path not in previous:
+            print(f"新增：{path.removeprefix(ROOT + '/')}", flush=True)
+        elif previous[path] != fields["SHA256"]:
+            print(f"内容变更：{path.removeprefix(ROOT + '/')}", flush=True)
         paragraphs.append("\n".join(f"{key}: {value}" for key, value in fields.items()))
         next_cache[path] = {"stamp": stamp, "fields": fields}
     save_cache(cache_path, next_cache)
@@ -186,8 +188,11 @@ def main():
     added = set(current_hashes) - set(previous)
     removed = set(previous) - set(current_hashes)
     changed = {p for p in current_hashes.keys() & previous.keys() if current_hashes[p] != previous[p]}
-    print(f"Added: {len(added)}; removed: {len(removed)}; changed: {len(changed)}")
-    print(f"Updated {len(paragraphs)} package entries; DEB directory remains private.")
+    for path in sorted(removed):
+        print(f"删除：{path.removeprefix(ROOT + '/')}", flush=True)
+    if not (added or removed or changed):
+        print("插件无变化。")
+    print(f"汇总：新增 {len(added)} 个，删除 {len(removed)} 个，内容变更 {len(changed)} 个；当前共 {len(paragraphs)} 个包条目。")
 
 
 if __name__ == "__main__":
