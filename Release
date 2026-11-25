@@ -1,5 +1,5 @@
-Origin:                Diandian&🏠
-Label:                 Diandian&🏠
+Origin: Diandian&🏠
+Label: Diandian&🏠
 Suite: stable
 Version: 1.0
 Codename: ios
@@ -8,3 +8,10 @@ Components: main
 Description: 个人越狱插件源（暂未添加插件）
 SileoFeatured: https://Diandianyyy.github.io/diandian1314/sileo-featured.json
 Priority: -999999
+Date: Wed, 25 Nov 2026 18:02:40 GMT
+SHA256:
+ 2cabc2aa6fc326e51f8562f416032d5a377190f48bb9e76dd607b9f5e5c6593f            74206 Packages
+ 714060651cbd5c5b99a80adec6990b48b06df9103c30b4a8422063eda591a56c            21990 Packages.bz2
+ 58add0541cfc39e085f59f887ca7ba2f4ab4d6ff9f44bc63e6fe862780040c6f            24655 Packages.gz
+ 66ba9c2e6c721831cf3ded98c71119e5545253e8ddfc67614010ac7a4df6741a            21392 Packages.xz
+ 07ead7c5fe41eaa5a3300285ac8acb40347e82e1f9ca5dc67693c134a46df395            24512 Packages.zst

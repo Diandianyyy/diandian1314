@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Build APT indexes from private AList files using per-file download signatures."""
 import bz2
+from email.utils import formatdate
 import getpass
 import gzip
 import hashlib
@@ -90,6 +91,39 @@ def download_url(path, sign):
         raise ValueError("A non-expiring per-file signature is required: " + path)
     return BASE + "/d" + urllib.parse.quote(path, safe="/") + "?sign=" + urllib.parse.quote(sign, safe="")
 
+def apt_filename(path, sign):
+    download_url(path, sign)  # Validate the permanent per-file signature.
+    if any(c in path + sign for c in "\r\n?#"):
+        raise ValueError("Unsupported character in package path or signature: " + path)
+    # APT joins Filename to the source URI and performs URI encoding itself.
+    return "d" + path + "?sign=" + sign
+
+
+def cloud_path(filename):
+    if filename.startswith("d/"):
+        return filename[1:].split("?sign=", 1)[0]
+    path = urllib.parse.unquote(urllib.parse.urlparse(filename).path)
+    if path.startswith("/d/"):
+        return path[2:]
+    if path.startswith("debs/"):
+        return ROOT + "/" + path[5:]
+    return path
+
+
+def release_bytes(files, original):
+    fields = package_fields(original)
+    hashes = "\n" + "\n".join(
+        f" {hashlib.sha256(data).hexdigest()} {len(data):16d} {name}"
+        for name, data in sorted(files.items()))
+    if fields.get("SHA256") == hashes and fields.get("Date"):
+        return original.encode("utf-8")
+    for key in ("Date", "MD5Sum", "SHA1", "SHA256", "SHA512"):
+        fields.pop(key, None)
+    fields["Date"] = formatdate(usegmt=True)
+    fields["SHA256"] = hashes
+    return ("\n".join(f"{key}: {value}" if not value.startswith("\n")
+                      else f"{key}:{value}" for key, value in fields.items()) + "\n").encode("utf-8")
+
 
 def package_fields(payload):
     fields = {}
@@ -114,6 +148,7 @@ def write_indexes(paragraphs):
     files["Packages.xz"] = subprocess.check_output(["xz", "-c", "-6"], input=payload)
     # Keep zstd generation compatible with the existing phone command.
     files["Packages.zst"] = subprocess.check_output(["zstd", "-q", "-c"], input=payload)
+    files["Release"] = release_bytes(files, Path("Release").read_text(encoding="utf-8"))
     for name, data in files.items():
         tmp = Path(name + ".cloud-new")
         tmp.write_bytes(data)
@@ -143,11 +178,7 @@ def main():
             entry = package_fields(paragraph)
             filename = entry.get("Filename", "")
             if filename:
-                path = urllib.parse.unquote(urllib.parse.urlparse(filename).path)
-                if path.startswith("/d/"):
-                    path = path[2:]
-                if path.startswith("debs/"):
-                    path = ROOT + "/" + path[5:]
+                path = cloud_path(filename)
                 previous[path] = entry.get("SHA256")
     next_cache, paragraphs = {}, []
     current_hashes = {}
@@ -174,7 +205,7 @@ def main():
             # compression fails. Only complete, verified metadata is cached.
             cache[path] = {"stamp": stamp, "fields": fields.copy()}
             save_cache(cache_path, cache)
-        fields["Filename"] = url
+        fields["Filename"] = apt_filename(path, info.get("sign", ""))
         current_hashes[path] = fields["SHA256"]
         if path not in previous:
             print(f"新增：{path.removeprefix(ROOT + '/')}", flush=True)

@@ -6,7 +6,7 @@ import os
 import subprocess
 import sys
 
-INDEXES = ["Packages", "Packages.bz2", "Packages.gz", "Packages.xz", "Packages.zst"]
+INDEXES = ["Packages", "Packages.bz2", "Packages.gz", "Packages.xz", "Packages.zst", "Release"]
 
 
 def sync_local_path(name):
