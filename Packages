@@ -1247,6 +1247,114 @@ SHA1: c694828894cc89b2af4971cc8422f4c36101ef69
 SHA256: b9a2259b9b8cc0361830c24a002a97fde5d14d31da0d65379ab1ad75be3e2f4a
 Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/com.yuyi.screenshot_0.1_iphoneos-arm64.deb?sign=HUJEGMRtUEqBTq8dodSZHy5bX7XuHtAUGLGJSS9Jc8A%3D%3A0
 
+Package: com.wkk.copylogx
+Name: CopylogX
+Description: cool
+Maintainer: wkk
+Author: wkk
+Section: Tweaks
+Depends: firmware (>= 15.0), firmware (<< 18.0), mobilesubstrate, preferenceloader
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Architecture: iphoneos-arm64
+Version: 1.2-7
+Installed-Size: 2740
+Size: 875612
+MD5sum: 70f0d0d848b54524f960fab05fa37353
+SHA1: 8d37d8bc4b002c0364b72e4bbe4ff99a589b2ecf
+SHA256: fdbd1f3052d78518ca09e8616523518b469d415c28510ad7562ab8fd60b9dcaa
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/copylogx_1.2-7_iphoneos-arm64.deb?sign=dDRbXteNml0qLrJkDUelyraDQh_14pX_u49CQmlP5Sk%3D%3A0
+
+Package: com.wkk.copylogx
+Name: CopylogX
+Description: cool
+Maintainer: wkk
+Author: wkk
+Section: Tweaks
+Depends: firmware (>= 15.0), firmware (<< 18.0), mobilesubstrate, preferenceloader
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Architecture: iphoneos-arm64e
+Version: 1.2-7
+Installed-Size: 2724
+Size: 872134
+MD5sum: 651af390c99a455907877f890cec9d75
+SHA1: 8ec846726b077942c77ec0bf9a822cb1581b303b
+SHA256: 8808e703538ade597e615ff258634efddf97edf1c78a73bd52ade29757db0624
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/copylogx_1.2-7_iphoneos-arm64e.deb?sign=2ik9_pesCxtLtgTz4pz4IdCVaK8CqdG7fp9JBbmi_zM%3D%3A0
+
+Package: com.wkk.cornerfanx
+Name: CornerFanX
+Description: cool
+Maintainer: wkk
+Author: wkk
+Section: Tweaks
+Depends: firmware (>= 15.0), firmware (<< 18.0), mobilesubstrate, preferenceloader
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Architecture: iphoneos-arm64
+Version: 1.1-7
+Installed-Size: 748
+Size: 108848
+MD5sum: be5b0ea310782299e54d056f89291ad5
+SHA1: c7030732ee2238e794c12c0d7f09abeec8e025cb
+SHA256: e7c9a30d262e3b01c1116be3c104a7e4ea8d7792c5ba621f32af73aab4efd88f
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/cornerfanx_1.1-7_iphoneos-arm64.deb?sign=JNiAMxg3UUTKTaNsygKHAvToZ5eBJVUa1ECEFjWli0I%3D%3A0
+
+Package: com.wkk.cornerfanx
+Name: CornerFanX
+Description: cool
+Maintainer: wkk
+Author: wkk
+Section: Tweaks
+Depends: firmware (>= 15.0), firmware (<< 18.0), mobilesubstrate, preferenceloader
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Architecture: iphoneos-arm64e
+Version: 1.1-7
+Installed-Size: 748
+Size: 108502
+MD5sum: fae7fc04f87e8b84acc5ce0f89915a9f
+SHA1: a4038afe4e2cb9e12adf75d10e5099e26ea8f803
+SHA256: e371083d58adb1214d024cc11740f22e2243a308dfe113db7667f34e9172999e
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/cornerfanx_1.1-7_iphoneos-arm64e.deb?sign=ZzWTpXB6fux8zUImp8xHlQw6vgu6GzL1N9G5qxB5qhs%3D%3A0
+
+Package: com.wkk.driftx
+Name: DriftX
+Description: 锁屏特效，效果任选，无用请卸载。
+Maintainer: wkk
+Author: wkk
+Section: Tweaks
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Conflicts: com.wkk.screenfarewell
+Replaces: com.wkk.screenfarewell
+Provides: com.wkk.screenfarewell
+Architecture: iphoneos-arm64
+Version: 1.0-4
+Installed-Size: 624
+Size: 73818
+MD5sum: e22c1b1b588790d3014e5c2495cbff25
+SHA1: 9688f405d286eddd514daa29ca0a314403181568
+SHA256: 518961f8332b4e8167722b8af936dbc36ede3cfc3e7405d31f051b8af3019850
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/driftx_1.0-4_iphoneos-arm64.deb?sign=NWi5cn5wzyNFRPPlbG3XaU5VspWsWEiS2yEOmfmvq98%3D%3A0
+
+Package: com.wkk.driftx
+Name: DriftX
+Description: 锁屏特效，效果任选，无用请卸载。
+Maintainer: wkk
+Author: wkk
+Section: Tweaks
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Conflicts: com.wkk.screenfarewell
+Replaces: com.wkk.screenfarewell
+Provides: com.wkk.screenfarewell
+Architecture: iphoneos-arm64e
+Version: 1.0-4
+Installed-Size: 624
+Size: 73652
+MD5sum: 3b966d0d6e90d947b6d99875682bcf06
+SHA1: c782deb040948394015152853bf6a5f12275123f
+SHA256: d6751d15b0f222470508b8a249208c7b201908c68af0b666ead5c7d8023274bd
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/driftx_1.0-4_iphoneos-arm64e.deb?sign=_bGRG9X-rAb0uw7j1s4vXkMQqll5Xu9dkaYoN1jVBtA%3D%3A0
+
 Package: com.jz.fz
 Name: Fenzu
 Description: 侧边栏分组
@@ -1265,6 +1373,246 @@ SHA1: f852ef16044a2ecbf6ca06dafb93d0a8cf9f1c93
 SHA256: 9841117b8a205f0561e97f21680ec3f7b233ff10365a77f2c83a5efc16935f3c
 Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/fz_5.9.0-2-debug-nogroup.deb?sign=pR-tzZwFoLnLVH1wfsmeXgKhAmcwAOI4v5gS_2x7Grk%3D%3A0
 
+Package: com.wkk.glasssuitex
+Name: GlasscapeX
+Description: cool
+Maintainer: wkk
+Author: wkk
+Section: Tweaks
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Depends: firmware (>= 15.0), firmware (<< 18.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: wiki.qaq.duostatusring
+Architecture: iphoneos-arm64
+Version: 1.5-6
+Installed-Size: 4644
+Size: 988484
+MD5sum: 8867d36ca72f3bc668325bffcbd7e3a9
+SHA1: 5eefc866861039cacd673d68d96e1a2dbbff34b8
+SHA256: ad28d41dfea22daef6b16475554248208e9356cfa59f2ccbdcdfad6838132b77
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/glasssuitex_1.5-6_iphoneos-arm64.deb?sign=NSNsx1bhg1lKBx0SF0KP3blScSgBvA91jZgWCIWlJhQ%3D%3A0
+
+Package: com.wkk.glasssuitex
+Name: GlasscapeX
+Description: cool
+Maintainer: wkk
+Author: wkk
+Section: Tweaks
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Depends: firmware (>= 15.0), firmware (<< 18.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: wiki.qaq.duostatusring
+Architecture: iphoneos-arm64e
+Version: 1.5-6
+Installed-Size: 4644
+Size: 990772
+MD5sum: 2ff75b9af1777d9dcb5326b85079923a
+SHA1: 1d9a20ebf931a0262de065a1ce3390298a98f7ff
+SHA256: 635a550f2276f23878688e90790e4e7892f5b43bc2b8002e08a43a1a62ff7dd0
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/glasssuitex_1.5-6_iphoneos-arm64e.deb?sign=y-QF_-iX1uU-9oAa05CLWU8yo4MZk3TwAk0Izt2nqj0%3D%3A0
+
+Package: com.wkk.islandstayx
+Name: IslandStayX
+Description: cool
+Maintainer: wkk
+Author: wkk
+Section: Tweaks
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Depends: mobilesubstrate, preferenceloader, firmware (>= 16.0), firmware (<< 18.0)
+Architecture: iphoneos-arm64
+Version: 1.1-1
+Installed-Size: 624
+Size: 132542
+MD5sum: bb87244514c4099bb2e245f1f670006f
+SHA1: c6ab147bb57bb5b3f39ea234eabc2ae36ccb5b5e
+SHA256: db2f5246a29978b8dc198b50928bd04c9d80658f095948a4e09a65cee8add41b
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/islandstayx_1.1-1_iphoneos-arm64.deb?sign=MBxu_AhFfuxE0z0E-OUrBqgOgiP61jBiXCy8jQi5O18%3D%3A0
+
+Package: com.wkk.islandstayx
+Name: IslandStayX
+Description: cool
+Maintainer: wkk
+Author: wkk
+Section: Tweaks
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Depends: mobilesubstrate, preferenceloader, firmware (>= 16.0), firmware (<< 18.0)
+Architecture: iphoneos-arm64e
+Version: 1.1-1
+Installed-Size: 624
+Size: 132756
+MD5sum: b707ece0478edba47ab90651fc82e6ac
+SHA1: d158bc0cd6d5d2ee2305291d1c628887f09c8504
+SHA256: 75aa36d53a42a6e2765193516a753c876e1159173fa434da28a62687dcc54135
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/islandstayx_1.1-1_iphoneos-arm64e.deb?sign=APUB9yOAXBibEegvHzrmCm619o-lgKVT3Iu6uz6KRdY%3D%3A0
+
+Package: com.wkk.keyboardx
+Name: KeyboardX
+Description: cool
+Maintainer: wkk
+Author: wkk
+Section: Tweaks
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Architecture: iphoneos-arm64
+Version: 1.2-2end
+Installed-Size: 604
+Size: 76436
+MD5sum: bf653d6149ded0617048d04a5af76415
+SHA1: d64e0e70f601d7793147f7226edf3c57773e1b5a
+SHA256: 4b343a550adb8f3676883994f1743334fe52bb27dc2b769524377829838643ca
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/keyboardx_1.2-2end_iphoneos-arm64.deb?sign=bpUrXs0rWfA8fPgi0r99djgyjN-TZGhVlyrzgVpUX2A%3D%3A0
+
+Package: com.wkk.keyboardx
+Name: KeyboardX
+Description: cool
+Maintainer: wkk
+Author: wkk
+Section: Tweaks
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Architecture: iphoneos-arm64e
+Version: 1.2-2end
+Installed-Size: 568
+Size: 74474
+MD5sum: 87edbdc98cf398213c53ac02fb8a9466
+SHA1: cb4fa5fbe7a9b0730e79f6bfb1e38a6bf7084614
+SHA256: c2e6652c5d221ad2b8eee4b3d24204e2a557257d2a849f266cb96c411c891085
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/keyboardx_1.2-2end_iphoneos-arm64e.deb?sign=QjSkW1N2v9jgtlchhb-XDzX9XSOUDsoJZrtt9wMGbo8%3D%3A0
+
+Package: com.wkk.keytoolsx
+Name: KeyToolsX
+Description: cool
+Maintainer: wkk
+Author: wkk
+Section: Tweaks
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm64
+Version: 1.1-4
+Installed-Size: 9928
+Size: 2505912
+MD5sum: 35c19168e19d6bcc6f4ebdf4f3d4f0e6
+SHA1: b36f62049e4c1bcf67c030a2e854ae8ddf5fbaa3
+SHA256: 1964e70289443efa7e53d92d7f9a79117c5ffa6c2cf41f6c6be4894c1dca9791
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/keytoolsx_1.1-4_iphoneos-arm64.deb?sign=mKbdd_Wej-kEh2PLgXnpQy4TnwVESwVNbmqL_YF0HFI%3D%3A0
+
+Package: com.wkk.keytoolsx
+Name: KeyToolsX
+Description: cool
+Maintainer: wkk
+Author: wkk
+Section: Tweaks
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm64e
+Version: 1.1-4
+Installed-Size: 9928
+Size: 2505242
+MD5sum: 9cf67d5bfdbe80c1e28ffa45843b709f
+SHA1: f57428c9f813bf499cbd46944800d7e6bc556658
+SHA256: a2e864bbb00b7a3377e168ba6b8198f8bf62604de7c2219894b173d8c6e2192f
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/keytoolsx_1.1-4_iphoneos-arm64e.deb?sign=OQFqvshurTZMdySKxortofwyGXyj_cE_kZFlxK3DIe8%3D%3A0
+
+Package: com.wkk.modelx
+Name: ModelX
+Description: cool
+Maintainer: wkk
+Author: wkk
+Section: Tweaks
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm64
+Version: 1.0-2
+Installed-Size: 432
+Size: 38894
+MD5sum: 15aaf3a610ff3414d3b462cfc927f39c
+SHA1: 9d9a17366d66145be3d6544475ee730e91daecab
+SHA256: 6898ead85f1b1a7a84d0ab5936e58faaa031a3e97ffb3b7bf81f93e139e573e4
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/modelx_1.0-2_iphoneos-arm64.deb?sign=x9IO-8Z68l-QeGLZTZqZZ52smnnXPV8hw27ONyXBQyY%3D%3A0
+
+Package: com.wkk.modelx
+Name: ModelX
+Description: cool
+Maintainer: wkk
+Author: wkk
+Section: Tweaks
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm64e
+Version: 1.0-2
+Installed-Size: 432
+Size: 37028
+MD5sum: 3eab73c2aa8b3b55a040ab0acbb94142
+SHA1: b108aba9ac6714dfc570ae799df092ec6aae1e54
+SHA256: d80ed13b6738b1f329c726661729ca23eb0c9a22e73a89fb08c7475bd628d1f8
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/modelx_1.0-2_iphoneos-arm64e.deb?sign=-E14JaZn9ySsD-TJte8Y0Hkt7QdpLyRTziPkQGeIVsI%3D%3A0
+
+Package: com.wkk.notifytonex
+Name: NotifyToneX
+Description: cool
+Maintainer: wkk
+Author: wkk
+Section: Tweaks
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Depends: firmware (>= 15.0), firmware (<< 18.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm64
+Version: 1.0-8
+Installed-Size: 5520
+Size: 2557278
+MD5sum: 5ec6529630d1f35f543833eb49206c37
+SHA1: 0b999b95f6eaa719b4aae055b0dc189512402195
+SHA256: 017ab59808a63c90a0e68f960e0f609d5f2922336f5a7fcf147b7097d2c8504c
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/notifytonex_1.0-8_iphoneos-arm64.deb?sign=WbQTRPIBkluAAcXJFWLs-yrDMkvXWYgl_P7Q1nltMko%3D%3A0
+
+Package: com.wkk.notifytonex
+Name: NotifyToneX
+Description: cool
+Maintainer: wkk
+Author: wkk
+Section: Tweaks
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Depends: firmware (>= 15.0), firmware (<< 18.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm64e
+Version: 1.0-8
+Installed-Size: 5520
+Size: 2547946
+MD5sum: c8ae3f0bea0d2e7b9b33b2a17efc9498
+SHA1: ebd09696a69b9e7db3284de61b7698772bc0df3f
+SHA256: 39a69bad606e664a523d49deccf78f6aeb2b71d6d36b99c8d31cbedba41872c5
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/notifytonex_1.0-8_iphoneos-arm64e.deb?sign=grgW2sf6bZMSlwbuAKDinUMkMj2mNZv5OtYnu7Lras4%3D%3A0
+
+Package: com.wkk.onestepx
+Name: OneStepX
+Description: cool
+Maintainer: wkk
+Author: wkk
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Architecture: iphoneos-arm64
+Version: 1.4-0
+Installed-Size: 1396
+Size: 208466
+MD5sum: 6f9dcdbbe56e30bf2a6764b20694da77
+SHA1: 153ab6718bd668d0b3cba8ac0fea1580373eba05
+SHA256: c576ebfe48ec674579c03381bd372387798c306482ea8959c72debf4a40d373c
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/onestepx_1.4-0_iphoneos-arm64.deb?sign=yCQn3ZoglBcs3c4_SHT6joE-VMS4kKM2CE0j7uCzEW4%3D%3A0
+
+Package: com.wkk.onestepx
+Name: OneStepX
+Description: cool
+Maintainer: wkk
+Author: wkk
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Architecture: iphoneos-arm64e
+Version: 1.4-0
+Installed-Size: 1396
+Size: 206424
+MD5sum: 5a080cccb5c8404664388c738af24723
+SHA1: 7200159ed6c2a51e68a0b2b85169ceb580d4925f
+SHA256: f9ab085b97460a0c8fb02c13d053581671bab0e86eb0f4a70d44e44e071cb52c
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/onestepx_1.4-0_iphoneos-arm64e.deb?sign=MyGuwOswY0KXDURU44B2aU8EMxE9vBzKloIEWuuPk3c%3D%3A0
+
 Package: org.coolstar.sileo
 Name: Sileo
 Version: 2.5.1-15
@@ -1281,6 +1629,176 @@ MD5sum: 223065edb86f312f225fa05d63c7b0e5
 SHA1: 58138c083be00b2821a6115cfdb80ed548ba236b
 SHA256: a6f587bf5f4be5bd79a43d463b64b8386670420b6a0acfb1f9004bb6545ce82b
 Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/org.coolstar.sileo_2.5.1-15_iphoneos-arm64e.deb?sign=meJV2wrFEMpnfB6ksdCjv9i7oKi4pwSexknE0PoWBTk%3D%3A0
+
+Package: com.wkk.recordeyex
+Name: RecordEyeX
+Description: cool
+Maintainer: wkk
+Author: wkk
+Section: Tweaks
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Architecture: iphoneos-arm64
+Version: 1.0-9
+Installed-Size: 720
+Size: 113984
+MD5sum: eb7ce9059e0bd4f171cc42866b97e90f
+SHA1: b03d0a7ed02096671443c45c39e062e7fc64cb0c
+SHA256: 2814c85cfa0ce38fae7754e4d5e7638b47acd3c271807cf4d8b71788dafdd9ae
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/recordeyex_1.0-9_iphoneos-arm64.deb?sign=jlBFpaffqjbNfRBnB4qOAFHourTZart7s2Jl5tu6wsc%3D%3A0
+
+Package: com.wkk.recordeyex
+Name: RecordEyeX
+Description: cool
+Maintainer: wkk
+Author: wkk
+Section: Tweaks
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Architecture: iphoneos-arm64e
+Version: 1.0-9
+Installed-Size: 720
+Size: 112642
+MD5sum: 216bceb94bc0e5e8b9ec70dcb64db768
+SHA1: 281d91b18bf947ee1d42c6832d42589a6a2605b4
+SHA256: 827942d67b7c19786c374f2a3ab637d2f791013e0b8c6a35a98ad6dec44b2e02
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/recordeyex_1.0-9_iphoneos-arm64e.deb?sign=zx2fQtmvRHvm1yAKk5a-HDAMhozrito1J_8wiS-1pYY%3D%3A0
+
+Package: com.wkk.settingsgroupx
+Name: SettingsGroupX
+Description: cool
+Maintainer: wkk
+Author: wkk
+Section: Tweaks
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Architecture: iphoneos-arm64
+Version: 1.0-6
+Installed-Size: 872
+Size: 141878
+MD5sum: 1714012b4b20fdecd0b238a948387720
+SHA1: aa9de9145a67da74af827cdd05fb3928850ba66b
+SHA256: f41d9b986bb15280e79b7a7b90708075fab0522ad470ef3023b7682a149ceda5
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/settingsgroupx_1.0-6_iphoneos-arm64.deb?sign=dceoZxw_EPVqHV1K1-_E3P2AHdApFHsP_A6uPRxJt8s%3D%3A0
+
+Package: com.wkk.settingsgroupx
+Name: SettingsGroupX
+Description: cool
+Maintainer: wkk
+Author: wkk
+Section: Tweaks
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Architecture: iphoneos-arm64e
+Version: 1.0-6
+Installed-Size: 856
+Size: 140474
+MD5sum: d02d2eb7a6d595786c33b6a1d9910a28
+SHA1: 9e091000d6e373d907966d5a8aa3d84f0a005c11
+SHA256: 900b8e4a8cd044b3a9909779944bcb569bd0f6d94bb4ff9c8de30ad4f3fc9a41
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/settingsgroupx_1.0-6_iphoneos-arm64e.deb?sign=Idx0J9N9sV6mADvcBCfWh_W92m2a3wPigBp4woPbl_c%3D%3A0
+
+Package: com.wkk.sileoextensions
+Name: Sileo 扩展
+Description: cool
+Maintainer: wkk
+Author: wkk
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Architecture: iphoneos-arm64
+Version: 1.0-5
+Installed-Size: 904
+Size: 182140
+MD5sum: 78b69c01219c6b546f85935b07a1cc80
+SHA1: db57568783271ca509b052bf8bd5cbfe923a61cf
+SHA256: 3ce6419ce032f85d157948cc633708d14e476493852720b458ecba8b90878e2e
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/sileoextensions_1.0-5_iphoneos-arm64.deb?sign=noyi22gx5L4mpUJJRaN7gfnSU1k9A0vVCGVbDaOVl0U%3D%3A0
+
+Package: com.wkk.sileoextensions
+Name: Sileo 扩展
+Description: cool
+Maintainer: wkk
+Author: wkk
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Architecture: iphoneos-arm64e
+Version: 1.0-5
+Installed-Size: 904
+Size: 180914
+MD5sum: 2b08ac5ffe4be5b5dd3626599ff218c6
+SHA1: ff5ab8927cfd3a50f2aa5027a009671c89696180
+SHA256: 10b5350ad13df2d0ab1ad3e447c6b75d22d3fc291164f46571b8b76f6088b9aa
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/sileoextensions_1.0-5_iphoneos-arm64e.deb?sign=XhY7tqIJbRB0Vo0vWlMYZxIlGOifzdxXbj1jiiToYVE%3D%3A0
+
+Package: com.wkk.sparkx
+Name: SparkX
+Description: cool
+Maintainer: wkk
+Author: wkk
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Architecture: iphoneos-arm64
+Version: 1.1-6
+Installed-Size: 892
+Size: 113490
+MD5sum: f6f52e4e7ce7c895c00f44f43e2ab259
+SHA1: 6260013ac07fed87136b7072414eab32e80d359e
+SHA256: 23b7752f29b6ee7583949b61e00dd5a4e5ce61197000db2c35790e3aba724dff
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/sparkx_1.1-6_iphoneos-arm64.deb?sign=TZVElEW9pcHe6vKStDGMxBeYN3FmRIVMorIkFTeEzAE%3D%3A0
+
+Package: com.wkk.sparkx
+Name: SparkX
+Description: cool
+Maintainer: wkk
+Author: wkk
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Architecture: iphoneos-arm64e
+Version: 1.1-6
+Installed-Size: 892
+Size: 113054
+MD5sum: abbca1c6a55514a05f058c48eb4bdd20
+SHA1: ab66a849b24871885fd4358c9c53425ca2b828cc
+SHA256: ba6d263500eb6fec4f2d0820c31b3aa4b0059bfe01145a723c1fa9813a4b0415
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/sparkx_1.1-6_iphoneos-arm64e.deb?sign=HBSCTmfAcE9ay-rCME1ZOABCAY2Q7z3siU2p_bDgVj0%3D%3A0
+
+Package: com.wkk.systembox
+Name: SystemX
+Description: cool
+Maintainer: wkk
+Author: wkk
+Section: Tweaks
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm64
+Version: 1.8-3
+Installed-Size: 2160
+Size: 419342
+MD5sum: f427da2806fbda97adfb4f3ed701079b
+SHA1: d6e0c46a35dbd79d91fea7f923e4c49aadb6bd7b
+SHA256: 57f16bcd0197071c4ec7a82d9c671349cf07473cbc33f0eaa4fd3b05339b4b23
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/systembox_1.8-3_iphoneos-arm64.deb?sign=7dIsXhF7hfdWrC5LjMhO0kKCiu1XMQ7zbagYJmSVyMs%3D%3A0
+
+Package: com.wkk.systembox
+Name: SystemX
+Description: cool
+Maintainer: wkk
+Author: wkk
+Section: Tweaks
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm64e
+Version: 1.8-3
+Installed-Size: 2144
+Size: 415372
+MD5sum: 7ee3387dfaec669478acfcfa6b554ea9
+SHA1: 254ffbfae7aad81dbfe24286413d2ba9711d9cd1
+SHA256: f405d8d669dec95d99fa982cf3d96b2701b7a96c347000a11fd75b60e58c9076
+Filename: https://alist.diandianderaunjianyuan.top/d/%E7%A7%BB%E5%8A%A8%E4%BA%91ipa%E5%BA%93/debs/systembox_1.8-3_iphoneos-arm64e.deb?sign=aioxOm_md9RwnC9FZKxzhaK19Ra6wwbXLEgmL77q4iY%3D%3A0
 
 Package: xyz.cypwn.akara.rootless
 Architecture: iphoneos-arm64e
