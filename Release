@@ -8,10 +8,10 @@ Components: main
 Description: 个人越狱插件源（暂未添加插件）
 SileoFeatured: https://Diandianyyy.github.io/diandian1314/sileo-featured.json
 Priority: -999999
-Date: Wed, 25 Nov 2026 18:17:15 GMT
+Date: Wed, 25 Nov 2026 19:20:21 GMT
 SHA256:
  ababfe0c344b833f5c3969096de126e4f7c7438677df531e28781f4fc4ab7af0            74658 Packages
  eb8a18c83e386bd6b94d02c4b4f385a09f0b329fdc9f44ee87977b274bceb19f            21981 Packages.bz2
- ed0724dfebcb1410a1b5c60f6fc4ec8822b8e5c9059f1a99262169710b68939e            24700 Packages.gz
+ 11fbed49f38245f2212c9ac375ce6617d9fc491698cc74f6454712157733fd0f            24700 Packages.gz
  9a4fa00173bd16814b8ec8593f868683c1ce879f0ca0a476b5fbcf8e5e699f60            21336 Packages.xz
- ab65a3fc9113c98d21a17dd55cc72cdd8c69b7b68fbe2b12ead61079b1f799cf            24482 Packages.zst
+ b39efa51e0526d01ea87c984652cbb594faded674ce6c0759fa05b7425d3b53e            24477 Packages.zst
