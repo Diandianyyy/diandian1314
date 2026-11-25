@@ -95,11 +95,16 @@ def apt_filename(path, sign):
     download_url(path, sign)  # Validate the permanent per-file signature.
     if any(c in path + sign for c in "\r\n?#"):
         raise ValueError("Unsupported character in package path or signature: " + path)
-    # APT joins Filename to the source URI and performs URI encoding itself.
-    return "d" + path + "?sign=" + sign
+    if not re.fullmatch(r"[-_A-Za-z0-9=]+:0", sign):
+        raise ValueError("Unsupported package signature format: " + path)
+    # Sileo appends Filename as a path component, escaping question marks.
+    # Keep the signature in the path; the source redirect restores the query.
+    return "cloud/" + sign + "/file" + path
 
 
 def cloud_path(filename):
+    if filename.startswith("cloud/"):
+        return "/" + filename.split("/file/", 1)[1]
     if filename.startswith("d/"):
         return filename[1:].split("?sign=", 1)[0]
     path = urllib.parse.unquote(urllib.parse.urlparse(filename).path)
