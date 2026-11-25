@@ -2,3 +2,6 @@ debs/
 __pycache__/
 *.py[cod]
 *.cloud-new
+deb/
+*.deb
+*.DEB
