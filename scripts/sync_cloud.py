@@ -122,12 +122,21 @@ def release_bytes(files, original):
         for name, data in sorted(files.items()))
     if fields.get("SHA256") == hashes and fields.get("Date"):
         return original.encode("utf-8")
-    for key in ("Date", "MD5Sum", "SHA1", "SHA256", "SHA512"):
-        fields.pop(key, None)
-    fields["Date"] = formatdate(usegmt=True)
-    fields["SHA256"] = hashes
-    return ("\n".join(f"{key}: {value}" if not value.startswith("\n")
-                      else f"{key}:{value}" for key, value in fields.items()) + "\n").encode("utf-8")
+    # Preserve source identity and other custom fields exactly, including Unicode
+    # spacing before a display name. Only generated metadata is replaced.
+    generated = {"Date", "MD5Sum", "SHA1", "SHA256", "SHA512"}
+    kept = []
+    skip = False
+    for line in original.splitlines(keepends=True):
+        if not line.startswith((" ", "\t")):
+            skip = line.partition(":")[0] in generated
+        if not skip:
+            kept.append(line)
+    prefix = "".join(kept)
+    if prefix and not prefix.endswith("\n"):
+        prefix += "\n"
+    return (prefix + "Date: " + formatdate(usegmt=True) +
+            "\nSHA256:" + hashes + "\n").encode("utf-8")
 
 
 def package_fields(payload):
