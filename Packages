@@ -1077,6 +1077,40 @@ SHA1: 6abcd6143a1fa2a6f7e0ce0ee6a430be116c1b0c
 SHA256: 443fe8239a691db435fe1e4872e0e6cbdc12d9565b5cecc3ab8a15528cb9b844
 Filename: cloud/M9t8o3DNl0Ru2egLQZgE8PRm5GX6pTcxkL-MwmfQeis=:0/file/移动云ipa库/debs/com.wkk.recordeyex_1.0-5_iphoneos-arm64e.deb
 
+Package: com.wkk.sileoextensions
+Name: Sileo 扩展
+Description: 禁用黄字提醒/禁用商店分割线/禁用源自动刷新/软件源置顶/软件源搜索/安装包下载/更新项忽略/软件源打码/备份与恢复/隐藏已安装依赖/插件热开关/插件加备注/插件长截图/详情页翻译
+Maintainer: wkk
+Author: wkk
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Architecture: iphoneos-arm64
+Version: 1.1-2
+Installed-Size: 1052
+Size: 217652
+MD5sum: 2e7bb97e4bb0a9b03c2400ba53d7980b
+SHA1: 7a65a27333e4e9f8f429b54c5f4b6614975f6db4
+SHA256: bd062850b22dd85648de980a7618b905bae0dbcc16635706f5034dc5eedc3b27
+Filename: cloud/qIB9sKXAKQibbo5Vu6fy7h-1VmGIXQAP7Y91YacEl5Q=:0/file/移动云ipa库/debs/com.wkk.sileoextensions_1.1-2_iphoneos-arm64.deb
+
+Package: com.wkk.sileoextensions
+Name: Sileo 扩展
+Description: 禁用黄字提醒/禁用商店分割线/禁用源自动刷新/软件源置顶/软件源搜索/安装包下载/更新项忽略/软件源打码/备份与恢复/隐藏已安装依赖/插件热开关/插件加备注/插件长截图/详情页翻译
+Maintainer: wkk
+Author: wkk
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Architecture: iphoneos-arm64e
+Version: 1.1-2
+Installed-Size: 1052
+Size: 217782
+MD5sum: 4a6c2cba3d019e5d2c47a3ef5ae8e2c4
+SHA1: 26a04670ab4e48c200535274847c9b8e86aa81db
+SHA256: 3c4991ad0b1bd2ff8cd490e0ece48e3b6519ebfa1c070655392496a93ab3425f
+Filename: cloud/kMRegmJYXQvX3VY44ICj-7v6_Y3Fli_BY0krOftIVwo=:0/file/移动云ipa库/debs/com.wkk.sileoextensions_1.1-2_iphoneos-arm64e.deb
+
 Package: com.wkk.systembox
 Name: SystemX
 Description: cool

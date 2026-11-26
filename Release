@@ -8,10 +8,10 @@ Components: main
 Description: 个人越狱插件源（暂未添加插件）
 SileoFeatured: https://Diandianyyy.github.io/diandian1314/sileo-featured.json
 Priority: -999999
-Date: Wed, 25 Nov 2026 19:20:21 GMT
+Date: Thu, 26 Nov 2026 05:41:35 GMT
 SHA256:
- ababfe0c344b833f5c3969096de126e4f7c7438677df531e28781f4fc4ab7af0            74658 Packages
- eb8a18c83e386bd6b94d02c4b4f385a09f0b329fdc9f44ee87977b274bceb19f            21981 Packages.bz2
- 11fbed49f38245f2212c9ac375ce6617d9fc491698cc74f6454712157733fd0f            24700 Packages.gz
- 9a4fa00173bd16814b8ec8593f868683c1ce879f0ca0a476b5fbcf8e5e699f60            21336 Packages.xz
- b39efa51e0526d01ea87c984652cbb594faded674ce6c0759fa05b7425d3b53e            24477 Packages.zst
+ 07324e77c7d31cb39b95ecf8e70b1ccc3063901ca39299b858dd962d64c0fb54            76410 Packages
+ 9eacb49b5dd59cd4935dc489a5a3215137144236b1508e50684cbfcfd5ab4153            22390 Packages.bz2
+ a0898c8e62b8e66d47d8aeef47a595369280171f50914411eefa48e405a05b70            25197 Packages.gz
+ fbfd7bc636d5fd70f4301fa7b9baa86411f5b62a289b56eb55eec349b6f83481            21752 Packages.xz
+ 88ac38515cfea834e105268ca0b9784d64b358f45764904ec6c38a39685beaa3            24954 Packages.zst
