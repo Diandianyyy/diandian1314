@@ -66,6 +66,28 @@ SHA1: 9dd9ef9071d452a9192c3ef7db9c9c5873d3694a
 SHA256: 0a7ecadb993c70a6e298f8d7d459c50aaa6125a5f0717f044cb107090eeee83c
 Filename: cloud/ne88V2wjJH3Sxg5x8E6FX07kDTTdHcUwOk9aRkKnykY=:0/file/移动云ipa库/debs/QQRainbowCandy_1.52_rootless_iphoneos-arm64.deb
 
+Package: local.qqallinone.control
+Name: QQ彩虹糖
+Version: 1.58
+Architecture: iphoneos-arm64
+Maintainer: Hao
+Author: Hao
+Section: Tweaks
+Icon: file:///var/jb/Library/Application%20Support/QQRainbowCandy/icon.png
+Description: QQ 增强：防撤回、语音保存、点歌、文字转语音、机型模拟、空间去广告
+ 面向 QQ 9.3.78 的增强插件。防撤回覆盖群主与管理员撤回他人消息；群聊语音可保存；
+ 表情包模板从软件源一键导入，选中即用本人头像合成动图；支持点歌、文字转语音、
+ 55 款 iPhone / iPad / iPod 机型模拟；QQ 空间去广告；素材与语音包独立存放，
+ QQ 升级不丢。
+ .
+ 1.58版本更新说明
+ -解决了一些已知问题。
+Size: 1617790
+MD5sum: 1d326303cbdcbd387dd7cf64a23d49ff
+SHA1: 719fafc0b2e09bf44b465e2c1a1f9e8dd93e0eb9
+SHA256: cc514e8feef3692a1557be6f904337ef10baa29c1e1c2910f2031fe51a16cef1
+Filename: cloud/kn04aPucAayobt2yhjlvKY0tI7av6SM9FLsNFpkp_Qo=:0/file/移动云ipa库/debs/QQRainbowCandy_1.58_rootless_iphoneos-arm64.deb
+
 Architecture: iphoneos-arm64e
 Package: com.wkk.quickprefs
 Name: QuickPrefs
